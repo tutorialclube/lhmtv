@@ -1,2 +1,2 @@
-<script type="text/javascript">largura="100%"; altura="600";  canal="135";</script>
+<script type="text/javascript">largura="100%"; altura="600";  canal="Combate¹";</script>
 <script type="text/javascript" src="http://guiadatv.net/api/request.js"></script>
