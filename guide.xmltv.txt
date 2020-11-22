@@ -1,0 +1,383 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="A&amp;E [Brazil]">
+    <display-name lang="pt">AE ¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AMC [Brazil]">
+    <display-name lang="pt">AMC ¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AXN [Brazil]">
+    <display-name lang="pt">AXD ¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Animal Planet [Brazil]">
+    <display-name lang="pt">Animal Planet ¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Arte 1 [Brazil]">
+    <display-name lang="pt">Arte 1¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Baby TV [Brazil]">
+    <display-name lang="pt">Baby TV</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Bis HD [Brazil]">
+    <display-name lang="pt">BIS¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Band Rede [Brazil]">
+    <display-name lang="pt">Band¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Band News [Brazil]">
+    <display-name lang="pt">Band News¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Band Sports [Brazil]">
+    <display-name lang="pt">Band Sports¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Boomerang [Brazil]">
+    <display-name lang="pt">Boomerang¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Canção Nova [Brazil]">
+    <display-name lang="pt">Canção Nova</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Cartoon Network [Brazil]">
+    <display-name lang="pt">Cartoon Network¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Cinemax [Brazil]">
+    <display-name lang="pt">Cinemax¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Comedy Central [Brazil]">
+    <display-name lang="pt">Comedy Central¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Combate [Brazil]">
+    <display-name lang="pt">Combate¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Home &amp; Health [Brazil]">
+    <display-name lang="pt">Discovery Home Health¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Civilization [Brazil]">
+    <display-name lang="pt">Discovery Civilization</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Channel [Brazil]">
+    <display-name lang="pt">Discovery Channel¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Kids [Brazil]">
+    <display-name lang="pt">Discovery Kids¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Science [Brazil]">
+    <display-name lang="pt">Discovery Science¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery HD Theater [Brazil]">
+    <display-name lang="pt">Discovery Theater¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Disney Channel [Brazil]">
+    <display-name lang="pt">Disney Channel¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Disney Junior [Brazil]">
+    <display-name lang="pt">Disney Junior¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Disney XD [Brazil]">
+    <display-name lang="pt">Disney XD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Turbo [Brazil]">
+    <display-name lang="pt">Discovery Turbo¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="E! Entertainment Television [Brazil]">
+    <display-name lang="pt">E!</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN  HD [Brazil]">
+    <display-name lang="pt">ESPN¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN Brasil [Brazil]">
+    <display-name lang="pt">ESPN Brasil¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Fox [Brazil]">
+    <display-name lang="pt">FOX¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Fox Life [Brazil]">
+    <display-name lang="pt">FOX Life¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Fox Sports [Brazil]">
+    <display-name lang="pt">Fox Sports¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Fox Sports 2 [Brazil]">
+    <display-name lang="pt">FOX Sports 2¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Futura [Brazil]">
+    <display-name lang="pt">Futura¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FX [Brazil]">
+    <display-name lang="pt">FX¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo News [Brazil]">
+    <display-name lang="pt">Globo News¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo - RJ [Brazil]">
+    <display-name lang="pt">Globo RJ¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Gloob [Brazil]">
+    <display-name lang="pt">Gloob¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="GNT [Brazil]">
+    <display-name lang="pt">GNT¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="H2 [Brazil]">
+    <display-name lang="pt">H2¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO [Brazil]">
+    <display-name lang="pt">HBO¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO 2 [Brazil]">
+    <display-name lang="pt">HBO 2¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Family [Brazil]">
+    <display-name lang="pt">HBO Family¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Plus [Brazil]">
+    <display-name lang="pt">HBO Plus</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Signature [Brazil]">
+    <display-name lang="pt">HBO Signature¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="History Channel [Brazil]">
+    <display-name lang="pt">History¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Investigação Discovery [Brazil]">
+    <display-name lang="pt">ID¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Lifetime [Brazil]">
+    <display-name lang="pt">Lifetime¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Sony [Brazil]">
+    <display-name lang="pt">Sony¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Megapix [Brazil]">
+    <display-name lang="pt">Megapix¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="MTV [Brazil]">
+    <display-name lang="pt">MTV¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Multishow [Brazil]">
+    <display-name lang="pt">Multishow¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Nat Geo Wild HD [Brazil]">
+    <display-name lang="pt">NatGeo Wild¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="National Geographic [Brazil]">
+    <display-name lang="pt">National Geographic¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="NHK World [Brazil]">
+    <display-name lang="pt">NHK¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Nickelodeon [Brazil]">
+    <display-name lang="pt">Nickelodeon¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Nick Jr. [Brazil]">
+    <display-name lang="pt">Nick Jr.¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="OFF HD [Brazil]">
+    <display-name lang="pt">OFF¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Paramount Channel [Brazil]">
+    <display-name lang="pt">Paramount¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Premiere Clubes [Brazil]">
+    <display-name lang="pt">Premiere Clubes¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record [Brazil]">
+    <display-name lang="pt">Record¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record News [Brazil]">
+    <display-name lang="pt">Record News</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Rede TV [Brazil]">
+    <display-name lang="pt">RedeTV!¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Rede Vida [Brazil]">
+    <display-name lang="pt">Rede Vida</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SBT [Brazil]">
+    <display-name lang="pt">SBT¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SPACE [Brazil]">
+    <display-name lang="pt">Space¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SporTV [Brazil]">
+    <display-name lang="pt">SporTV¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SporTV 2 [Brazil]">
+    <display-name lang="pt">SporTV21</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SporTV 3 [Brazil]">
+    <display-name lang="pt">Sportv 3¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Studio Universal [Brazil]">
+    <display-name lang="pt">Studio Universal¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SyFy [Brazil]">
+    <display-name lang="pt">Syfy¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TBS [Brazil]">
+    <display-name lang="pt">TBS¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TCM - Turner Classic Movies [Brazil]">
+    <display-name lang="pt">TCM</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Action [Brazil]">
+    <display-name lang="pt">Telecine Action¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Cult [Brazil]">
+    <display-name lang="pt">Telecine Cult¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Fun [Brazil]">
+    <display-name lang="pt">Telecine Fun¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Pipoca [Brazil]">
+    <display-name lang="pt">Telecine Pipoca¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Premium [Brazil]">
+    <display-name lang="pt">Telecine Premium¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Touch [Brazil]">
+    <display-name lang="pt">Telecine Touch¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Terra Viva [Brazil]">
+    <display-name lang="pt">Terra Viva</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TLC [Brazil]">
+    <display-name lang="pt">TLC¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Justiça [Brazil]">
+    <display-name lang="pt">TV Justica</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TNT [Brazil]">
+    <display-name lang="pt">TNT¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TNT Séries [Brazil]">
+    <display-name lang="pt">TNT Séries¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Tooncast [Brazil]">
+    <display-name lang="pt">Tooncast¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TruTV [Brazil]">
+    <display-name lang="pt">TruTV¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Cultura [Brazil]">
+    <display-name lang="pt">TV Cultura¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Brasil [Brazil]">
+    <display-name lang="pt">TV Brasil¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Câmara [Brazil]">
+    <display-name lang="pt">TV Câmara</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Rá-tim-bum [Brazil]">
+    <display-name lang="pt">TV Ra Tim Bum¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Universal Channel [Brazil]">
+    <display-name lang="pt">Universal Channel</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Vh1 [Brazil]">
+    <display-name lang="pt">VH1¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Viva [Brazil]">
+    <display-name lang="pt">Viva¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Warner Channel [Brazil]">
+    <display-name lang="pt">Warner Channel¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Woohoo [Brazil]">
+    <display-name lang="pt">Woohoo¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+</tv>
