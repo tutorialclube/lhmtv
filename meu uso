@@ -541,7 +541,7 @@ http://191.33.210.93:8000/play/Viva/index.m3u8
 #EXTINF:-1,Viva²
 http://179.100.59.105:2083/play/a03t/index.m3u8
 #EXTINF:-1,Viva³
-http://clienteworld.com:8080/daniel99/daniel99/28146
+http://191.178.200.175:9981/stream/channelid/1110104799
 #EXTINF:-1,Warner Channel¹
 http://179.100.59.105:2083/play/a03z/index.m3u8
 #EXTINF:-1,Warner Channel²
