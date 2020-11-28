@@ -27,7 +27,7 @@ http://200.194.238.231:8888/play/a02n/index.m3u8
 #EXTINF:-1,AXD ²
 http://191.178.200.175:9981/stream/channelid/1188483184
 #EXTINF:-1,AXD ³
-http://191.178.200.175:9981/stream/channelid/154172773
+http://rec2.distv.net:8080/tony/tony/419
 #EXTINF:-1,Animal Planet ¹
 http://200.194.238.231:8888/play/a03r/index.m3u8
 #EXTINF:-1,Animal Planet ²
