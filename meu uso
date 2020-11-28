@@ -537,7 +537,7 @@ http://200.194.238.231:8888/play/a02w/index.m3u8
 #EXTINF:-1,VH1²
 http://191.178.200.175:9981/stream/channelid/1038059395
 #EXTINF:-1,Viva¹
-http://191.33.210.93:8000/play/Viva/index.m3u8
+http://rec2.distv.net:8080/tony/tony/531
 #EXTINF:-1,Viva²
 http://179.100.59.105:2083/play/a03t/index.m3u8
 #EXTINF:-1,Viva³
