@@ -17,7 +17,7 @@ http://200.194.238.231:8888/play/a01b/index.m3u8
 #EXTINF:-1,A&E ³
 http://191.178.200.175:9981/stream/channelid/850348136
 #EXTINF:-1,AMC ¹
-http://179.100.59.105:2083/play/a05i/index.m3u8
+http://rec2.distv.net:8080/tony/tony/416
 #EXTINF:-1,AMC ²
 http://canaishd.servidor.tv:8080/rebeca/rebecah17/1498
 #EXTINF:-1,AMC ³
