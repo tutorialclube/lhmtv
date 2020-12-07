@@ -466,6 +466,8 @@ http://191.221.104.123:1234/stream/channelid/29012129
 http://191.178.200.175:9981/stream/channelid/233797859
 #EXTINF:-1,Studio Universal²
 http://clienteworld.com:8080/daniel99/daniel99/83585
+#EXTINF:-1,Syfy
+http://191.221.104.123:1234/stream/channelid/1007082852
 #EXTINF:-1,Syfy¹
 http://191.178.200.175:9981/stream/channelid/1975855744
 #EXTINF:-1,Syfy²
@@ -473,29 +475,35 @@ http://clienteworld.com:8080/daniel99/daniel99/28191
 #EXTINF:-1,TBS¹
 http://179.100.59.105:2083/play/a04f/index.m3u8
 #EXTINF:-1,TBS²
-http://200.194.238.231:8888/play/a011/index.m3u8
+http://191.221.104.123:1234/stream/channelid/1951538313
 #EXTINF:-1,TBS³
 http://191.178.200.175:9981/stream/channelid/833366191
 #EXTINF:-1,TCM
+http://191.221.104.123:1234/stream/channelid/118835257
+#EXTINF:-1,TCM ²
 http://191.178.200.175:9981/stream/channelid/953908040
+#EXTINF:-1,Telecine Action
+http://191.221.104.123:1234/stream/channelid/1451686268
 #EXTINF:-1,Telecine Action¹
 http://191.178.200.175:9981/stream/channelid/1695488583
 #EXTINF:-1,Telecine Action²
 http://clienteworld.com:8080/daniel99/daniel99/82682
+#EXTINF:-1,Telecine Cult
+http://191.221.104.123:1234/stream/channelid/179166223
 #EXTINF:-1,Telecine Cult¹
 http://191.178.200.175:9981/stream/channelid/730197818
 #EXTINF:-1,Telecine Cult²
 http://clienteworld.com:8080/daniel99/daniel99/82687
 #EXTINF:-1,Telecine Fun¹
-http://179.100.59.105:2083/play/a04a/index.m3u8
+http://191.221.104.123:1234/stream/channelid/183901792
 #EXTINF:-1,Telecine Fun²
 http://191.178.200.175:9981/stream/channelid/1606419133
 #EXTINF:-1,Telecine Fun³
 http://clienteworld.com:8080/daniel99/daniel99/82692
 #EXTINF:-1,Telecine Pipoca¹
-http://191.178.200.175:9981/stream/channelid/1184240583
+http://191.221.104.123:1234/stream/channelid/1598839418
 #EXTINF:-1,Telecine Pipoca²
-http://177.133.15.82:8000/play/TelecinePipoca/index.m3u8
+http://191.178.200.175:9981/stream/channelid/1184240583
 #EXTINF:-1,Telecine Pipoca³
 http://clienteworld.com:8080/daniel99/daniel99/82697
 #EXTINF:-1,Telecine Premium¹
