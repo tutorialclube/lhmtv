@@ -179,43 +179,43 @@ http://clienteworld.com:8080/daniel99/daniel99/82849
 #EXTINF:-1,Food Network¹
 http://179.100.59.105:2083/play/a051/index.m3u8
 #EXTINF:-1,Food Network²
-http://200.194.238.231:8888/play/a03v/index.m3u8
+http://191.221.104.123:1234/stream/channelid/421096960
 #EXTINF:-1,Food Network³
 http://191.178.200.175:9981/stream/channelid/2119705197
 #EXTINF:-1,FOX¹
-http://200.194.238.231:8888/play/a026/index.m3u8
+http://191.221.104.123:1234/stream/channelid/179896452
 #EXTINF:-1,FOX²
 http://191.178.200.175:9981/stream/channelid/197101670
 #EXTINF:-1,FOX Premium¹
-http://200.194.238.231:8888/play/a03s/index.m3u8
+http://191.221.104.123:1234/stream/channelid/1442677132
 #EXTINF:-1,FOX Premium²
 http://191.178.200.175:9981/stream/channelid/1872614594
 #EXTINF:-1,FOX Premium 2¹
-http://200.194.238.231:8888/play/a03t/index.m3u8
+http://191.221.104.123:1234/stream/channelid/1646127419
 #EXTINF:-1,FOX Premium 2²
 http://191.178.200.175:9981/stream/channelid/513198108
 #EXTINF:-1,FOX Life¹
 http://179.100.59.105:2083/play/a03u/index.m3u8
 #EXTINF:-1,FOX Life²
-http://200.194.238.231:8888/play/a028/index.m3u8
+http://191.221.104.123:1234/stream/channelid/1128950379
 #EXTINF:-1,FOX Life³
 http://191.178.200.175:9981/stream/channelid/1988481964
 #EXTINF:-1,Fox Sports¹
-http://200.194.238.231:8888/play/a01v/index.m3u8
+http://191.221.104.123:1234/stream/channelid/1745618904
 #EXTINF:-1,Fox Sports²
 http://191.178.200.175:9981/stream/channelid/129043240
 #EXTINF:-1,FOX Sports 2¹
-http://200.194.238.231:8888/play/a01w/index.m3u8
+http://191.221.104.123:1234/stream/channelid/110116662
 #EXTINF:-1,FOX Sports 2²
 http://191.178.200.175:9981/stream/channelid/518079265
 #EXTINF:-1,Futura¹
 http://179.100.59.105:2083/play/a03q/index.m3u8
 #EXTINF:-1,Futura²
-http://177.133.15.82:8000/play/Futura/index.m3u8
+http://191.221.104.123:1234/stream/channelid/1257633115
 #EXTINF:-1,Futura³
 http://191.178.200.175:9981/stream/channelid/127627238
 #EXTINF:-1,FX¹
-http://200.194.238.231:8888/play/a027/index.m3u8
+http://191.221.104.123:1234/stream/channelid/314409735
 #EXTINF:-1,FX²
 http://191.178.200.175:9981/stream/channelid/194304502
 #EXTINF:-1,Globo News¹
