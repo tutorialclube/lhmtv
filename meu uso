@@ -329,21 +329,21 @@ http://200.194.238.231:8888/play/a01x/index.m3u8
 #EXTINF:-1,Natgeo Kids²
 http://191.178.200.175:9981/stream/channelid/832405600
 #EXTINF:-1,National Geographic¹
-http://200.194.238.231:8888/play/a024/index.m3u8
+http://191.221.104.123:1234/stream/channelid/1156469176
 #EXTINF:-1,National Geographic²
 http://191.178.200.175:9981/stream/channelid/855554922
 #EXTINF:-1,NHK¹
-http://179.100.59.105:2083/play/a04q/index.m3u8
+http://191.221.104.123:1234/stream/channelid/1846621046
 #EXTINF:-1,NHK²
 http://177.133.15.82:8000/play/NHK/index.m3u8
 #EXTINF:-1,Nickelodeon¹
-http://200.194.238.231:8888/play/a01m/index.m3u8
+http://191.221.104.123:1234/stream/channelid/813965857
 #EXTINF:-1,Nickelodeon²
 http://191.178.200.175:9981/stream/channelid/619457036
 #EXTINF:-1,Nick Jr.¹
 http://179.100.59.105:2083/play/a04j/index.m3u8
 #EXTINF:-1,Nick Jr.²
-http://200.194.238.231:8888/play/a01n/index.m3u8
+http://191.221.104.123:1234/stream/channelid/1839678192
 #EXTINF:-1,Nick Jr.³
 http://191.178.200.175:9981/stream/channelid/777092761
 #EXTINF:-1,OFF¹
