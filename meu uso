@@ -283,11 +283,11 @@ http://191.221.104.123:1234/stream/channelid/1800693094
 #EXTINF:-1,ID²
 http://191.178.200.175:9981/stream/channelid/1670585617
 #EXTINF:-1,Lifetime¹
-http://179.100.59.105:2083/play/a03y/index.m3u8
+http://191.221.104.123:1234/stream/channelid/1761878779
 #EXTINF:-1,Lifetime²
 http://200.194.238.231:8888/play/a03w/index.m3u8
 #EXTINF:-1,HBO MUNDI¹
-http://200.194.238.231:8888/play/a00l/index.m3u8
+http://191.221.104.123:1234/stream/channelid/1698143874
 #EXTINF:-1,HBO MUNDI²
 http://191.178.200.175:9981/stream/channelid/1072130194
 #EXTINF:-1,Sony¹
@@ -295,11 +295,11 @@ http://canaishd.servidor.tv:8080/rebeca/rebecah17/1446
 #EXTINF:-1,Sony²
 http://clienteworld.com:8080/daniel99/daniel99/83527
 #EXTINF:-1,HBO Xtreme¹
-http://200.194.238.231:8888/play/a00m/index.m3u8
+http://191.221.104.123:1234/stream/channelid/1697858760
 #EXTINF:-1,HBO Xtreme²
 http://191.178.200.175:9981/stream/channelid/733559717
 #EXTINF:-1,Megapix¹
-http://200.194.238.231:8888/play/a02f/index.m3u8
+http://191.221.104.123:1234/stream/channelid/1931311371
 #EXTINF:-1,Megapix²
 http://191.178.200.175:9981/stream/channelid/1084126642
 #EXTINF:-1,MTV¹
