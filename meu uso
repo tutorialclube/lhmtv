@@ -507,35 +507,35 @@ http://191.178.200.175:9981/stream/channelid/1184240583
 #EXTINF:-1,Telecine Pipoca³
 http://clienteworld.com:8080/daniel99/daniel99/82697
 #EXTINF:-1,Telecine Premium¹
-http://179.100.59.105:2083/play/a055/index.m3u8
+http://191.221.104.123:1234/stream/channelid/782755329
 #EXTINF:-1,Telecine Premium²
 http://191.178.200.175:9981/stream/channelid/573112822
 #EXTINF:-1,Telecine Premium³
 http://clienteworld.com:8080/daniel99/daniel99/82702
 #EXTINF:-1,Telecine Touch¹
-http://179.100.59.105:2083/play/a07q/index.m3u8
+http://191.221.104.123:1234/stream/channelid/2103234599
 #EXTINF:-1,Telecine Touch²
 http://191.178.200.175:9981/stream/channelid/723190651
 #EXTINF:-1,Telecine Touch³
 http://clienteworld.com:8080/daniel99/daniel99/82708
 #EXTINF:-1,Terra Viva
-http://177.133.15.82:8000/play/TerraViva/index.m3u8
+http://191.221.104.123:1234/stream/channelid/874816688
 #EXTINF:-1,TLC¹
-http://200.194.238.231:8888/play/a034/index.m3u8
+http://191.221.104.123:1234/stream/channelid/8255219
 #EXTINF:-1,TLC²
 http://191.178.200.175:9981/stream/channelid/225417340
 #EXTINF:-1,TV Justica
-http://canaishd.servidor.tv:8080/rebeca/rebecah17/22512
+http://191.221.104.123:1234/stream/channelid/1433778629
 #EXTINF:-1,TNT¹
-http://200.194.238.231:8888/play/a013/index.m3u8
+http://191.221.104.123:1234/stream/channelid/1773434361
 #EXTINF:-1,TNT²
 http://191.178.200.175:9981/stream/channelid/1334265844
 #EXTINF:-1,TNT Séries¹
-http://200.194.238.231:8888/play/a012/index.m3u8
+http://191.221.104.123:1234/stream/channelid/935865489
 #EXTINF:-1,TNT Séries²
 http://191.178.200.175:9981/stream/channelid/2117433310
 #EXTINF:-1,Tooncast¹
-http://179.100.59.105:2083/play/a05c/index.m3u8
+http://191.221.104.123:1234/stream/channelid/955751277
 #EXTINF:-1,Tooncast²
 http://191.178.200.175:9981/stream/channelid/144511007
 #EXTINF:-1,TruTV¹
@@ -545,17 +545,17 @@ http://177.133.15.82:8000/play/TruTV/index.m3u8
 #EXTINF:-1,TruTV³
 http://clienteworld.com:8080/daniel99/daniel99/28185
 #EXTINF:-1,TV Aparecida
-http://200.194.238.231:8888/play/a00y/index.m3u8
+http://191.221.104.123:1234/stream/channelid/754717492
 #EXTINF:-1,TV Cultura¹
-http://canaishd.servidor.tv:8080/rebeca/rebecah17/29772
+http://191.221.104.123:1234/stream/channelid/30470207
 #EXTINF:-1,TV Cultura²
 http://191.178.200.175:9981/stream/channelid/2134507810
 #EXTINF:-1,TV Brasil¹
-http://200.194.238.231:8888/play/a00e/index.m3u8
+http://191.221.104.123:1234/stream/channelid/1389602030
 #EXTINF:-1,TV Brasil²
 http://191.178.200.175:9981/stream/channelid/1658117600
 #EXTINF:-1,TV Câmara
-http://canaishd.servidor.tv:8080/rebeca/rebecah17/22511
+http://191.221.104.123:1234/stream/channelid/1397735260
 #EXTINF:-1,TV Ra Tim Bum¹
 http://200.194.238.231:8888/play/a00j/index.m3u8
 #EXTINF:-1,TV Ra Tim Bum²
@@ -563,25 +563,25 @@ http://191.178.200.175:9981/stream/channelid/1283443855
 #EXTINF:-1,Universal Channel
 http://clienteworld.com:8080/daniel99/daniel99/83599
 #EXTINF:-1,VENUS (Adulto)
-http://canaishd.servidor.tv:8080/rebeca/rebecah17/13617
+http://191.221.104.123:1234/stream/channelid/1143797134
 #EXTINF:-1,VH1¹
-http://200.194.238.231:8888/play/a02w/index.m3u8
+http://191.221.104.123:1234/stream/channelid/17350348
 #EXTINF:-1,VH1²
 http://191.178.200.175:9981/stream/channelid/1038059395
 #EXTINF:-1,Viva¹
 http://rec2.distv.net:8080/tony/tony/531
 #EXTINF:-1,Viva²
-http://179.100.59.105:2083/play/a03t/index.m3u8
+http://191.221.104.123:1234/stream/channelid/1850793201
 #EXTINF:-1,Viva³
 http://191.178.200.175:9981/stream/channelid/1110104799
 #EXTINF:-1,Warner Channel¹
 http://179.100.59.105:2083/play/a03z/index.m3u8
 #EXTINF:-1,Warner Channel²
-http://200.194.238.231:8888/play/a02l/index.m3u8
+http://191.221.104.123:1234/stream/channelid/1760442765
 #EXTINF:-1,Warner Channel³
 http://clienteworld.com:8080/daniel99/daniel99/83603
 #EXTINF:-1,Woohoo¹
-http://200.194.238.231:8888/play/a02b/index.m3u8
+http://191.221.104.123:1234/stream/channelid/1171444284
 #EXTINF:-1,Woohoo²
 http://191.178.200.175:9981/stream/channelid/519442479
 
