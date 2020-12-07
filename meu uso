@@ -99,7 +99,7 @@ http://191.221.104.123:1234/stream/channelid/589225572
 #EXTINF:-1,Curta!
 http://191.178.200.175:9981/stream/channelid/332604359
 #EXTINF:-1,Discovery Home & Health¹
-http://200.194.238.231:8888/play/a01r/index.m3u8
+http://191.221.104.123:1234/stream/channelid/284649960
 #EXTINF:-1,Discovery Home & Health²
 http://191.178.200.175:9981/stream/channelid/1285219734
 #EXTINF:-1,Discovery Civilization
@@ -107,37 +107,39 @@ http://sap01.superstream.best:8080/LineaP3rs_Vit0/Tcya335DRI/167549
 #EXTINF:-1,Discovery Channel¹
 http://179.100.59.105:2083/play/a05e/index.m3u8
 #EXTINF:-1,Discovery Channel²
-http://200.194.238.231:8888/play/a035/index.m3u8
+http://191.221.104.123:1234/stream/channelid/1686685073
 #EXTINF:-1,Discovery Channel³
 http://191.178.200.175:9981/stream/channelid/1322019242
 #EXTINF:-1,Discovery Kids¹
 http://179.100.59.105:2083/play/a03c/index.m3u8
 #EXTINF:-1,Discovery Kids²
-http://200.194.238.231:8888/play/a036/index.m3u8
+http://191.221.104.123:1234/stream/channelid/635708307
 #EXTINF:-1,Discovery Kids³
 http://191.178.200.175:9981/stream/channelid/232415921
 #EXTINF:-1,Discovery Science¹
-http://200.194.238.231:8888/play/a02c/index.m3u8
+http://191.221.104.123:1234/stream/channelid/308717405
 #EXTINF:-1,Discovery Science²
 http://191.178.200.175:9981/stream/channelid/29421135
 #EXTINF:-1,Discovery Theater¹
-http://200.194.238.231:8888/play/a016/index.m3u8
+http://191.221.104.123:1234/stream/channelid/1932679802
 #EXTINF:-1,Discovery Theater²
 http://191.178.200.175:9981/stream/channelid/959735313
 #EXTINF:-1,Discovery World¹
-http://200.194.238.231:8888/play/a017/index.m3u8
+http://191.221.104.123:1234/stream/channelid/1407199420
 #EXTINF:-1,Discovery World²
 http://191.178.200.175:9981/stream/channelid/401288958
 #EXTINF:-1,Disney Channel¹
 http://179.100.59.105:2083/play/a04i/index.m3u8
 #EXTINF:-1,Disney Channel²
-http://200.194.238.231:8888/play/a01t/index.m3u8
+http://191.221.104.123:1234/stream/channelid/524028596
 #EXTINF:-1,Disney Channel³
 http://191.178.200.175:9981/stream/channelid/1320578385
 #EXTINF:-1,Disney Junior¹
-http://200.194.238.231:8888/play/a00g/index.m3u8
+http://191.221.104.123:1234/stream/channelid/2028918093
 #EXTINF:-1,Disney Junior²
 http://191.178.200.175:9981/stream/channelid/167458336
+#EXTINF:-1,Disney XD²
+http://191.221.104.123:1234/stream/channelid/1118524453
 #EXTINF:-1,Disney XD
 http://191.178.200.175:9981/stream/channelid/1591885902
 #EXTINF:-1,Discovery Turbo¹
