@@ -65,35 +65,37 @@ http://191.178.200.175:9981/stream/channelid/1576524409
 #EXTINF:-1,Canção Nova 
 http://191.221.104.123:1234/stream/channelid/1289391111
 #EXTINF:-1,Cartoon Network¹ 
-http://200.194.238.231:8888/play/a010/index.m3u8
+http://191.221.104.123:1234/stream/channelid/1762013903
 #EXTINF:-1,Cartoon Network² 
 http://191.178.200.175:9981/stream/channelid/480451336
 #EXTINF:-1,Cinemax¹ 
-http://200.194.238.231:8888/play/a00k/index.m3u8
+http://191.221.104.123:1234/stream/channelid/518898616
 #EXTINF:-1,Cinemax² 
 http://191.178.200.175:9981/stream/channelid/255951115
 #EXTINF:-1,Comedy Central¹
-http://200.194.238.231:8888/play/a02x/index.m3u8
+http://191.221.104.123:1234/stream/channelid/350808184
 #EXTINF:-1,Comedy Central²
 http://191.178.200.175:9981/stream/channelid/1705608960
 #EXTINF:-1,Combate¹ 
-http://191.178.200.175:9981/stream/channelid/225787367
+http://191.221.104.123:1234/stream/channelid/350808184
 #EXTINF:-1,Combate² 
-http://mains.vip:2086/craigg/1Lurn7m3F1/92717
+http://191.178.200.175:9981/stream/channelid/225787367
 #EXTINF:-1,CONMEBOL - 1¹ 
-http://200.194.238.231:8888/play/a021/index.m3u8
+http://191.221.104.123:1234/stream/channelid/506244023
 #EXTINF:-1,CONMEBOL - 1²
 http://177.133.15.82:8000/play/CONMEBOLTV1/index.m3u8
 #EXTINF:-1,CONMEBOL - 2¹
-http://200.194.238.231:8888/play/a022/index.m3u8
+http://191.221.104.123:1234/stream/channelid/549966904
 #EXTINF:-1,CONMEBOL - 2²
 http://177.133.15.82:8000/play/CONMEBOLTV2/index.m3u8
 #EXTINF:-1,CONMEBOL - 3¹
-http://200.194.238.231:8888/play/a01c/index.m3u8
+http://191.221.104.123:1234/stream/channelid/715905890
 #EXTINF:-1,CONMEBOL - 3²
 http://177.133.15.82:8000/play/CONMEBOLTV3/index.m3u8
 #EXTINF:-1,CNN Brasil
-http://200.194.238.231:8888/play/a00w/index.m3u8
+http://191.221.104.123:1234/stream/channelid/1043419308
+#EXTINF:-1,Curta!²
+http://191.221.104.123:1234/stream/channelid/589225572
 #EXTINF:-1,Curta!
 http://191.178.200.175:9981/stream/channelid/332604359
 #EXTINF:-1,Discovery Home & Health¹
