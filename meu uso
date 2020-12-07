@@ -39,31 +39,31 @@ http://191.178.200.175:9981/stream/channelid/555161919
 #EXTINF:-1,Baby TV 
 http://191.221.104.123:1234/stream/channelid/2145706561
 #EXTINF:-1,BIS¹ 
-http://179.100.59.105:2083/play/a043/index.m3u8
+http://191.221.104.123:1234/stream/channelid/2091976597
 #EXTINF:-1,BIS² 
 http://191.178.200.175:9981/stream/channelid/328629643
 #EXTINF:-1,Band¹ 
-http://179.100.59.105:2083/play/a03p/index.m3u8
+http://191.221.104.123:1234/stream/channelid/379453287
 #EXTINF:-1,Band² 
 http://191.178.200.175:9981/stream/channelid/1283364865
 #EXTINF:-1,Band News¹
 http://179.100.59.105:2083/play/a077/index.m3u8
 #EXTINF:-1,Band News² 
-http://200.194.238.231:8888/play/a007/index.m3u8
+http://191.221.104.123:1234/stream/channelid/39002301
 #EXTINF:-1,Band News³ 
 http://191.178.200.175:9981/stream/channelid/812779011
 #EXTINF:-1,Band Sports¹ 
-http://200.194.238.231:8888/play/a006/index.m3u8
+http://191.221.104.123:1234/stream/channelid/852328673
 #EXTINF:-1,Band Sports² 
 http://191.178.200.175:9981/stream/channelid/1916056307
 #EXTINF:-1,Boomerang¹ 
 http://179.100.59.105:2083/play/a04g/index.m3u8 
 #EXTINF:-1,Boomerang² 
-http://200.194.238.231:8888/play/a02r/index.m3u8
+http://191.221.104.123:1234/stream/channelid/631706474
 #EXTINF:-1,Boomerang³ 
 http://191.178.200.175:9981/stream/channelid/1576524409
 #EXTINF:-1,Canção Nova 
-http://179.100.59.105:2083/play/a04t/index.m3u8
+http://191.221.104.123:1234/stream/channelid/1289391111
 #EXTINF:-1,Cartoon Network¹ 
 http://200.194.238.231:8888/play/a010/index.m3u8
 #EXTINF:-1,Cartoon Network² 
