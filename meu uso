@@ -346,34 +346,40 @@ http://179.100.59.105:2083/play/a04j/index.m3u8
 http://191.221.104.123:1234/stream/channelid/1839678192
 #EXTINF:-1,Nick Jr.³
 http://191.178.200.175:9981/stream/channelid/777092761
+#EXTINF:-1,OFF
+http://191.221.104.123:1234/stream/channelid/1229023219
 #EXTINF:-1,OFF¹
 http://191.178.200.175:9981/stream/channelid/384326044
 #EXTINF:-1,OFF²
 http://clienteworld.com:8080/daniel99/daniel99/82844
 #EXTINF:-1,Paramount¹
-http://200.194.238.231:8888/play/a02y/index.m3u8
+http://191.221.104.123:1234/stream/channelid/998758514
 #EXTINF:-1,Paramount²
 http://191.178.200.175:9981/stream/channelid/685528872
 #EXTINF:-1,Premiere Clubes¹
-http://191.178.200.175:9981/stream/channelid/959349292
+http://191.221.104.123:1234/stream/channelid/805242070
 #EXTINF:-1,Premiere Clubes²
-http://mytv.fun:8080/joergthewes111/486lnu3zo/13610
+http://191.178.200.175:9981/stream/channelid/959349292
 #EXTINF:-1,PFC 2¹
-http://179.100.59.105:2083/play/a078/index.m3u8
+http://191.221.104.123:1234/stream/channelid/39541713
 #EXTINF:-1,PFC 2²
 http://191.178.200.175:9981/stream/channelid/1742976847
 #EXTINF:-1,PFC 2³
 http://clienteworld.com:8080/daniel99/daniel99/83766
+#EXTINF:-1,PFC 3
+http://191.221.104.123:1234/stream/channelid/1129123787
 #EXTINF:-1,PFC 3¹
 http://191.178.200.175:9981/stream/channelid/448328307
 #EXTINF:-1,PFC 3²
 http://clienteworld.com:8080/daniel99/daniel99/83770
 #EXTINF:-1,PFC 4¹
-http://179.100.59.105:2083/play/a04s/index.m3u8
+http://191.221.104.123:1234/stream/channelid/395557747
 #EXTINF:-1,PFC 4²
 http://191.178.200.175:9981/stream/channelid/23861184
 #EXTINF:-1,PFC 4³
 http://clienteworld.com:8080/daniel99/daniel99/83774
+#EXTINF:-1,PFC 5
+http://191.221.104.123:1234/stream/channelid/515479396
 #EXTINF:-1,PFC 5¹
 http://191.178.200.175:9981/stream/channelid/750989856
 #EXTINF:-1,PFC 5²
@@ -385,7 +391,7 @@ http://191.178.200.175:9981/stream/channelid/693989809
 #EXTINF:-1,PFC 6³
 http://clienteworld.com:8080/daniel99/daniel99/83782
 #EXTINF:-1,PFC 7¹
-http://179.100.59.105:2083/play/a07t/index.m3u8
+http://191.221.104.123:1234/stream/channelid/378575586
 #EXTINF:-1,PFC 7²
 http://191.178.200.175:9981/stream/channelid/828620965
 #EXTINF:-1,PFC 7³
@@ -393,15 +399,15 @@ http://clienteworld.com:8080/daniel99/daniel99/83785
 #EXTINF:-1,PLAYBOY¹
 http://179.100.59.105:2083/play/a048/index.m3u8
 #EXTINF:-1,PLAYBOY²
-http://canaishd.servidor.tv:8080/rebeca/rebecah17/57
+http://191.221.104.123:1234/stream/channelid/248565221
 #EXTINF:-1,PLAYBOY³
 http://177.133.15.82:8000/play/PlayboyTV/index.m3u8
 #EXTINF:-1,Prime Box Brasil
-http://200.194.238.231:8888/play/a02t/index.m3u8
+http://191.221.104.123:1234/stream/channelid/1850501343
 #EXTINF:-1,Record¹
-http://191.178.200.175:9981/stream/channelid/197046331
+http://191.221.104.123:1234/stream/channelid/698786656
 #EXTINF:-1,Record²
-http://177.133.15.82:8000/play/RecordTVRioHD/index.m3u8
+http://191.178.200.175:9981/stream/channelid/197046331
 #EXTINF:-1,Record News
 http://200.194.238.231:8888/play/a00o/index.m3u8
 #EXTINF:-1,RedeTV!¹
