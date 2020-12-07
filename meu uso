@@ -305,21 +305,23 @@ http://191.178.200.175:9981/stream/channelid/1084126642
 #EXTINF:-1,MTV¹
 http://179.100.59.105:2083/play/a03s/index.m3u8
 #EXTINF:-1,MTV²
-http://200.194.238.231:8888/play/a02v/index.m3u8
+http://191.221.104.123:1234/stream/channelid/1745036604
 #EXTINF:-1,MTV³
 http://191.178.200.175:9981/stream/channelid/975586960
+#EXTINF:-1,Multishow
+http://191.221.104.123:1234/stream/channelid/1403725381
 #EXTINF:-1,Multishow¹
 http://191.178.200.175:9981/stream/channelid/1887185476
 #EXTINF:-1,Multishow²
 http://clienteworld.com:8080/daniel99/daniel99/88740
 #EXTINF:-1,Music Box Brasil¹
-http://177.133.15.82:8000/play/MusicBoxBrazil/index.m3u8
+http://191.221.104.123:1234/stream/channelid/1226607586
 #EXTINF:-1,Music Box Brasil²
 http://200.194.238.231:8888/play/a02s/index.m3u8
 #EXTINF:-1,NatGeo Wild¹
 http://179.100.59.105:2083/play/a04m/index.m3u8
 #EXTINF:-1,NatGeo Wild²
-http://200.194.238.231:8888/play/a025/index.m3u8
+http://191.221.104.123:1234/stream/channelid/2103278841
 #EXTINF:-1,NatGeo Wild³
 http://191.178.200.175:9981/stream/channelid/223974945
 #EXTINF:-1,Natgeo Kids¹
