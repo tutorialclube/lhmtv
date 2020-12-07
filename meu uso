@@ -415,9 +415,9 @@ http://200.194.238.231:8888/play/a00t/index.m3u8
 #EXTINF:-1,RedeTV!²
 http://191.178.200.175:9981/stream/channelid/1658731997
 #EXTINF:-1,Rede Vida
-http://200.194.238.231:8888/play/a01o/index.m3u8
+http://191.221.104.123:1234/stream/channelid/1571870883
 #EXTINF:-1,SBT¹
-http://179.100.59.105:2083/play/a07a/index.m3u8
+http://191.221.104.123:1234/stream/channelid/1264715008
 #EXTINF:-1,SBT² 
 http://191.178.200.175:9981/stream/channelid/57713576
 #EXTINF:-1,SBT³ 
@@ -425,37 +425,43 @@ http://clienteworld.com:8080/daniel99/daniel99/83669
 #EXTINF:-1,SEXTREME¹
 http://179.100.59.105:2083/play/a046/index.m3u8
 #EXTINF:-1,SEXTREME²
-http://canaishd.servidor.tv:8080/rebeca/rebecah17/54
+http://191.221.104.123:1234/stream/channelid/2090671892
 #EXTINF:-1,SEXTREME³
 http://clienteworld.com:8080/daniel99/daniel99/90476
 #EXTINF:-1,SEXY HOT¹
 http://179.100.59.105:2083/play/a049/index.m3u8
 #EXTINF:-1,SEXY HOT²
-http://canaishd.servidor.tv:8080/rebeca/rebecah17/49
+http://191.221.104.123:1234/stream/channelid/1717300165
 #EXTINF:-1,SEXY HOT³
 http://177.133.15.82:8000/play/SexyHot/index.m3u8
 #EXTINF:-1,Smithsonian¹
-http://200.194.238.231:8888/play/a00f/index.m3u8
+http://191.221.104.123:1234/stream/channelid/1829471739
 #EXTINF:-1,Smithsonian²
 http://clienteworld.com:8080/daniel99/daniel99/49197
 #EXTINF:-1,Space¹
-http://200.194.238.231:8888/play/a014/index.m3u8
+http://191.221.104.123:1234/stream/channelid/1889072971
 #EXTINF:-1,Space²
 http://191.178.200.175:9981/stream/channelid/1052800536
 #EXTINF:-1,SporTV¹
-http://179.100.59.105:2083/play/a052/index.m3u8
+http://191.221.104.123:1234/stream/channelid/950552812
 #EXTINF:-1,SporTV²
 http://191.178.200.175:9981/stream/channelid/461913637
 #EXTINF:-1,SporTV³
 http://191.178.200.175:9981/stream/channelid/1658341161
+#EXTINF:-1,SporTV2
+http://191.221.104.123:1234/stream/channelid/173032649
 #EXTINF:-1,SporTV21
 http://191.178.200.175:9981/stream/channelid/1658341161
 #EXTINF:-1,SporTV2²
 http://clienteworld.com:8080/daniel99/daniel99/82744
+#EXTINF:-1,Sportv 3
+http://191.221.104.123:1234/stream/channelid/1439366393
 #EXTINF:-1,Sportv 3¹
 http://191.178.200.175:9981/stream/channelid/1762475026
 #EXTINF:-1,Sportv 3²
 http://clienteworld.com:8080/daniel99/daniel99/82749
+#EXTINF:-1,Studio Universal
+http://191.221.104.123:1234/stream/channelid/29012129
 #EXTINF:-1,Studio Universal¹
 http://191.178.200.175:9981/stream/channelid/233797859
 #EXTINF:-1,Studio Universal²
