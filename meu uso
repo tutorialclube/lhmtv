@@ -218,6 +218,8 @@ http://191.178.200.175:9981/stream/channelid/127627238
 http://191.221.104.123:1234/stream/channelid/314409735
 #EXTINF:-1,FX²
 http://191.178.200.175:9981/stream/channelid/194304502
+#EXTINF:-1,Globo News
+http://191.221.104.123:1234/stream/channelid/1843589729
 #EXTINF:-1,Globo News¹
 http://191.178.200.175:9981/stream/channelid/200158812
 #EXTINF:-1,Globo News²
@@ -232,12 +234,16 @@ http://179.100.59.105:2083/play/a061/index.m3u8
 http://191.178.200.175:9981/stream/channelid/1279213607
 #EXTINF:-1,+Globosat
 http://canaishd.servidor.tv:8080/rebeca/rebecah17/213
+#EXTINF:-1,Gloob
+http://191.221.104.123:1234/stream/channelid/712612788
 #EXTINF:-1,Gloob¹
 http://191.178.200.175:9981/stream/channelid/1109383063
 #EXTINF:-1,Gloob²
 http://clienteworld.com:8080/daniel99/daniel99/83466
 #EXTINF:-1,Gloobinho
 http://clienteworld.com:8080/daniel99/daniel99/83469
+#EXTINF:-1,GNT
+http://191.221.104.123:1234/stream/channelid/1888954009
 #EXTINF:-1,GNT¹
 http://191.178.200.175:9981/stream/channelid/220207105
 #EXTINF:-1,GNT²
@@ -245,35 +251,35 @@ http://clienteworld.com:8080/daniel99/daniel99/88704
 #EXTINF:-1,H2¹
 http://179.100.59.105:2083/play/a07l/index.m3u8
 #EXTINF:-1,H2²
-http://200.194.238.231:8888/play/a01a/index.m3u8
+http://191.221.104.123:1234/stream/channelid/290002184
 #EXTINF:-1,H2³
 http://191.178.200.175:9981/stream/channelid/69709881
 #EXTINF:-1,HBO¹
-http://200.194.238.231:8888/play/a038/index.m3u8
+http://191.221.104.123:1234/stream/channelid/1368722665
 #EXTINF:-1,HBO²
 http://191.178.200.175:9981/stream/channelid/675005817
 #EXTINF:-1,HBO 2¹
-http://200.194.238.231:8888/play/a039/index.m3u8
+http://191.221.104.123:1234/stream/channelid/802337078
 #EXTINF:-1,HBO 2²
 http://191.178.200.175:9981/stream/channelid/1050657052
 #EXTINF:-1,HBO Family¹
 http://179.100.59.105:2083/play/a04d/index.m3u8
 #EXTINF:-1,HBO Family²
-http://200.194.238.231:8888/play/a03b/index.m3u8
+http://191.221.104.123:1234/stream/channelid/1201256681
 #EXTINF:-1,HBO Family³
 http://191.178.200.175:9981/stream/channelid/1292450203
 #EXTINF:-1,HBO Plus
 http://179.100.59.105:2083/play/a03w/index.m3u8
 #EXTINF:-1,HBO Signature¹
-http://200.194.238.231:8888/play/a03c/index.m3u8
+http://191.221.104.123:1234/stream/channelid/438305971
 #EXTINF:-1,HBO Signature²
 http://191.178.200.175:9981/stream/channelid/476606582
 #EXTINF:-1,History¹
-http://200.194.238.231:8888/play/a02k/index.m3u8
+http://191.221.104.123:1234/stream/channelid/1902552500
 #EXTINF:-1,History²
 http://191.178.200.175:9981/stream/channelid/1891535172
 #EXTINF:-1,ID¹
-http://200.194.238.231:8888/play/a018/index.m3u8
+http://191.221.104.123:1234/stream/channelid/1800693094
 #EXTINF:-1,ID²
 http://191.178.200.175:9981/stream/channelid/1670585617
 #EXTINF:-1,Lifetime¹
