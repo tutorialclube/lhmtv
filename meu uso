@@ -289,7 +289,7 @@ http://191.178.200.175:9981/stream/channelid/1670585617
 #EXTINF:-1,Lifetime¹
 http://191.221.104.123:1234/stream/channelid/1761878779
 #EXTINF:-1,Lifetime²
-http://200.194.238.231:8888/play/a03w/index.m3u8
+http://177.157.212.56:8000/play/a008
 #EXTINF:-1,HBO MUNDI¹
 http://191.221.104.123:1234/stream/channelid/1698143874
 #EXTINF:-1,HBO MUNDI²
