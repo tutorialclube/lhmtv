@@ -17,13 +17,13 @@ http://191.221.104.123:1234/stream/channelid/1928195831
 #EXTINF:-1,A&E ³ 
 http://191.178.200.175:9981/stream/channelid/850348136
 #EXTINF:-1,AMC ¹ 
-http://rec2.distv.net:8080/tony/tony/416
+http://177.157.212.56:8000/play/a01t
 #EXTINF:-1,AMC ² 
 http://191.221.104.123:1234/stream/channelid/192107701
 #EXTINF:-1,AMC ³ 
 http://191.178.200.175:9981/stream/channelid/10265544
 #EXTINF:-1,AXD ¹ 
-http://200.194.238.231:8888/play/a02n/index.m3u8
+http://177.157.212.56:8000/play/a03f
 #EXTINF:-1,AXD ² 
 http://191.221.104.123:1234/stream/channelid/527475245
 #EXTINF:-1,AXD ³ 
@@ -32,12 +32,16 @@ http://191.178.200.175:9981/stream/channelid/1188483184
 http://191.221.104.123:1234/stream/channelid/894541824
 #EXTINF:-1,Animal Planet ² 
 http://191.178.200.175:9981/stream/channelid/222890731
+#EXTINF:-1,Arte 1
+http://177.157.212.56:8000/play/a03i
 #EXTINF:-1,Arte 1¹ 
 http://191.221.104.123:1234/stream/channelid/689274140
 #EXTINF:-1,Arte 1² 
 http://191.178.200.175:9981/stream/channelid/555161919
 #EXTINF:-1,Baby TV 
-http://191.221.104.123:1234/stream/channelid/2145706561
+http://177.157.212.56:8000/play/a01m
+#EXTINF:-1,BIS
+http://177.157.212.56:8000/play/a00e
 #EXTINF:-1,BIS¹ 
 http://191.221.104.123:1234/stream/channelid/2091976597
 #EXTINF:-1,BIS² 
@@ -65,7 +69,7 @@ http://191.178.200.175:9981/stream/channelid/1576524409
 #EXTINF:-1,Canção Nova 
 http://191.221.104.123:1234/stream/channelid/1289391111
 #EXTINF:-1,Cartoon Network¹ 
-http://191.221.104.123:1234/stream/channelid/1762013903
+http://177.157.212.56:8000/play/a02n
 #EXTINF:-1,Cartoon Network² 
 http://191.178.200.175:9981/stream/channelid/480451336
 #EXTINF:-1,Cinemax¹ 
@@ -83,17 +87,17 @@ http://191.178.200.175:9981/stream/channelid/225787367
 #EXTINF:-1,CONMEBOL - 1¹ 
 http://191.221.104.123:1234/stream/channelid/506244023
 #EXTINF:-1,CONMEBOL - 1²
-http://177.133.15.82:8000/play/CONMEBOLTV1/index.m3u8
+http://177.157.212.56:8000/play/a01v
 #EXTINF:-1,CONMEBOL - 2¹
 http://191.221.104.123:1234/stream/channelid/549966904
 #EXTINF:-1,CONMEBOL - 2²
-http://177.133.15.82:8000/play/CONMEBOLTV2/index.m3u8
+http://177.157.212.56:8000/play/a03n
 #EXTINF:-1,CONMEBOL - 3¹
 http://191.221.104.123:1234/stream/channelid/715905890
 #EXTINF:-1,CONMEBOL - 3²
 http://177.133.15.82:8000/play/CONMEBOLTV3/index.m3u8
 #EXTINF:-1,CNN Brasil
-http://191.221.104.123:1234/stream/channelid/1043419308
+http://177.157.212.56:8000/play/a02t
 #EXTINF:-1,Curta!²
 http://191.221.104.123:1234/stream/channelid/589225572
 #EXTINF:-1,Curta!
@@ -105,7 +109,7 @@ http://191.178.200.175:9981/stream/channelid/1285219734
 #EXTINF:-1,Discovery Civilization
 http://sap01.superstream.best:8080/LineaP3rs_Vit0/Tcya335DRI/167549
 #EXTINF:-1,Discovery Channel¹
-http://179.100.59.105:2083/play/a05e/index.m3u8
+http://177.157.212.56:8000/play/a01q
 #EXTINF:-1,Discovery Channel²
 http://191.221.104.123:1234/stream/channelid/1686685073
 #EXTINF:-1,Discovery Channel³
@@ -155,13 +159,13 @@ http://clienteworld.com:8080/daniel99/daniel99/51489
 #EXTINF:-1,Eles&Eles (adulto)
 http://clienteworld.com:8080/daniel99/daniel99/51995
 #EXTINF:-1,ESPN¹
-http://191.221.104.123:1234/stream/channelid/1631800059
+http://177.157.212.56:8000/play/a039
 #EXTINF:-1,ESPN²
 http://191.178.200.175:9981/stream/channelid/259124184
 #EXTINF:-1,ESPN 2¹
 http://191.221.104.123:1234/stream/channelid/16823215
 #EXTINF:-1,ESPN 2²
-http://177.133.15.82:8000/play/ESPN2/index.m3u8
+http://177.157.212.56:8000/play/a005
 #EXTINF:-1,ESPN EXTRA¹
 http://191.221.104.123:1234/stream/channelid/490761376
 #EXTINF:-1,ESPN EXTRA²
@@ -177,13 +181,13 @@ http://191.178.200.175:9981/stream/channelid/1167392487
 #EXTINF:-1,Fish TV³
 http://clienteworld.com:8080/daniel99/daniel99/82849
 #EXTINF:-1,Food Network¹
-http://179.100.59.105:2083/play/a051/index.m3u8
+http://177.157.212.56:8000/play/a01d
 #EXTINF:-1,Food Network²
 http://191.221.104.123:1234/stream/channelid/421096960
 #EXTINF:-1,Food Network³
 http://191.178.200.175:9981/stream/channelid/2119705197
 #EXTINF:-1,FOX¹
-http://191.221.104.123:1234/stream/channelid/179896452
+http://177.157.212.56:8000/play/a02l
 #EXTINF:-1,FOX²
 http://191.178.200.175:9981/stream/channelid/197101670
 #EXTINF:-1,FOX Premium¹
@@ -195,17 +199,17 @@ http://191.221.104.123:1234/stream/channelid/1646127419
 #EXTINF:-1,FOX Premium 2²
 http://191.178.200.175:9981/stream/channelid/513198108
 #EXTINF:-1,FOX Life¹
-http://179.100.59.105:2083/play/a03u/index.m3u8
+http://177.157.212.56:8000/play/a004
 #EXTINF:-1,FOX Life²
 http://191.221.104.123:1234/stream/channelid/1128950379
 #EXTINF:-1,FOX Life³
 http://191.178.200.175:9981/stream/channelid/1988481964
 #EXTINF:-1,Fox Sports¹
-http://191.221.104.123:1234/stream/channelid/1745618904
+http://177.157.212.56:8000/play/a02k
 #EXTINF:-1,Fox Sports²
 http://191.178.200.175:9981/stream/channelid/129043240
 #EXTINF:-1,FOX Sports 2¹
-http://191.221.104.123:1234/stream/channelid/110116662
+http://177.157.212.56:8000/play/a036
 #EXTINF:-1,FOX Sports 2²
 http://191.178.200.175:9981/stream/channelid/518079265
 #EXTINF:-1,Futura¹
@@ -219,7 +223,7 @@ http://191.221.104.123:1234/stream/channelid/314409735
 #EXTINF:-1,FX²
 http://191.178.200.175:9981/stream/channelid/194304502
 #EXTINF:-1,Globo News
-http://191.221.104.123:1234/stream/channelid/1843589729
+http://177.157.212.56:8000/play/a038
 #EXTINF:-1,Globo News¹
 http://191.178.200.175:9981/stream/channelid/200158812
 #EXTINF:-1,Globo News²
@@ -235,7 +239,7 @@ http://191.178.200.175:9981/stream/channelid/1279213607
 #EXTINF:-1,+Globosat
 http://canaishd.servidor.tv:8080/rebeca/rebecah17/213
 #EXTINF:-1,Gloob
-http://191.221.104.123:1234/stream/channelid/712612788
+http://177.157.212.56:8000/play/a01n
 #EXTINF:-1,Gloob¹
 http://191.178.200.175:9981/stream/channelid/1109383063
 #EXTINF:-1,Gloob²
@@ -255,7 +259,7 @@ http://191.221.104.123:1234/stream/channelid/290002184
 #EXTINF:-1,H2³
 http://191.178.200.175:9981/stream/channelid/69709881
 #EXTINF:-1,HBO¹
-http://191.221.104.123:1234/stream/channelid/1368722665
+http://177.157.212.56:8000/play/a01k
 #EXTINF:-1,HBO²
 http://191.178.200.175:9981/stream/channelid/675005817
 #EXTINF:-1,HBO 2¹
@@ -271,7 +275,7 @@ http://191.178.200.175:9981/stream/channelid/1292450203
 #EXTINF:-1,HBO Plus
 http://179.100.59.105:2083/play/a03w/index.m3u8
 #EXTINF:-1,HBO Signature¹
-http://191.221.104.123:1234/stream/channelid/438305971
+http://177.157.212.56:8000/play/a03e
 #EXTINF:-1,HBO Signature²
 http://191.178.200.175:9981/stream/channelid/476606582
 #EXTINF:-1,History¹
