@@ -400,81 +400,81 @@ http://177.133.15.82:8000/play/PlayboyTV/index.m3u8
 #EXTINF:-1,Prime Box Brasil
 http://187.38.145.248:9981/stream/channelid/79485073
 #EXTINF:-1,Record¹
-http://177.157.212.56:8000/play/a03j
+http://187.38.145.248:9981/stream/channelid/352968552
 #EXTINF:-1,Record²
 http://191.178.200.175:9981/stream/channelid/197046331
 #EXTINF:-1,Record News
-http://177.157.212.56:8000/play/a01p
+http://187.38.145.248:9981/stream/channelid/1790023216
 #EXTINF:-1,RedeTV!¹
-http://200.194.238.231:8888/play/a00t/index.m3u8
+http://187.38.145.248:9981/stream/channelid/711405147
 #EXTINF:-1,RedeTV!²
 http://191.178.200.175:9981/stream/channelid/1658731997
 #EXTINF:-1,Rede Vida
-http://177.157.212.56:8000/play/a03g
+http://187.38.145.248:9981/stream/channelid/2121603424
 #EXTINF:-1,SBT¹
-http://191.221.104.123:1234/stream/channelid/1264715008
+http://187.38.145.248:9981/stream/channelid/1666919021
 #EXTINF:-1,SBT² 
 http://191.178.200.175:9981/stream/channelid/57713576
 #EXTINF:-1,SBT³ 
 http://clienteworld.com:8080/daniel99/daniel99/83669
 #EXTINF:-1,SEXTREME¹
-http://177.157.212.56:8000/play/a00g
+http://187.38.145.248:9981/stream/channelid/59658095
 #EXTINF:-1,SEXTREME²
 http://191.221.104.123:1234/stream/channelid/2090671892
 #EXTINF:-1,SEXTREME³
 http://clienteworld.com:8080/daniel99/daniel99/90476
 #EXTINF:-1,SEXY HOT¹
-http://177.157.212.56:8000/play/a00j
+http://187.38.145.248:9981/stream/channelid/2018853879
 #EXTINF:-1,SEXY HOT²
 http://191.221.104.123:1234/stream/channelid/1717300165
 #EXTINF:-1,SEXY HOT³
 http://177.133.15.82:8000/play/SexyHot/index.m3u8
 #EXTINF:-1,Smithsonian¹
-http://191.221.104.123:1234/stream/channelid/1829471739
+http://187.38.145.248:9981/stream/channelid/1914359855
 #EXTINF:-1,Smithsonian²
 http://clienteworld.com:8080/daniel99/daniel99/49197
 #EXTINF:-1,Space¹
-http://191.221.104.123:1234/stream/channelid/1889072971
+http://187.38.145.248:9981/stream/channelid/142882867
 #EXTINF:-1,Space²
 http://191.178.200.175:9981/stream/channelid/1052800536
 #EXTINF:-1,SporTV¹
-http://177.157.212.56:8000/play/a01e
+http://187.38.145.248:9981/stream/channelid/796170986
 #EXTINF:-1,SporTV²
 http://191.178.200.175:9981/stream/channelid/461913637
 #EXTINF:-1,SporTV³
 http://191.178.200.175:9981/stream/channelid/1658341161
 #EXTINF:-1,SporTV2
-http://177.157.212.56:8000/play/a037
+http://187.38.145.248:9981/stream/channelid/1547953691
 #EXTINF:-1,SporTV21
 http://191.178.200.175:9981/stream/channelid/1658341161
 #EXTINF:-1,SporTV2²
 http://clienteworld.com:8080/daniel99/daniel99/82744
 #EXTINF:-1,Sportv 3
-http://191.221.104.123:1234/stream/channelid/1439366393
+http://187.38.145.248:9981/stream/channelid/1864714223
 #EXTINF:-1,Sportv 3¹
 http://191.178.200.175:9981/stream/channelid/1762475026
 #EXTINF:-1,Sportv 3²
 http://clienteworld.com:8080/daniel99/daniel99/82749
 #EXTINF:-1,Studio Universal
-http://191.221.104.123:1234/stream/channelid/29012129
+http://187.38.145.248:9981/stream/channelid/1943778166
 #EXTINF:-1,Studio Universal¹
 http://191.178.200.175:9981/stream/channelid/233797859
 #EXTINF:-1,Studio Universal²
 http://clienteworld.com:8080/daniel99/daniel99/83585
 #EXTINF:-1,Syfy
-http://191.221.104.123:1234/stream/channelid/1007082852
+http://187.38.145.248:9981/stream/channelid/280591861
 #EXTINF:-1,Syfy¹
 http://191.178.200.175:9981/stream/channelid/1975855744
 #EXTINF:-1,Syfy²
 http://clienteworld.com:8080/daniel99/daniel99/28191
 #EXTINF:-1,TBS¹
-http://179.100.59.105:2083/play/a04f/index.m3u8
+http://187.38.145.248:9981/stream/channelid/1504025881
 #EXTINF:-1,TBS²
 http://191.221.104.123:1234/stream/channelid/1951538313
 #EXTINF:-1,TBS³
 http://191.178.200.175:9981/stream/channelid/833366191
 #EXTINF:-1,TCM
-http://191.221.104.123:1234/stream/channelid/118835257
+http://187.38.145.248:9981/stream/channelid/238800637
 #EXTINF:-1,TCM ²
 http://191.178.200.175:9981/stream/channelid/953908040
 #EXTINF:-1,Telecine Action
