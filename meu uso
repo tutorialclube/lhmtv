@@ -30,29 +30,29 @@ http://191.221.104.123:1234/stream/channelid/689274140
 #EXTINF:-1,Arte 1² 
 http://191.178.200.175:9981/stream/channelid/555161919
 #EXTINF:-1,Baby TV 
-http://177.157.212.56:8000/play/a01m
+http://187.38.145.248:9981/stream/channelid/949909719
 #EXTINF:-1,BIS
-http://177.157.212.56:8000/play/a00e
+http://187.38.145.248:9981/stream/channelid/2047090793
 #EXTINF:-1,BIS¹ 
 http://191.221.104.123:1234/stream/channelid/2091976597
 #EXTINF:-1,BIS² 
 http://191.178.200.175:9981/stream/channelid/328629643
 #EXTINF:-1,Band¹ 
-http://191.221.104.123:1234/stream/channelid/379453287
+http://187.38.145.248:9981/stream/channelid/1665751398
 #EXTINF:-1,Band² 
 http://191.178.200.175:9981/stream/channelid/1283364865
 #EXTINF:-1,Band News¹
-http://179.100.59.105:2083/play/a077/index.m3u8
+http://187.38.145.248:9981/stream/channelid/770115629
 #EXTINF:-1,Band News² 
 http://191.221.104.123:1234/stream/channelid/39002301
 #EXTINF:-1,Band News³ 
 http://191.178.200.175:9981/stream/channelid/812779011
 #EXTINF:-1,Band Sports¹ 
-http://191.221.104.123:1234/stream/channelid/852328673
+http://187.38.145.248:9981/stream/channelid/1624234868
 #EXTINF:-1,Band Sports² 
 http://191.178.200.175:9981/stream/channelid/1916056307
 #EXTINF:-1,Boomerang¹ 
-http://179.100.59.105:2083/play/a04g/index.m3u8 
+http://187.38.145.248:9981/stream/channelid/859538807
 #EXTINF:-1,Boomerang² 
 http://191.221.104.123:1234/stream/channelid/631706474
 #EXTINF:-1,Boomerang³ 
