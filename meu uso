@@ -58,39 +58,39 @@ http://191.221.104.123:1234/stream/channelid/631706474
 #EXTINF:-1,Boomerang³ 
 http://191.178.200.175:9981/stream/channelid/1576524409
 #EXTINF:-1,Canção Nova 
-http://191.221.104.123:1234/stream/channelid/1289391111
+http://187.38.145.248:9981/stream/channelid/1435195002
 #EXTINF:-1,Cartoon Network¹ 
-http://177.157.212.56:8000/play/a02n
+http://187.38.145.248:9981/stream/channelid/191890839
 #EXTINF:-1,Cartoon Network² 
 http://191.178.200.175:9981/stream/channelid/480451336
 #EXTINF:-1,Cinemax¹ 
-http://191.221.104.123:1234/stream/channelid/518898616
+http://187.38.145.248:9981/stream/channelid/1150783221
 #EXTINF:-1,Cinemax² 
 http://191.178.200.175:9981/stream/channelid/255951115
 #EXTINF:-1,Comedy Central¹
-http://191.221.104.123:1234/stream/channelid/350808184
+http://187.38.145.248:9981/stream/channelid/871747262
 #EXTINF:-1,Comedy Central²
 http://191.178.200.175:9981/stream/channelid/1705608960
 #EXTINF:-1,Combate¹ 
-http://191.221.104.123:1234/stream/channelid/350808184
+http://187.38.145.248:9981/stream/channelid/417007459
 #EXTINF:-1,Combate² 
 http://191.178.200.175:9981/stream/channelid/225787367
 #EXTINF:-1,CONMEBOL - 1¹ 
-http://191.221.104.123:1234/stream/channelid/506244023
+http://187.38.145.248:9981/stream/channelid/1439103397
 #EXTINF:-1,CONMEBOL - 1²
 http://177.157.212.56:8000/play/a01v
 #EXTINF:-1,CONMEBOL - 2¹
-http://191.221.104.123:1234/stream/channelid/549966904
+http://187.38.145.248:9981/stream/channelid/1706803628
 #EXTINF:-1,CONMEBOL - 2²
 http://177.157.212.56:8000/play/a03n
 #EXTINF:-1,CONMEBOL - 3¹
-http://191.221.104.123:1234/stream/channelid/715905890
+http://187.38.145.248:9981/stream/channelid/1402515279
 #EXTINF:-1,CONMEBOL - 3²
 http://177.133.15.82:8000/play/CONMEBOLTV3/index.m3u8
 #EXTINF:-1,CNN Brasil
-http://177.157.212.56:8000/play/a02t
+http://187.38.145.248:9981/stream/channelid/2022057430
 #EXTINF:-1,Curta!²
-http://191.221.104.123:1234/stream/channelid/589225572
+http://187.38.145.248:9981/stream/channelid/463869874
 #EXTINF:-1,Curta!
 http://191.178.200.175:9981/stream/channelid/332604359
 #EXTINF:-1,Discovery Home & Health¹
