@@ -314,7 +314,7 @@ http://187.38.145.248:9981/stream/channelid/122739563
 #EXTINF:-1,Music Box Brasil²
 http://177.157.212.56:8000/play/a02p
 #EXTINF:-1,NatGeo Wild¹
-http://179.100.59.105:2083/play/a04m/index.m3u8
+http://187.38.145.248:9981/stream/channelid/1894860281
 #EXTINF:-1,NatGeo Wild²
 http://191.221.104.123:1234/stream/channelid/2103278841
 #EXTINF:-1,NatGeo Wild³
@@ -324,19 +324,19 @@ http://200.194.238.231:8888/play/a01x/index.m3u8
 #EXTINF:-1,Natgeo Kids²
 http://191.178.200.175:9981/stream/channelid/832405600
 #EXTINF:-1,National Geographic¹
-http://191.221.104.123:1234/stream/channelid/1156469176
+http://187.38.145.248:9981/stream/channelid/358831194
 #EXTINF:-1,National Geographic²
 http://191.178.200.175:9981/stream/channelid/855554922
 #EXTINF:-1,NHK¹
-http://191.221.104.123:1234/stream/channelid/1846621046
+http://187.38.145.248:9981/stream/channelid/195526914
 #EXTINF:-1,NHK²
 http://177.133.15.82:8000/play/NHK/index.m3u8
 #EXTINF:-1,Nickelodeon¹
-http://191.221.104.123:1234/stream/channelid/813965857
+http://187.38.145.248:9981/stream/channelid/1123649185
 #EXTINF:-1,Nickelodeon²
 http://191.178.200.175:9981/stream/channelid/619457036
 #EXTINF:-1,Nick Jr.¹
-http://179.100.59.105:2083/play/a04j/index.m3u8
+http://187.38.145.248:9981/stream/channelid/1348918673
 #EXTINF:-1,Nick Jr.²
 http://191.221.104.123:1234/stream/channelid/1839678192
 #EXTINF:-1,Nick Jr.³
