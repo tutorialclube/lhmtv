@@ -142,7 +142,7 @@ http://187.38.145.248:9981/stream/channelid/668474962
 #EXTINF:-1,Discovery Turbo²
 http://191.178.200.175:9981/stream/channelid/523062050
 #EXTINF:-1,E!
-http://191.221.104.123:1234/stream/channelid/1729232115
+http://187.38.145.248:9981/stream/channelid/802833524
 #EXTINF:-1,E!
 http://191.178.200.175:9981/stream/channelid/70359298
 #EXTINF:-1,Elas&Elas (adulto)
@@ -150,19 +150,19 @@ http://clienteworld.com:8080/daniel99/daniel99/51489
 #EXTINF:-1,Eles&Eles (adulto)
 http://clienteworld.com:8080/daniel99/daniel99/51995
 #EXTINF:-1,ESPN¹
-http://177.157.212.56:8000/play/a039
+http://187.38.145.248:9981/stream/channelid/1133126870
 #EXTINF:-1,ESPN²
 http://191.178.200.175:9981/stream/channelid/259124184
 #EXTINF:-1,ESPN 2¹
-http://191.221.104.123:1234/stream/channelid/16823215
+http://187.38.145.248:9981/stream/channelid/813007947
 #EXTINF:-1,ESPN 2²
 http://177.157.212.56:8000/play/a005
 #EXTINF:-1,ESPN EXTRA¹
-http://191.221.104.123:1234/stream/channelid/490761376
+http://187.38.145.248:9981/stream/channelid/1924177432
 #EXTINF:-1,ESPN EXTRA²
 http://191.178.200.175:9981/stream/channelid/1141300883
 #EXTINF:-1,ESPN Brasil¹
-http://191.221.104.123:1234/stream/channelid/303561671
+http://187.38.145.248:9981/stream/channelid/1139388060
 #EXTINF:-1,ESPN Brasil²
 http://191.178.200.175:9981/stream/channelid/1983569899
 #EXTINF:-1,Fish TV¹
