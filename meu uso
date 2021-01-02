@@ -2,6 +2,8 @@
 #PLAYLIST:hlscat.com
 #EXTINF:1,A&E
 http://201.1.151.74:2083/play/a04e/index.m3u8?checkedby:hlscat.com
+#EXTINF:1,AMC
+http://201.1.151.74:2083/play/a05i/index.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",(24h) 3 Palavrinhas
 http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/717100.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",(24h) A Bruxinha Sabrina
