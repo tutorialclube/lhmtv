@@ -1,363 +1,293 @@
 #EXTM3U
-#EXTINF:-1,AE
-http://179.177.139.15:8000/play/AE/index.m3u8
-#EXTINF:-1,AMC
-http://179.177.139.15:8000/play/AMC/index.m3u8
-#EXTINF:-1,AXN
-http://179.177.139.15:8000/play/AXN/index.m3u8
-#EXTINF:-1,Animal Planet
-http://179.177.139.15:8000/play/AnimalPlanet/index.m3u8
-#EXTINF:-1,Arte 1
-http://179.177.139.15:8000/play/Arte1/index.m3u8
-#EXTINF:-1,BAND CAMPINAS
-http://179.177.139.15:8000/play/BANDCAMPINAS/index.m3u8
-#EXTINF:-1,BAND CAMPINAS HD
-http://179.177.139.15:8000/play/BANDCAMPINASHD/index.m3u8
-#EXTINF:-1,BBB1
-http://179.177.139.15:8000/play/BBB1/index.m3u8
-#EXTINF:-1,BIS
-http://179.177.139.15:8000/play/BIS/index.m3u8
-#EXTINF:-1,Baby TV
-http://179.177.139.15:8000/play/BabyTV/index.m3u8
-#EXTINF:-1,Band News
-http://179.177.139.15:8000/play/BandNews/index.m3u8
-#EXTINF:-1,Band Sports
-http://179.177.139.15:8000/play/BandSports/index.m3u8
-#EXTINF:-1,BandCuritibaHD
-http://179.177.139.15:8000/play/BandCuritibaHD/index.m3u8
-#EXTINF:-1,Bandeirantes
-http://179.177.139.15:8000/play/Bandeirantes/index.m3u8
-#EXTINF:-1,Boa Vontade TV
-http://179.177.139.15:8000/play/BoaVontadeTV/index.m3u8
-#EXTINF:-1,Boa Vontade TV
-http://179.177.139.15:8000/play/a01c/index.m3u8
-#EXTINF:-1,Boomerang
-http://179.177.139.15:8000/play/Boomerang/index.m3u8
-#EXTINF:-1,CGTN
-http://179.177.139.15:8000/play/a07v/index.m3u8
-#EXTINF:-1,CGTN HD https://iptv.live
-http://179.177.139.15:8000/play/a07x/index.m3u8
-#EXTINF:-1,CNN Brasil
-http://179.177.139.15:8000/play/CNNBrasil/index.m3u8
-#EXTINF:-1,CNN Espaæol
-http://179.177.139.15:8000/play/CNNEspanhol/index.m3u8
-#EXTINF:-1,CNN Internacional
-http://179.177.139.15:8000/play/CNNInternacional/index.m3u8
-#EXTINF:-1,CNT
-http://179.177.139.15:8000/play/CNT/index.m3u8
-#EXTINF:-1,CONMEBOL TV 1
-http://179.177.139.15:8000/play/CONMEBOLTV1/index.m3u8
-#EXTINF:-1,CONMEBOL TV 2
-http://179.177.139.15:8000/play/CONMEBOLTV2/index.m3u8
-#EXTINF:-1,CONMEBOL TV 3
-http://179.177.139.15:8000/play/CONMEBOLTV3/index.m3u8
-#EXTINF:-1,CONMEBOL TV 4
-http://179.177.139.15:8000/play/CONMEBOLTV4/index.m3u8
-#EXTINF:-1,Satellite TV
-http://179.177.139.15:8000/play/CanalBrasil/index.m3u8
-#EXTINF:-1,Satellite TV
-http://179.177.139.15:8000/play/CanalClaro/index.m3u8
-#EXTINF:-1,Satellite TV
-http://179.177.139.15:8000/play/a045/index.m3u8
-#EXTINF:-1,Satellite TV
-http://179.177.139.15:8000/play/CanalRural/index.m3u8
-#EXTINF:-1,Satellite TV
-http://179.177.139.15:8000/play/CanalSony/index.m3u8
-#EXTINF:-1,Satellite TV
-http://179.177.139.15:8000/play/CanaldoBoi/index.m3u8
-#EXTINF:-1,Cancao Nova
-http://179.177.139.15:8000/play/CancaoNova/index.m3u8
-#EXTINF:-1,Cartoon Network
-http://179.177.139.15:8000/play/CartoonNetwork/index.m3u8
-#EXTINF:-1,Cinemax
-http://179.177.139.15:8000/play/Cinemax/index.m3u8
-#EXTINF:-1,Combate
-http://179.177.139.15:8000/play/Combate/index.m3u8
-#EXTINF:-1,Comedy Central
-http://179.177.139.15:8000/play/ComedyCentral/index.m3u8
-#EXTINF:-1,Curta!
-http://179.177.139.15:8000/play/Curta!/index.m3u8
-#EXTINF:-1,Discovery Channel
-http://179.177.139.15:8000/play/DiscoveryChannel/index.m3u8
-#EXTINF:-1,Discovery HH
-http://179.177.139.15:8000/play/DiscoveryHH/index.m3u8
-#EXTINF:-1,Discovery Kids
-http://179.177.139.15:8000/play/DiscoveryKids/index.m3u8
-#EXTINF:-1,Discovery Turbo
-http://179.177.139.15:8000/play/DiscoveryTurbo/index.m3u8
-#EXTINF:-1,Disney
-http://179.177.139.15:8000/play/Disney/index.m3u8
-#EXTINF:-1,Disney Junior
-http://179.177.139.15:8000/play/DisneyJunior/index.m3u8
-#EXTINF:-1,Disney XD
-http://179.177.139.15:8000/play/DisneyXD/index.m3u8
-#EXTINF:-1,E!
-http://179.177.139.15:8000/play/E!/index.m3u8
-#EXTINF:-1,EPTV Campinas
-http://179.177.139.15:8000/play/EPTVCampinas/index.m3u8
-#EXTINF:-1,EPTV Ribeirao Preto
-http://179.177.139.15:8000/play/EPTVRibeiraoPreto/index.m3u8
-#EXTINF:-1,EPTV Sao Carlos
-http://179.177.139.15:8000/play/EPTVSaoCarlos/index.m3u8
-#EXTINF:-1,ESPN
-http://179.177.139.15:8000/play/ESPN/index.m3u8
-#EXTINF:-1,ESPN Brasil
-http://179.177.139.15:8000/play/ESPNBrasil/index.m3u8
-#EXTINF:-1,ESPN2
-http://179.177.139.15:8000/play/ESPN2/index.m3u8
-#EXTINF:-1,FOX
-http://179.177.139.15:8000/play/FOX/index.m3u8
-#EXTINF:-1,FX https://iptv.live
-http://179.177.139.15:8000/play/FX/index.m3u8
-#EXTINF:-1,Film Arts
-http://179.177.139.15:8000/play/FilmArts/index.m3u8
-#EXTINF:-1,Fish TV
-http://179.177.139.15:8000/play/FishTV/index.m3u8
-#EXTINF:-1,Food Network
-http://179.177.139.15:8000/play/FoodNetwork/index.m3u8
-#EXTINF:-1,Fox Life
-http://179.177.139.15:8000/play/FoxLife/index.m3u8
-#EXTINF:-1,Fox Sports
-http://179.177.139.15:8000/play/FoxSports/index.m3u8
-#EXTINF:-1,Fox Sports 2
-http://179.177.139.15:8000/play/FoxSports2/index.m3u8
-#EXTINF:-1,Futura
-http://179.177.139.15:8000/play/Futura/index.m3u8
-#EXTINF:-1,GAZETA SP
-http://179.177.139.15:8000/play/GAZETASP/index.m3u8
-#EXTINF:-1,GAZETA SP HD
-http://179.177.139.15:8000/play/GAZETASPHD/index.m3u8
-#EXTINF:-1,GNT
-http://179.177.139.15:8000/play/GNT/index.m3u8
-#EXTINF:-1,Globo Brasilia
-http://179.177.139.15:8000/play/GloboBrasilia/index.m3u8
-#EXTINF:-1,Globo Minas
-http://179.177.139.15:8000/play/GloboMinas/index.m3u8
-#EXTINF:-1,Globo Nordeste
-http://179.177.139.15:8000/play/GloboNordeste/index.m3u8
-#EXTINF:-1,Globo RJ
-http://179.177.139.15:8000/play/GloboRJ/index.m3u8
-#EXTINF:-1,Globo SP
-http://179.177.139.15:8000/play/GloboSP/index.m3u8
-#EXTINF:-1,GloboNews
-http://179.177.139.15:8000/play/GloboNews/index.m3u8
-#EXTINF:-1,Gloob
-http://179.177.139.15:8000/play/Gloob/index.m3u8
-#EXTINF:-1,HBO
-http://179.177.139.15:8000/play/HBO/index.m3u8
-#EXTINF:-1,HBO Family
-http://179.177.139.15:8000/play/HBOFamily/index.m3u8
-#EXTINF:-1,HBO Plus
-http://179.177.139.15:8000/play/HBOPlus/index.m3u8
-#EXTINF:-1,HBO Signature
-http://179.177.139.15:8000/play/HBOSignature/index.m3u8
-#EXTINF:-1,HBO2
-http://179.177.139.15:8000/play/HBO2/index.m3u8
-#EXTINF:-1,History 2
-http://179.177.139.15:8000/play/History2/index.m3u8
-#EXTINF:-1,I-SAT
-http://179.177.139.15:8000/play/I-SAT/index.m3u8
-#EXTINF:-1,ID - Investigacao Discovery
-http://179.177.139.15:8000/play/ID-InvestigacaoDiscovery/index.m3u8
-#EXTINF:-1,Ideal TV
-http://179.177.139.15:8000/play/IdealTV/index.m3u8
-#EXTINF:-1,Inter TV Cabugi
-http://179.177.139.15:8000/play/InterTVCabugi/index.m3u8
-#EXTINF:-1,Lifetime
-http://179.177.139.15:8000/play/Lifetime/index.m3u8
-#EXTINF:-1,MAX
-http://179.177.139.15:8000/play/MAX/index.m3u8
-#EXTINF:-1,MAX Prime
-http://179.177.139.15:8000/play/MAXPrime/index.m3u8
-#EXTINF:-1,MAX UP
-http://179.177.139.15:8000/play/MAXUP/index.m3u8
-#EXTINF:-1,MTV
-http://179.177.139.15:8000/play/MTV/index.m3u8
-#EXTINF:-1,Mais Globosat
-http://179.177.139.15:8000/play/MaisGlobosat/index.m3u8
-#EXTINF:-1,Mais na tela
-http://179.177.139.15:8000/play/a07w/index.m3u8
-#EXTINF:-1,MegaPix
-http://179.177.139.15:8000/play/MegaPix/index.m3u8
-#EXTINF:-1,Multishow
-http://179.177.139.15:8000/play/Multishow/index.m3u8
-#EXTINF:-1,Music Box Brazil
-http://179.177.139.15:8000/play/MusicBoxBrazil/index.m3u8
-#EXTINF:-1,NHK
-http://179.177.139.15:8000/play/NHK/index.m3u8
-#EXTINF:-1,NatGeo Kids
-http://179.177.139.15:8000/play/NatGeoKids/index.m3u8
-#EXTINF:-1,NatGeo Wild
-http://179.177.139.15:8000/play/NatGeoWild/index.m3u8
-#EXTINF:-1,National Geographic
-http://179.177.139.15:8000/play/NationalGeographic/index.m3u8
-#EXTINF:-1,Nick Jr
-http://179.177.139.15:8000/play/NickJr/index.m3u8
-#EXTINF:-1,Nickelodeon
-http://179.177.139.15:8000/play/Nickelodeon/index.m3u8
-#EXTINF:-1,OFF
-http://179.177.139.15:8000/play/OFF/index.m3u8
-#EXTINF:-1,Paramount
-http://179.177.139.15:8000/play/Paramount/index.m3u8
-#EXTINF:-1,Play TV
-http://179.177.139.15:8000/play/PlayTV/index.m3u8
-#EXTINF:-1,Playboy TV
-http://179.177.139.15:8000/play/PlayboyTV/index.m3u8
-#EXTINF:-1,Polishop TV
-http://179.177.139.15:8000/play/PolishopTV/index.m3u8
-#EXTINF:-1,Premiere 2
-http://179.177.139.15:8000/play/Premiere2/index.m3u8
-#EXTINF:-1,Premiere 3
-http://179.177.139.15:8000/play/Premiere3/index.m3u8
-#EXTINF:-1,Premiere 4
-http://179.177.139.15:8000/play/Premiere4/index.m3u8
-#EXTINF:-1,Premiere 5
-http://179.177.139.15:8000/play/Premiere5/index.m3u8
-#EXTINF:-1,Premiere 6
-http://179.177.139.15:8000/play/Premiere6/index.m3u8
-#EXTINF:-1,Premiere 8
-http://179.177.139.15:8000/play/Premiere8/index.m3u8
-#EXTINF:-1,Premiere Clubes
-http://179.177.139.15:8000/play/PremiereClubes/index.m3u8
-#EXTINF:-1,Prime Box Brazil
-http://179.177.139.15:8000/play/PrimeBoxBrazil/index.m3u8
-#EXTINF:-1,RBS TV Porto Alegre
-http://179.177.139.15:8000/play/RBSTVPortoAlegre/index.m3u8
-#EXTINF:-1,RECORDTV
-http://179.177.139.15:8000/play/RECORDTV/index.m3u8
-#EXTINF:-1,RPC TV Curitiba
-http://179.177.139.15:8000/play/RPCTVCuritiba/index.m3u8
-#EXTINF:-1,Record News
-http://179.177.139.15:8000/play/RecordNews/index.m3u8
-#EXTINF:-1,Record SJRP HD
-http://179.177.139.15:8000/play/RecordSJRPHD/index.m3u8
-#EXTINF:-1,RecordTV Rio
-http://179.177.139.15:8000/play/RecordTVRio/index.m3u8
-#EXTINF:-1,RecordTV Rio HD
-http://179.177.139.15:8000/play/RecordTVRioHD/index.m3u8
-#EXTINF:-1,RecordTVbelem
-http://179.177.139.15:8000/play/RecordTVbelem/index.m3u8
-#EXTINF:-1,RecordTVbelemHD
-http://179.177.139.15:8000/play/RecordTVbelemHD/index.m3u8
-#EXTINF:-1,Rede Amazonica Manaus
-http://179.177.139.15:8000/play/RedeAmazonicaManaus/index.m3u8
-#EXTINF:-1,Rede TV
-http://179.177.139.15:8000/play/RedeTV/index.m3u8
-#EXTINF:-1,Rede Vida
-http://179.177.139.15:8000/play/RedeVida/index.m3u8
-#EXTINF:-1,SBT
-http://179.177.139.15:8000/play/SBT/index.m3u8
-#EXTINF:-1,SIC Internacional
-http://179.177.139.15:8000/play/SICInternacional/index.m3u8
-#EXTINF:-1,Sextreme
-http://179.177.139.15:8000/play/Sextreme/index.m3u8
-#EXTINF:-1,Sexy Hot
-http://179.177.139.15:8000/play/SexyHot/index.m3u8
-#EXTINF:-1,Space
-http://179.177.139.15:8000/play/Space/index.m3u8
-#EXTINF:-1,SporTV
-http://179.177.139.15:8000/play/SporTV/index.m3u8
-#EXTINF:-1,SporTV 2
-http://179.177.139.15:8000/play/SporTV2/index.m3u8
-#EXTINF:-1,SporTV 2 Alternativo
-http://179.177.139.15:8000/play/SporTV2Alternativo/index.m3u8
-#EXTINF:-1,SporTV 3
-http://179.177.139.15:8000/play/SporTV3/index.m3u8
-#EXTINF:-1,SporTV Alternativo
-http://179.177.139.15:8000/play/SporTVAlternativo/index.m3u8
-#EXTINF:-1,Studio Universal
-http://179.177.139.15:8000/play/StudioUniversal/index.m3u8
-#EXTINF:-1,Syfy
-http://179.177.139.15:8000/play/Syfy/index.m3u8
-#EXTINF:-1,TBS
-http://179.177.139.15:8000/play/TBS/index.m3u8
-#EXTINF:-1,TCM
-http://179.177.139.15:8000/play/TCM/index.m3u8
-#EXTINF:-1,TLC
-http://179.177.139.15:8000/play/TLC/index.m3u8
-#EXTINF:-1,TNT
-http://179.177.139.15:8000/play/TNT/index.m3u8
-#EXTINF:-1,TNT Series
-http://179.177.139.15:8000/play/TNTSeries/index.m3u8
-#EXTINF:-1,TV Anhanguera Goiania
-http://179.177.139.15:8000/play/TVAnhangueraGoiania/index.m3u8
-#EXTINF:-1,TV Aparecida
-http://179.177.139.15:8000/play/TVAparecida/index.m3u8
-#EXTINF:-1,TV Aratu HD (SBT Bahia)
-http://179.177.139.15:8000/play/TVAratuHD/index.m3u8
-#EXTINF:-1,TV Bahia
-http://179.177.139.15:8000/play/TVBahia/index.m3u8
-#EXTINF:-1,TV Brasil 2
-http://179.177.139.15:8000/play/TVBrasil2/index.m3u8
-#EXTINF:-1,TV Cabralia HD (Record Bahia)
-http://179.177.139.15:8000/play/TVCabraliaHD/index.m3u8
-#EXTINF:-1,TV Camara
-http://179.177.139.15:8000/play/TVCamara/index.m3u8
-#EXTINF:-1,TV Centro America Cuiaba
-http://179.177.139.15:8000/play/TVCentroAmericaCuiaba/index.m3u8
-#EXTINF:-1,TV Cultura
-http://179.177.139.15:8000/play/TVCultura/index.m3u8
-#EXTINF:-1,TV Escola
-http://179.177.139.15:8000/play/TVEscola/index.m3u8
-#EXTINF:-1,TV GAZETA AL
-http://179.177.139.15:8000/play/a07j/index.m3u8
-#EXTINF:-1,TV Justica
-http://179.177.139.15:8000/play/TVJustica/index.m3u8
-#EXTINF:-1,TV Liberal Belem
-http://179.177.139.15:8000/play/TVLiberalBelem/index.m3u8
-#EXTINF:-1,TV Novo Tempo
-http://179.177.139.15:8000/play/TVNovoTempo/index.m3u8
-#EXTINF:-1,TV RA tim bum
-http://179.177.139.15:8000/play/TVRatimbum/index.m3u8
-#EXTINF:-1,TV Santa Cruz
-http://179.177.139.15:8000/play/TVSantaCruz/index.m3u8
-#EXTINF:-1,TV Senado
-http://179.177.139.15:8000/play/TVSenado/index.m3u8
-#EXTINF:-1,TV Subae - FSA
-http://179.177.139.15:8000/play/TVSubae/index.m3u8
-#EXTINF:-1,TV Sudoeste
-http://179.177.139.15:8000/play/a07d/index.m3u8
-#EXTINF:-1,TV Tem Bauru
-http://179.177.139.15:8000/play/TVTemBauru/index.m3u8
-#EXTINF:-1,TV Tem Sao Jose do Rio Preto
-http://179.177.139.15:8000/play/TVTemSaoJosedoRioPreto/index.m3u8
-#EXTINF:-1,TV Tem Sorocaba
-http://179.177.139.15:8000/play/TVTemSorocaba/index.m3u8
-#EXTINF:-1,TV Tribuna Santos
-http://179.177.139.15:8000/play/TVTribunaSantos/index.m3u8
-#EXTINF:-1,TV Vanguarda S. J. dos Campos
-http://179.177.139.15:8000/play/TVVanguardaSJdosCampos/index.m3u8
-#EXTINF:-1,TV Verdes Mares Fortaleza
-http://179.177.139.15:8000/play/TVVerdesMaresFortaleza/index.m3u8
-#EXTINF:-1,Telecine Action
-http://179.177.139.15:8000/play/TelecineAction/index.m3u8
-#EXTINF:-1,Telecine Cult
-http://179.177.139.15:8000/play/TelecineCult/index.m3u8
-#EXTINF:-1,Telecine Fun
-http://179.177.139.15:8000/play/TelecineFun/index.m3u8
-#EXTINF:-1,Telecine Pipoca
-http://179.177.139.15:8000/play/TelecinePipoca/index.m3u8
-#EXTINF:-1,Telecine Premium
-http://179.177.139.15:8000/play/TelecinePremium/index.m3u8
-#EXTINF:-1,Telecine Touch
-http://179.177.139.15:8000/play/TelecineTouch/index.m3u8
-#EXTINF:-1,Terra Viva
-http://179.177.139.15:8000/play/TerraViva/index.m3u8
-#EXTINF:-1,The History Channel
-http://179.177.139.15:8000/play/TheHistoryChannel/index.m3u8
-#EXTINF:-1,Tooncast
-http://179.177.139.15:8000/play/Tooncast/index.m3u8
-#EXTINF:-1,TruTV
-http://179.177.139.15:8000/play/TruTV/index.m3u8
-#EXTINF:-1,Universal TV
-http://179.177.139.15:8000/play/UniversalTV/index.m3u8
-#EXTINF:-1,Unknown
-http://179.177.139.15:8000/play/a07u/index.m3u8
-#EXTINF:-1,Viva
-http://179.177.139.15:8000/play/Viva/index.m3u8
-#EXTINF:-1,Warner Channel
-http://179.177.139.15:8000/play/WarnerChannel/index.m3u8
-#EXTINF:-1,Woohoo
-http://179.177.139.15:8000/play/Woohoo/index.m3u8
-#EXTINF:-1,ZooMoo
-http://179.177.139.15:8000/play/ZooMoo/index.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: A&E" tvg-logo="" group-title="Live: Brazil",VIP BR: A&E
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/7973
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: A&E HD" tvg-logo="[" group-title="Live: Brazil",VIP BR: A&E HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19429
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: AMC HD" tvg-logo="" group-title="Live: Brazil",VIP BR: AMC HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19428
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: ANIMAL PLANET" tvg-logo="" group-title="Live: Brazil",VIP BR: ANIMAL PLANET
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/7974
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Animal Planet HD" tvg-logo="" group-title="Live: Brazil",VIP BR: Animal Planet HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19481
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Aparceida" tvg-logo="" group-title="Live: Brazil",VIP BR: Aparceida
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19510
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Arte 1" tvg-logo="[" group-title="Live: Brazil",VIP BR: Arte 1
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19439
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: AXN" tvg-logo="[" group-title="Live: Brazil",VIP BR: AXN
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/7975
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: AXN HD" tvg-logo="[" group-title="Live: Brazil",VIP BR: AXN HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19480
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Baby TV" tvg-logo="" group-title="Live: Brazil",VIP BR: Baby TV
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19445
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: BAND HD" tvg-logo="[" group-title="Live: Brazil",VIP BR: BAND HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/7976
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: BAND NEWS" tvg-logo="[" group-title="Live: Brazil",VIP BR: BAND NEWS
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/7977
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: BAND SPORTS" tvg-logo="[" group-title="Live: Brazil",VIP BR: BAND SPORTS
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/7978
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: BIS" tvg-logo="" group-title="Live: Brazil",VIP BR: BIS
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19509
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Boomerang" tvg-logo="" group-title="Live: Brazil",VIP BR: Boomerang
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19441
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Canal Brazil" tvg-logo="" group-title="Live: Brazil",VIP BR: Canal Brazil
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/10421
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Canal Sony" tvg-logo="" group-title="Live: Brazil",VIP BR: Canal Sony
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/10440
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Cartoon Network" tvg-logo="" group-title="Live: Brazil",VIP BR: Cartoon Network
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19508
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Cinemax HD" tvg-logo="" group-title="Live: Brazil",VIP BR: Cinemax HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19427
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Combate" tvg-logo="" group-title="Live: Brazil",VIP BR: Combate
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/10422
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Combate HD" tvg-logo="" group-title="Live: Brazil",VIP BR: Combate HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19479
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Comedy Central" tvg-logo="" group-title="Live: Brazil",VIP BR: Comedy Central
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19444
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: DISCOVERY" tvg-logo="" group-title="Live: Brazil",VIP BR: DISCOVERY
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/7980
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Discovery Channel HD" tvg-logo="" group-title="Live: Brazil",VIP BR: Discovery Channel HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19478
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: HG TV" tvg-logo="" group-title="Live: Brazil",VIP BR: HG TV
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19507
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Discovery Home Health" tvg-logo="" group-title="Live: Brazil",VIP BR: Discovery Home Health
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19506
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Discovery Home & Health HD" tvg-logo="" group-title="Live: Brazil",VIP BR: Discovery Home & Health HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19477
+#EXTINF:-1 tvg-ID="" tvg-name="VIP BR: Discovery Investigação HD" tvg-logo="[""]" group-title="Live: Brazil",VIP BR: Discovery Investigação HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19458
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Discovery Kids" tvg-logo="" group-title="Live: Brazil",VIP BR: Discovery Kids
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19443
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Discovery Science Brasil" tvg-logo="" group-title="Live: Brazil",VIP BR: Discovery Science Brasil
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/10423
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: DAZN Brasil" tvg-logo="[" group-title="Live: Brazil",VIP BR: DAZN Brasil
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19476
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Discovery Turbo" tvg-logo="" group-title="Live: Brazil",VIP BR: Discovery Turbo
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19505
+#EXTINF:-1 tvg-ID="" tvg-name="VIP BR: Discovery Turbo HD" tvg-logo="" group-title="Live: Brazil",VIP BR: Discovery Turbo HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19475
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Discovery World HD" tvg-logo="" group-title="Live: Brazil",VIP BR: Discovery World HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19474
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Disney Brasil" tvg-logo="" group-title="Live: Brazil",VIP BR: Disney Brasil
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/10424
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Disney Jr" tvg-logo="" group-title="Live: Brazil",VIP BR: Disney Jr
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/10425
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Disney XD" tvg-logo="" group-title="Live: Brazil",VIP BR: Disney XD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19504
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: E !" tvg-logo="" group-title="Live: Brazil",VIP BR: E !
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/7981
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: ESPN Brasil FHD" tvg-logo="" group-title="Live: Brazil",VIP BR: ESPN Brasil FHD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19472
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: ESPN BRAZIL" tvg-logo="" group-title="Live: Brazil",VIP BR: ESPN BRAZIL
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/7724
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: ESPN BRAZIL HD" tvg-logo="" group-title="Live: Brazil",VIP BR: ESPN BRAZIL HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/14618
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: ESPN FHD" tvg-logo="" group-title="Live: Brazil",VIP BR: ESPN FHD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19473
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: ESPN HD" tvg-logo="[" group-title="Live: Brazil",VIP BR: ESPN HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/7725
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: ESPN Extra FHD" tvg-logo="" group-title="Live: Brazil",VIP BR: ESPN Extra FHD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19470
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: ESPN 2 FHD" tvg-logo="[" group-title="Live: Brazil",VIP BR: ESPN 2 FHD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19471
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Fish TV" tvg-logo="" group-title="Live: Brazil",VIP BR: Fish TV
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19503
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Food Network" tvg-logo="" group-title="Live: Brazil",VIP BR: Food Network
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19442
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: FOX" tvg-logo="" group-title="Live: Brazil",VIP BR: FOX
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/7982
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: FOX FHD" tvg-logo="" group-title="Live: Brazil",VIP BR: FOX FHD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19469
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Fox Life" tvg-logo="" group-title="Live: Brazil",VIP BR: Fox Life
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19502
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: FOX Life FHD" tvg-logo="" group-title="Live: Brazil",VIP BR: FOX Life FHD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19468
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: FOX Premium 1 HD" tvg-logo="" group-title="Live: Brazil",VIP BR: FOX Premium 1 HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/14619
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: FOX Premium 2 HD" tvg-logo="" group-title="Live: Brazil",VIP BR: FOX Premium 2 HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/14620
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Fox Sport FHD" tvg-logo="" group-title="Live: Brazil",VIP BR: Fox Sport FHD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19467
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: FOX SPORTS" tvg-logo="" group-title="Live: Brazil",VIP BR: FOX SPORTS
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/7782
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: FOX SPORTS 2" tvg-logo="" group-title="Live: Brazil",VIP BR: FOX SPORTS 2
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/7722
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: FX" tvg-logo="" group-title="Live: Brazil",VIP BR: FX
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19501
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: FX HD" tvg-logo="" group-title="Live: Brazil",VIP BR: FX HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19466
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Globo MG" tvg-logo="[" group-title="Live: Brazil",VIP BR: Globo MG
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19436
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Globo News HD" tvg-logo="[" group-title="Live: Brazil",VIP BR: Globo News HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/10426
+#EXTINF:-1 tvg-ID="" tvg-name="VIP BR: Globo Nordeste" tvg-logo="" group-title="Live: Brazil",VIP BR: Globo Nordeste
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19435
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Globo RJ" tvg-logo="" group-title="Live: Brazil",VIP BR: Globo RJ
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19437
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Globo RBS HD" tvg-logo="" group-title="Live: Brazil",VIP BR: Globo RBS HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/50640
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Globo RJ HD" tvg-logo="" group-title="Live: Brazil",VIP BR: Globo RJ HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19465
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Globo SP" tvg-logo="[" group-title="Live: Brazil",VIP BR: Globo SP
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19438
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Globo" tvg-logo="[" group-title="Live: Brazil",VIP BR: Globo
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19434
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: GNT HD" tvg-logo="" group-title="Live: Brazil",VIP BR: GNT HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/10429
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: History Channel" tvg-logo="[" group-title="Live: Brazil",VIP BR: History Channel
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19489
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: History Channel HD" tvg-logo="" group-title="Live: Brazil",VIP BR: History Channel HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19459
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: H2" tvg-logo="" group-title="Live: Brazil",VIP BR: H2
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/7985
+#EXTINF:-1 tvg-ID="" tvg-name="VIP BR: H2 HD" tvg-logo="" group-title="Live: Brazil",VIP BR: H2 HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19464
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: HBO HD" tvg-logo="" group-title="Live: Brazil",VIP BR: HBO HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/7983
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: HBO 2" tvg-logo="" group-title="Live: Brazil",VIP BR: HBO 2
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/7984
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: HBO 2 HD" tvg-logo="" group-title="Live: Brazil",VIP BR: HBO 2 HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19463
+#EXTINF:-1 tvg-ID="" tvg-name="VIP BR: HBO Family Brazil" tvg-logo="" group-title="Live: Brazil",VIP BR: HBO Family Brazil
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/10430
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: HBO Family HD" tvg-logo="[" group-title="Live: Brazil",VIP BR: HBO Family HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19462
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: HBO Plus Brasil" tvg-logo="" group-title="Live: Brazil",VIP BR: HBO Plus Brasil
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/10431
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: HBO Plus HD" tvg-logo="" group-title="Live: Brazil",VIP BR: HBO Plus HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19461
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: HBO Signature Brasil" tvg-logo="" group-title="Live: Brazil",VIP BR: HBO Signature Brasil
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/10432
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: HBO Signature HD" tvg-logo="" group-title="Live: Brazil",VIP BR: HBO Signature HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19460
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: HBO Mundi HD" tvg-logo="" group-title="Live: Brazil",VIP BR: HBO Mundi HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/50638
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: HBO Pop HD" tvg-logo="" group-title="Live: Brazil",VIP BR: HBO Pop HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/50639
+#EXTINF:-1 tvg-ID="" tvg-name="VIP BR: Investigação Discovery" tvg-logo="" group-title="Live: Brazil",VIP BR: Investigação Discovery
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19500
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Mais Globosat HD" tvg-logo="" group-title="Live: Brazil",VIP BR: Mais Globosat HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19499
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Band Campinas HD" tvg-logo="" group-title="Live: Brazil",VIP BR: Band Campinas HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/7979
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: HBO Xtream HD" tvg-logo="" group-title="Live: Brazil",VIP BR: HBO Xtream HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/10428
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Max Up" tvg-logo="" group-title="Live: Brazil",VIP BR: Max Up
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/10434
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Megapix FHD" tvg-logo="" group-title="Live: Brazil",VIP BR: Megapix FHD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19457
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: MegaPix HD" tvg-logo="" group-title="Live: Brazil",VIP BR: MegaPix HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/10433
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: MTV" tvg-logo="[" group-title="Live: Brazil",VIP BR: MTV
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/7986
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Multi Show FHD" tvg-logo="" group-title="Live: Brazil",VIP BR: Multi Show FHD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/10441
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: NAT GEO" tvg-logo="" group-title="Live: Brazil",VIP BR: NAT GEO
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/7987
+#EXTINF:-1 tvg-ID="" tvg-name="VIP BR: Nick HD" tvg-logo="" group-title="Live: Brazil",VIP BR: Nick HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19497
+#EXTINF:-1 tvg-ID="" tvg-name="VIP BR: Nick Jr HD" tvg-logo="" group-title="Live: Brazil",VIP BR: Nick Jr HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19498
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: BOA VONTADE TV HD" tvg-logo="[" group-title="Live: Brazil",VIP BR: BOA VONTADE TV HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19496
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: OFF FHD" tvg-logo="" group-title="Live: Brazil",VIP BR: OFF FHD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19456
+#EXTINF:-1 tvg-ID="" tvg-name="VIP BR: OFF HD" tvg-logo="" group-title="Live: Brazil",VIP BR: OFF HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/14621
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Paramount" tvg-logo="" group-title="Live: Brazil",VIP BR: Paramount
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/10448
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Paramount HD" tvg-logo="" group-title="Live: Brazil",VIP BR: Paramount HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19455
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Premiere Clubes FHD" tvg-logo="" group-title="Live: Brazil",VIP BR: Premiere Clubes FHD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19454
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: PREMIER CLUBES HD" tvg-logo="" group-title="Live: Brazil",VIP BR: PREMIER CLUBES HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/7988
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Premiere 2" tvg-logo="" group-title="Live: Brazil",VIP BR: Premiere 2
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/10435
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Premiere 3" tvg-logo="" group-title="Live: Brazil",VIP BR: Premiere 3
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/10436
+#EXTINF:-1 tvg-ID="" tvg-name="VIP BR: Premiere 4" tvg-logo="" group-title="Live: Brazil",VIP BR: Premiere 4
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/10437
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Premiere 5" tvg-logo="" group-title="Live: Brazil",VIP BR: Premiere 5
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/10438
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Premiere 6" tvg-logo="" group-title="Live: Brazil",VIP BR: Premiere 6
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/10439
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: RIT" tvg-logo="[" group-title="Live: Brazil",VIP BR: RIT
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/10427
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Record" tvg-logo="" group-title="Live: Brazil",VIP BR: Record
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19433
+#EXTINF:-1 tvg-ID="" tvg-name="VIP BR: Record News" tvg-logo="" group-title="Live: Brazil",VIP BR: Record News
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19432
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Rede TV" tvg-logo="[" group-title="Live: Brazil",VIP BR: Rede TV
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19431
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Rede Vida" tvg-logo="" group-title="Live: Brazil",VIP BR: Rede Vida
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/50641
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: SBT" tvg-logo="" group-title="Live: Brazil",VIP BR: SBT
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19495
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Space Brasil" tvg-logo="" group-title="Live: Brazil",VIP BR: Space Brasil
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19494
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Space HD" tvg-logo="" group-title="Live: Brazil",VIP BR: Space HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19453
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Sport TV FHD" tvg-logo="" group-title="Live: Brazil",VIP BR: Sport TV FHD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19450
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: SPORT TV HD" tvg-logo="" group-title="Live: Brazil",VIP BR: SPORT TV HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/7715
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Sport TV 2 FHD" tvg-logo="" group-title="Live: Brazil",VIP BR: Sport TV 2 FHD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19452
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: SPORT TV 2 HD" tvg-logo="" group-title="Live: Brazil",VIP BR: SPORT TV 2 HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/7716
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Sport TV 3 FHD" tvg-logo="" group-title="Live: Brazil",VIP BR: Sport TV 3 FHD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19451
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: SPORT TV 3 HD" tvg-logo="" group-title="Live: Brazil",VIP BR: SPORT TV 3 HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/7717
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Studio Universal" tvg-logo="" group-title="Live: Brazil",VIP BR: Studio Universal
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19493
+#EXTINF:-1 tvg-ID="" tvg-name="VIP BR: Syfy" tvg-logo="" group-title="Live: Brazil",VIP BR: Syfy
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19492
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: TBS" tvg-logo="" group-title="Live: Brazil",VIP BR: TBS
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19491
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: TCM" tvg-logo="" group-title="Live: Brazil",VIP BR: TCM
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19490
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Telecine Action HD" tvg-logo="" group-title="Live: Brazil",VIP BR: Telecine Action HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/10442
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Telecine Cult HD" tvg-logo="[" group-title="Live: Brazil",VIP BR: Telecine Cult HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/10443
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Telecine Fun HD" tvg-logo="" group-title="Live: Brazil",VIP BR: Telecine Fun HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/10444
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Telecine Pipoca HD" tvg-logo="" group-title="Live: Brazil",VIP BR: Telecine Pipoca HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/10445
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Telecine Premium HD" tvg-logo="" group-title="Live: Brazil",VIP BR: Telecine Premium HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/10446
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Telecine Touch HD" tvg-logo="" group-title="Live: Brazil",VIP BR: Telecine Touch HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/10447
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: TLC" tvg-logo="[" group-title="Live: Brazil",VIP BR: TLC
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/7989
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: TNT" tvg-logo="" group-title="Live: Brazil",VIP BR: TNT
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/7990
+#EXTINF:-1 tvg-ID="" tvg-name="VIP BR: TNT HD" tvg-logo="" group-title="Live: Brazil",VIP BR: TNT HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19449
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: TNT Series" tvg-logo="" group-title="Live: Brazil",VIP BR: TNT Series
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19488
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: TNT Séries HD" tvg-logo="" group-title="Live: Brazil",VIP BR: TNT Séries HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19448
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Tooncast" tvg-logo="" group-title="Live: Brazil",VIP BR: Tooncast
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19440
+#EXTINF:-1 tvg-ID="" tvg-name="VIP BR: Tv Escola" tvg-logo="" group-title="Live: Brazil",VIP BR: Tv Escola
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19487
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: CNN Brazil" tvg-logo="" group-title="Live: Brazil",VIP BR: CNN Brazil
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19486
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Universal" tvg-logo="" group-title="Live: Brazil",VIP BR: Universal
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19485
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Universal Channels HD" tvg-logo="" group-title="Live: Brazil",VIP BR: Universal Channels HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19447
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: TVI Brazil" tvg-logo="[" group-title="Live: Brazil",VIP BR: TVI Brazil
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19484
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: VH1 Mega Hits" tvg-logo="" group-title="Live: Brazil",VIP BR: VH1 Mega Hits
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19483
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Viva" tvg-logo="" group-title="Live: Brazil",VIP BR: Viva
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19482
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: WARNER" tvg-logo="" group-title="Live: Brazil",VIP BR: WARNER
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/7991
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Warner Channel HD" tvg-logo="" group-title="Live: Brazil",VIP BR: Warner Channel HD
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19446
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Woohoo TV" tvg-logo="" group-title="Live: Brazil",VIP BR: Woohoo TV
+http://pandaiptv.club:8080/AN0QUeXU2x03km1q/jKcx0RbAntRUcFWN/19430
