@@ -145,3 +145,5 @@ http://201.1.151.74:2083/play/a07r/index.m3u8
 http://201.1.151.74:2083/play/a03t/index.m3u8
 #EXTINF:-1,Warner Channel
 http://201.1.151.74:2083/play/a03z/index.m3u8
+#EXTINF:-1,Mulher Maravilha
+https://s18.aparat.cam/hls/aoqozsye6kr5fwfuhzjroyi3jgsaet5hzu433mqhxay2d43a4zugvprf3cna/index-v1-a1.m3u8
