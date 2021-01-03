@@ -1,55 +1,147 @@
 #EXTM3U
-#PLAYLIST:hlscat.com
-#EXTINF:1,A&E
-http://201.1.151.74:2083/play/a04e/index.m3u8?checkedby:hlscat.com
-#EXTINF:1,AMC
-http://201.1.151.74:2083/play/a05i/index.m3u8?checkedby:hlscat.com
-#EXTINF:1,Animal Planet
-http://tv.factoryiptv.com:80/Alana10/Alana10/37128?checkedby:hlscat.com
-#EXTINF:1,AXN
-http://tv.factoryiptv.com:80/Alana10/Alana10/37132?checkedby:hlscat.com
-#EXTINF:1,Cinemax
-http://tv.factoryiptv.com:80/Alana10/Alana10/37120?checkedby:hlscat.com
-#EXTINF:1,films&arts
-http://201.1.151.74:2083/play/a045/index.m3u8?checkedby:hlscat.com
-#EXTINF:1,fox
-http://tv.factoryiptv.com:80/Alana10/Alana10/37101?checkedby:hlscat.com
-#EXTINF:1,fx
-http://tv.factoryiptv.com:80/Alana10/Alana10/37097?checkedby:hlscat.com
-#EXTINF:1,HBO Family
-http://201.1.151.74:2083/play/a04d/index.m3u8?checkedby:hlscat.com
-#EXTINF:1,HBO Plus
-http://201.1.151.74:2083/play/a03w/index.m3u8?checkedby:hlscat.com
-#EXTINF:1,HBO 2
-http://tv.factoryiptv.com:80/Alana10/Alana10/37086?checkedby:hlscat.com
-#EXTINF:1,HBO Mundi
-http://tv.factoryiptv.com:80/Alana10/Alana10/37076?checkedby:hlscat.com
-#EXTINF:1,HBO Pop
-http://tv.factoryiptv.com:80/Alana10/Alana10/37073?checkedby:hlscat.com
-#EXTINF:1,HBO Signature
-http://tv.factoryiptv.com:80/Alana10/Alana10/37082?checkedby:hlscat.com
-#EXTINF:1,HBO Xtreme
-http://tv.factoryiptv.com:80/Alana10/Alana10/37075?checkedby:hlscat.com
-#EXTINF:1,Lifetime
-http://201.1.151.74:2083/play/a03y/index.m3u8?checkedby:hlscat.com
-#EXTINF:1,Megapix
-http://tv.factoryiptv.com:80/Alana10/Alana10/37072?checkedby:hlscat.com
-#EXTINF:1,Paramount Channel
-http://tv.factoryiptv.com:80/Alana10/Alana10/37062?checkedby:hlscat.com
-#EXTINF:1,Telecine Fun
-http://201.1.151.74:2083/play/a04a/index.m3u8?checkedby:hlscat.com
-#EXTINF:1,Telecine Premium
-http://201.1.151.74:2083/play/a055/index.m3u8?checkedby:hlscat.com
-#EXTINF:1,Telecine Touch
-http://201.1.151.74:2083/play/a07q/index.m3u8?checkedby:hlscat.com
-#EXTINF:1,Telecine Action
-http://tv.factoryiptv.com:80/Alana10/Alana10/38418?checkedby:hlscat.com
-#EXTINF:1,Telecine Pipoca
-http://tv.factoryiptv.com:80/Alana10/Alana10/38416?checkedby:hlscat.com
-#EXTINF:1,Globo RJ
-http://201.1.151.74:2083/play/a061/index.m3u8?checkedby:hlscat.com
-#EXTINF:1,Viva
-http://201.1.151.74:2083/play/a03t/index.m3u8?checkedby:hlscat.com
-
-
-
+#EXTINF:-1,A&E
+http://201.1.151.74:2083/play/a04e/index.m3u8
+#EXTINF:-1,AMC
+http://201.1.151.74:2083/play/a05i/index.m3u8
+#EXTINF:-1,BIS
+http://201.1.151.74:2083/play/a043/index.m3u8
+#EXTINF:-1,Baby TV
+http://201.1.151.74:2083/play/a05a/index.m3u8
+#EXTINF:-1,Band News
+http://201.1.151.74:2083/play/a077/index.m3u8
+#EXTINF:-1,Bandeirantes
+http://201.1.151.74:2083/play/a03p/index.m3u8
+#EXTINF:-1,Boomerang
+http://201.1.151.74:2083/play/a04g/index.m3u8
+#EXTINF:-1,CNN Internacional
+http://201.1.151.74:2083/play/a03i/index.m3u8
+#EXTINF:-1,Canal Brasil
+http://201.1.151.74:2083/play/a057/index.m3u8
+#EXTINF:-1,CanĿªo Nova
+http://201.1.151.74:2083/play/a04t/index.m3u8
+#EXTINF:-1,Discovery Channel
+http://201.1.151.74:2083/play/a05e/index.m3u8
+#EXTINF:-1,Discovery Kids
+http://201.1.151.74:2083/play/a03c/index.m3u8
+#EXTINF:-1,Disney 
+http://201.1.151.74:2083/play/a04i/index.m3u8
+#EXTINF:-1,EPTV Campinas
+http://201.1.151.74:2083/play/a039/index.m3u8
+#EXTINF:-1,EPTV Ribeirao Preto
+http://201.1.151.74:2083/play/a038/index.m3u8
+#EXTINF:-1,EPTV Sao Carlos
+http://201.1.151.74:2083/play/a03a/index.m3u8
+#EXTINF:-1,ESPN2
+http://201.1.151.74:2083/play/a03v/index.m3u8
+#EXTINF:-1,Film & Arts
+http://201.1.151.74:2083/play/a045/index.m3u8
+#EXTINF:-1,Fish TV
+http://201.1.151.74:2083/play/a04c/index.m3u8
+#EXTINF:-1,Food Network
+http://201.1.151.74:2083/play/a051/index.m3u8
+#EXTINF:-1,Food Network
+http://201.1.151.74:2083/play/a07p/index.m3u8
+#EXTINF:-1,Fox Life
+http://201.1.151.74:2083/play/a03u/index.m3u8
+#EXTINF:-1,Futura
+http://201.1.151.74:2083/play/a03q/index.m3u8
+#EXTINF:-1,Globo BrasŦlia
+http://201.1.151.74:2083/play/a066/index.m3u8
+#EXTINF:-1,Globo Minas
+http://201.1.151.74:2083/play/a062/index.m3u8
+#EXTINF:-1,Globo Nordeste
+http://201.1.151.74:2083/play/a032/index.m3u8
+#EXTINF:-1,Globo RJ
+http://201.1.151.74:2083/play/a061/index.m3u8
+#EXTINF:-1,HBO Family
+http://201.1.151.74:2083/play/a04d/index.m3u8
+#EXTINF:-1,HBO Plus
+http://201.1.151.74:2083/play/a03w/index.m3u8
+#EXTINF:-1,History 2
+http://201.1.151.74:2083/play/a07l/index.m3u8
+#EXTINF:-1,Inter TV Cabugi
+http://201.1.151.74:2083/play/a035/index.m3u8
+#EXTINF:-1,Lifetime
+http://201.1.151.74:2083/play/a03y/index.m3u8
+#EXTINF:-1,MTV
+http://201.1.151.74:2083/play/a03s/index.m3u8
+#EXTINF:-1,NHK
+http://201.1.151.74:2083/play/a04q/index.m3u8
+#EXTINF:-1,NatGeo Wild
+http://201.1.151.74:2083/play/a04m/index.m3u8
+#EXTINF:-1,Nick Jr
+http://201.1.151.74:2083/play/a04j/index.m3u8
+#EXTINF:-1,Play TV
+http://201.1.151.74:2083/play/a03e/index.m3u8
+#EXTINF:-1,Playboy TV
+http://201.1.151.74:2083/play/a048/index.m3u8
+#EXTINF:-1,Premiere 2
+http://201.1.151.74:2083/play/a078/index.m3u8
+#EXTINF:-1,Premiere 4
+http://201.1.151.74:2083/play/a04s/index.m3u8
+#EXTINF:-1,Premiere 6
+http://201.1.151.74:2083/play/a047/index.m3u8
+#EXTINF:-1,RBI
+http://201.1.151.74:2083/play/a04o/index.m3u8
+#EXTINF:-1,RBS TV Porto Alegre
+http://201.1.151.74:2083/play/a079/index.m3u8
+#EXTINF:-1,RCI
+http://201.1.151.74:2083/play/a040/index.m3u8
+#EXTINF:-1,RIT
+http://201.1.151.74:2083/play/a04n/index.m3u8
+#EXTINF:-1,RPC TV Curitiba
+http://201.1.151.74:2083/play/a037/index.m3u8
+#EXTINF:-1,Rede Amazonica Manaus
+http://201.1.151.74:2083/play/a034/index.m3u8
+#EXTINF:-1,SBT
+http://201.1.151.74:2083/play/a07a/index.m3u8
+#EXTINF:-1,SIC Internacional
+http://201.1.151.74:2083/play/a03j/index.m3u8
+#EXTINF:-1,Sextreme
+http://201.1.151.74:2083/play/a046/index.m3u8
+#EXTINF:-1,Sexy Hot
+http://201.1.151.74:2083/play/a049/index.m3u8
+#EXTINF:-1,SporTV
+http://201.1.151.74:2083/play/a052/index.m3u8
+#EXTINF:-1,SporTV Alternativo
+http://201.1.151.74:2083/play/a03m/index.m3u8
+#EXTINF:-1,TBS
+http://201.1.151.74:2083/play/a04f/index.m3u8
+#EXTINF:-1,TV Anhanguera GoiÐnia
+http://201.1.151.74:2083/play/a063/index.m3u8
+#EXTINF:-1,TV Bahia
+http://201.1.151.74:2083/play/a031/index.m3u8
+#EXTINF:-1,TV Centro America Cuiaba
+http://201.1.151.74:2083/play/a036/index.m3u8
+#EXTINF:-1,TV Liberal Belem
+http://201.1.151.74:2083/play/a033/index.m3u8
+#EXTINF:-1,TV Novo Tempo
+http://201.1.151.74:2083/play/a03r/index.m3u8
+#EXTINF:-1,TV Tem Bauru
+http://201.1.151.74:2083/play/a065/index.m3u8
+#EXTINF:-1,TV Tem Sorocaba
+http://201.1.151.74:2083/play/a064/index.m3u8
+#EXTINF:-1,TV Tribuna Santos
+http://201.1.151.74:2083/play/a03o/index.m3u8
+#EXTINF:-1,TV Vanguarda S. J. dos Campos
+http://201.1.151.74:2083/play/a03b/index.m3u8
+#EXTINF:-1,TV Verdes Mares Fortaleza
+http://201.1.151.74:2083/play/a030/index.m3u8
+#EXTINF:-1,Telecine Fun
+http://201.1.151.74:2083/play/a04a/index.m3u8
+#EXTINF:-1,Telecine Premium
+http://201.1.151.74:2083/play/a055/index.m3u8
+#EXTINF:-1,Telecine Touch
+http://201.1.151.74:2083/play/a07q/index.m3u8
+#EXTINF:-1,The History Channel
+http://201.1.151.74:2083/play/a03d/index.m3u8
+#EXTINF:-1,Tooncast
+http://201.1.151.74:2083/play/a05c/index.m3u8
+#EXTINF:-1,TruTV
+http://201.1.151.74:2083/play/a059/index.m3u8
+#EXTINF:-1,TruTV
+http://201.1.151.74:2083/play/a07r/index.m3u8
+#EXTINF:-1,Viva
+http://201.1.151.74:2083/play/a03t/index.m3u8
+#EXTINF:-1,Warner Channel
+http://201.1.151.74:2083/play/a03z/index.m3u8
