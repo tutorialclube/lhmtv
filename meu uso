@@ -34,6 +34,8 @@ http://tv.factoryiptv.com:80/Alana10/Alana10/37075?checkedby:hlscat.com
 http://201.1.151.74:2083/play/a03y/index.m3u8?checkedby:hlscat.com
 #EXTINF:1,Megapix
 http://tv.factoryiptv.com:80/Alana10/Alana10/37072?checkedby:hlscat.com
+#EXTINF:1,Paramount Channel
+http://tv.factoryiptv.com:80/Alana10/Alana10/37062?checkedby:hlscat.com
 
 
 
