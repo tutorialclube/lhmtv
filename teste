@@ -1,0 +1,554 @@
+#EXTINF:-1 tvg-id="" tvg-name="##### Brasil #####" tvg-logo="data:image/jpeg;base64,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" group-title="Brasil",##### Brasil #####
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/6
+#EXTINF:-1 tvg-id="" tvg-name="BR: BBB 2021" tvg-logo="http://galaxtv.art:80/images/a9367bac971c970a936a9e670c3e4bf4.jpg" group-title="Brasil",BR: BBB 2021
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26925
+#EXTINF:-1 tvg-id="" tvg-name="BR: BBB CAM 1" tvg-logo="http://galaxtv.art:80/images/a9367bac971c970a936a9e670c3e4bf4.jpg" group-title="Brasil",BR: BBB CAM 1
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26926
+#EXTINF:-1 tvg-id="" tvg-name="BR: BBB CAM 2" tvg-logo="http://galaxtv.art:80/images/a9367bac971c970a936a9e670c3e4bf4.jpg" group-title="Brasil",BR: BBB CAM 2
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26927
+#EXTINF:-1 tvg-id="" tvg-name="BR: BBB CAM 3" tvg-logo="http://galaxtv.art:80/images/a9367bac971c970a936a9e670c3e4bf4.jpg" group-title="Brasil",BR: BBB CAM 3
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26928
+#EXTINF:-1 tvg-id="" tvg-name="BR: A&E" tvg-logo="http://galaxtv.art:80/images/e8b24d64f5c533b0a109e015de7122dc.jpg" group-title="Brasil",BR: A&E
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26929
+#EXTINF:-1 tvg-id="" tvg-name="BR: A&E FHD" tvg-logo="http://galaxtv.art:80/images/e8b24d64f5c533b0a109e015de7122dc.jpg" group-title="Brasil",BR: A&E FHD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26930
+#EXTINF:-1 tvg-id="" tvg-name="BR: AMC" tvg-logo="http://galaxtv.art:80/images/6dc0d7a7b2b07a03a5cd1a3d00a0799c.png" group-title="Brasil",BR: AMC
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26931
+#EXTINF:-1 tvg-id="" tvg-name="BR: AMC FHD" tvg-logo="http://galaxtv.art:80/images/6dc0d7a7b2b07a03a5cd1a3d00a0799c.jpg" group-title="Brasil",BR: AMC FHD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26932
+#EXTINF:-1 tvg-id="" tvg-name="BR: Animal Planet" tvg-logo="http://galaxtv.art:80/images/9dd47465053edd0ac4dd284e2d52ede6.jpg" group-title="Brasil",BR: Animal Planet
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26933
+#EXTINF:-1 tvg-id="" tvg-name="BR: Animal Planet HD" tvg-logo="http://galaxtv.art:80/images/05910b29bd6616ffb8ec31a87c6078f5.jpg" group-title="Brasil",BR: Animal Planet HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26934
+#EXTINF:-1 tvg-id="" tvg-name="BR: Arte 1 HD" tvg-logo="http://galaxtv.art:80/images/2acf6b8c3e49702f143cfa73ce50f553.jpg" group-title="Brasil",BR: Arte 1 HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26935
+#EXTINF:-1 tvg-id="" tvg-name="BR: AXN" tvg-logo="http://galaxtv.art:80/images/6775c29cb6f6c1e444e83276c26a3172.jpg" group-title="Brasil",BR: AXN
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26936
+#EXTINF:-1 tvg-id="" tvg-name="BR: AXN FHD" tvg-logo="http://galaxtv.art:80/images/b94ba130d1f3261e146fd4bdb2c3c9f1.jpg" group-title="Brasil",BR: AXN FHD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26937
+#EXTINF:-1 tvg-id="" tvg-name="BR: Baby TV" tvg-logo="http://galaxtv.art:80/images/b28a25de0abfe2c3621555b57a105e2c.jpg" group-title="Brasil",BR: Baby TV
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26938
+#EXTINF:-1 tvg-id="" tvg-name="BR: Band Campinas" tvg-logo="http://galaxtv.art:80/images/927fc82f1e8375bccee86da6e2ef1a8a.jpg" group-title="Brasil",BR: Band Campinas
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26939
+#EXTINF:-1 tvg-id="" tvg-name="BR: Band News" tvg-logo="http://galaxtv.art:80/images/eaab213b8a9c57434c0e06255789b3cd.jpg" group-title="Brasil",BR: Band News
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26940
+#EXTINF:-1 tvg-id="" tvg-name="BR: Band News FHD" tvg-logo="http://galaxtv.art:80/images/df09fb1060721fcd83dc5b61c8a36bf6.jpg" group-title="Brasil",BR: Band News FHD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26941
+#EXTINF:-1 tvg-id="" tvg-name="BR: Band SP FHD" tvg-logo="http://galaxtv.art:80/images/927fc82f1e8375bccee86da6e2ef1a8a.jpg" group-title="Brasil",BR: Band SP FHD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26942
+#EXTINF:-1 tvg-id="" tvg-name="BR: Band Sports HD" tvg-logo="http://galaxtv.art:80/images/23b7b374cc253cc1ac3970e835ba63fe.jpg" group-title="Brasil",BR: Band Sports HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26943
+#EXTINF:-1 tvg-id="" tvg-name="BR: Band Sports VIP" tvg-logo="http://galaxtv.art:80/images/23b7b374cc253cc1ac3970e835ba63fe.jpg" group-title="Brasil",BR: Band Sports VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26944
+#EXTINF:-1 tvg-id="" tvg-name="BR: Bis FHD" tvg-logo="http://galaxtv.art:80/images/fb12219a70c0c966c090bc6eaa7a0807.jpg" group-title="Brasil",BR: Bis FHD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26945
+#EXTINF:-1 tvg-id="" tvg-name="BR: Boomerang" tvg-logo="http://galaxtv.art:80/images/e9d2377560645669bc73c5dc6c697497.jpg" group-title="Brasil",BR: Boomerang
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26946
+#EXTINF:-1 tvg-id="" tvg-name="BR: Boomerang HD" tvg-logo="http://galaxtv.art:80/images/e02b0c856bfb1ed1305d3b29c97db155.jpg" group-title="Brasil",BR: Boomerang HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26947
+#EXTINF:-1 tvg-id="" tvg-name="BR: Canal Brasil" tvg-logo="http://galaxtv.art:80/images/5708fecc4e26e89c7655fdc360fbe1d1.png" group-title="Brasil",BR: Canal Brasil
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26948
+#EXTINF:-1 tvg-id="" tvg-name="BR: Canal Brasil VIP" tvg-logo="http://galaxtv.art:80/images/6e9236ab3e71fd6f578d57db5855f7aa.jpg" group-title="Brasil",BR: Canal Brasil VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26949
+#EXTINF:-1 tvg-id="" tvg-name="BR: Canal do Boi VIP" tvg-logo="http://galaxtv.art:80/images/8d2418008dcc6a83bf94bf1c2ff8e738.jpg" group-title="Brasil",BR: Canal do Boi VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26950
+#EXTINF:-1 tvg-id="" tvg-name="BR: Canal Rural VIP" tvg-logo="http://galaxtv.art:80/images/ff1028ac1bc5b8e46041e6c040b550b0.jpg" group-title="Brasil",BR: Canal Rural VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26951
+#EXTINF:-1 tvg-id="" tvg-name="BR: Canal Sony" tvg-logo="http://galaxtv.art:80/images/7b2fc34da499521a45387dba67607887.jpg" group-title="Brasil",BR: Canal Sony
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26952
+#EXTINF:-1 tvg-id="" tvg-name="BR: Canal Sony" tvg-logo="http://galaxtv.art:80/images/7b2fc34da499521a45387dba67607887.jpg" group-title="Brasil",BR: Canal Sony
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26953
+#EXTINF:-1 tvg-id="" tvg-name="BR: Cartoon Network HD" tvg-logo="http://galaxtv.art:80/images/dc031ed87bc5ae77e90c6b9a90c0e5d6.jpg" group-title="Brasil",BR: Cartoon Network HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26954
+#EXTINF:-1 tvg-id="" tvg-name="BR: Cinemax" tvg-logo="http://galaxtv.art:80/images/814e4cbaa86e56bb096c455e149d784c.jpg" group-title="Brasil",BR: Cinemax
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26955
+#EXTINF:-1 tvg-id="" tvg-name="BR: Cinemax HD" tvg-logo="http://galaxtv.art:80/images/0cacabdfd0542c5125f585255ca9f03c.jpg" group-title="Brasil",BR: Cinemax HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26956
+#EXTINF:-1 tvg-id="" tvg-name="BR: CNN Brasil VIP" tvg-logo="http://galaxtv.art:80/images/c0c33070352ee96b25e63342c44ce678.png" group-title="Brasil",BR: CNN Brasil VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26957
+#EXTINF:-1 tvg-id="" tvg-name="BR: Combate" tvg-logo="http://galaxtv.art:80/images/51f7e3774bd45032995ef72cc39a4655.png" group-title="Brasil",BR: Combate
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26958
+#EXTINF:-1 tvg-id="" tvg-name="BR: Combate HD" tvg-logo="http://galaxtv.art:80/images/51f7e3774bd45032995ef72cc39a4655.png" group-title="Brasil",BR: Combate HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26959
+#EXTINF:-1 tvg-id="" tvg-name="BR: Comedy Central" tvg-logo="http://galaxtv.art:80/images/c1623fd89f1f9b06d23a70c6e0534e52.jpg" group-title="Brasil",BR: Comedy Central
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26960
+#EXTINF:-1 tvg-id="" tvg-name="BR: Comedy Central HD" tvg-logo="http://galaxtv.art:80/images/bd61065533f524015bd49ae9e28c0600.jpg" group-title="Brasil",BR: Comedy Central HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26961
+#EXTINF:-1 tvg-id="" tvg-name="BR: Cultura HD" tvg-logo="http://galaxtv.art:80/images/7c6a4b59bd50c39e5184ec91b12cf413.png" group-title="Brasil",BR: Cultura HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26962
+#EXTINF:-1 tvg-id="" tvg-name="BR: Curta! HD" tvg-logo="http://galaxtv.art:80/images/d4f4b9c4250a33cb386339e857008996.jpg" group-title="Brasil",BR: Curta! HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26963
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Channel" tvg-logo="http://galaxtv.art:80/images/a7ea2f7e0a5cb1ec2efec8a1290d6661.jpg" group-title="Brasil",BR: Discovery Channel
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26964
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Channel HD" tvg-logo="http://galaxtv.art:80/images/d38332d253b40b43b28732815a8aaf7d.jpg" group-title="Brasil",BR: Discovery Channel HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26965
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery H&H" tvg-logo="http://galaxtv.art:80/images/5dbc2be65356e74cc338b1e6ebd1b548.jpg" group-title="Brasil",BR: Discovery H&H
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26966
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery H&H VIP" tvg-logo="http://galaxtv.art:80/images/f79f24b200a868d01faea26b38af56b4.jpg" group-title="Brasil",BR: Discovery H&H VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26967
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Kids FHD" tvg-logo="http://galaxtv.art:80/images/ef020622883b643310ea653281cda399.jpg" group-title="Brasil",BR: Discovery Kids FHD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26968
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Science" tvg-logo="http://galaxtv.art:80/images/6106e67e5fe2a8d01e072e541faa7c79.jpg" group-title="Brasil",BR: Discovery Science
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26969
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Science VIP" tvg-logo="http://galaxtv.art:80/images/6106e67e5fe2a8d01e072e541faa7c79.jpg" group-title="Brasil",BR: Discovery Science VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26970
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Theater" tvg-logo="http://galaxtv.art:80/images/96ec85c60105348cbc8834237c0c6992.png" group-title="Brasil",BR: Discovery Theater
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26971
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Theater HD" tvg-logo="http://galaxtv.art:80/images/96ec85c60105348cbc8834237c0c6992.png" group-title="Brasil",BR: Discovery Theater HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26972
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery TLC FHD" tvg-logo="http://galaxtv.art:80/images/e2cc47d863ff4913a6add16d2a0fdefe.png" group-title="Brasil",BR: Discovery TLC FHD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26973
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Turbo FHD" tvg-logo="http://galaxtv.art:80/images/f6ab901ba4d6d50763f8f33c16dececa.png" group-title="Brasil",BR: Discovery Turbo FHD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26974
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery World" tvg-logo="http://galaxtv.art:80/images/1b6f109a1f0cf6366a759919a4f9047a.png" group-title="Brasil",BR: Discovery World
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26975
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery World HD" tvg-logo="http://galaxtv.art:80/images/1b6f109a1f0cf6366a759919a4f9047a.png" group-title="Brasil",BR: Discovery World HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26976
+#EXTINF:-1 tvg-id="" tvg-name="BR: Disney Channel FHD" tvg-logo="http://galaxtv.art:80/images/576cb8249e70e89a0804c283148746ea.jpg" group-title="Brasil",BR: Disney Channel FHD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26977
+#EXTINF:-1 tvg-id="" tvg-name="BR: Disney Junior" tvg-logo="http://galaxtv.art:80/images/85e7dd0b4aee92209317b2f1c2cd94c4.jpg" group-title="Brasil",BR: Disney Junior
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26978
+#EXTINF:-1 tvg-id="" tvg-name="BR: Disney Junior FHD" tvg-logo="http://4young.xyz:8080/images/5630ee277a9e62d8bba6b8c708dbdb9a.png" group-title="Brasil",BR: Disney Junior FHD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26979
+#EXTINF:-1 tvg-id="" tvg-name="BR: Disney XD HD" tvg-logo="http://galaxtv.art:80/images/bb37a1b30acc1e3061553fc83d1a35e7.jpg" group-title="Brasil",BR: Disney XD HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26980
+#EXTINF:-1 tvg-id="" tvg-name="BR: E! FHD" tvg-logo="http://galaxtv.art:80/images/081c0b5501fd9253f67d8fc3de710f5e.jpg" group-title="Brasil",BR: E! FHD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26981
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 2" tvg-logo="http://galaxtv.art:80/images/1272d3ccb45a96d1a53f97ba57ec06db.png" group-title="Brasil",BR: ESPN 2
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26982
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 2 VIP" tvg-logo="http://galaxtv.art:80/images/1272d3ccb45a96d1a53f97ba57ec06db.png" group-title="Brasil",BR: ESPN 2 VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26983
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN Brasil" tvg-logo="http://galaxtv.art:80/images/216856b56d2ef374d89343c17b492c74.png" group-title="Brasil",BR: ESPN Brasil
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26984
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN Brasil VIP" tvg-logo="http://galaxtv.art:80/images/4c2fdb03e5e083989b413109eccc4d31.png" group-title="Brasil",BR: ESPN Brasil VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26985
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN Extra" tvg-logo="http://galaxtv.art:80/images/285c71664155fd235b744cdc5c20152c.jpg" group-title="Brasil",BR: ESPN Extra
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26986
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN Extra VIP" tvg-logo="http://galaxtv.art:80/images/285c71664155fd235b744cdc5c20152c.jpg" group-title="Brasil",BR: ESPN Extra VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26987
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN" tvg-logo="http://galaxtv.art:80/images/01459ee51fb5c6033047f2f62e9ec895.jpg" group-title="Brasil",BR: ESPN
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26988
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN VIP" tvg-logo="http://galaxtv.art:80/images/01459ee51fb5c6033047f2f62e9ec895.jpg" group-title="Brasil",BR: ESPN VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26989
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fashion TV VIP" tvg-logo="http://galaxtv.art:80/images/ac084ee0dbc0be70707e866b3363745a.jpg" group-title="Brasil",BR: Fashion TV VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26990
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fish TV HD" tvg-logo="http://galaxtv.art:80/images/20cedca79ebab48a172d6f29a5b29de2.jpg" group-title="Brasil",BR: Fish TV HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26991
+#EXTINF:-1 tvg-id="" tvg-name="BR: Food Network HD" tvg-logo="http://galaxtv.art:80/images/da8195e2e94562091d7f14ec3a8a2209.png" group-title="Brasil",BR: Food Network HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26992
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fox" tvg-logo="http://galaxtv.art:80/images/0c990587f0ad45e578729a2fa307e2f0.jpg" group-title="Brasil",BR: Fox
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26993
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fox VIP" tvg-logo="http://galaxtv.art:80/images/0c990587f0ad45e578729a2fa307e2f0.jpg" group-title="Brasil",BR: Fox VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26994
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fox Life" tvg-logo="http://galaxtv.art:80/images/8fa73459c396065f2d5d0344f69b9856.jpg" group-title="Brasil",BR: Fox Life
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26995
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fox Life HD" tvg-logo="http://galaxtv.art:80/images/8fa73459c396065f2d5d0344f69b9856.jpg" group-title="Brasil",BR: Fox Life HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26996
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fox Premium 1 FHD" tvg-logo="http://galaxtv.art:80/images/7da4a34f03b2d3cc5be53f1470329a54.png" group-title="Brasil",BR: Fox Premium 1 FHD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26997
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fox Premium 1 LEGENDADO" tvg-logo="http://galaxtv.art:80/images/d0851ccb3c7ed998ba626f9ef58b5a0e.png" group-title="Brasil",BR: Fox Premium 1 LEGENDADO
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26998
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fox Premium 2 VIP" tvg-logo="http://galaxtv.art:80/images/870ac941ef5c5a80f9a2bbfb500371a3.png" group-title="Brasil",BR: Fox Premium 2 VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/26999
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fox Premium 2  LEGENDADO" tvg-logo="http://galaxtv.art:80/images/870ac941ef5c5a80f9a2bbfb500371a3.png" group-title="Brasil",BR: Fox Premium 2  LEGENDADO
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27000
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fox Sports 2 VIP" tvg-logo="http://galaxtv.art:80/images/95603f08c747c67ad6c5081bad39b64c.png" group-title="Brasil",BR: Fox Sports 2 VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27001
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fox Sports 2  HD" tvg-logo="http://galaxtv.art:80/images/95a0d06ab1327b6ee34453567042c9b9.png" group-title="Brasil",BR: Fox Sports 2  HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27002
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fox Sports VIP" tvg-logo="http://galaxtv.art:80/images/4137bb4a2ac5967993069a6a57502367.png" group-title="Brasil",BR: Fox Sports VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27003
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fox Sports HD" tvg-logo="http://galaxtv.art:80/images/e2d6ee43fcc007a66a5fe29e28f2a2cd.png" group-title="Brasil",BR: Fox Sports HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27004
+#EXTINF:-1 tvg-id="" tvg-name="BR: Futura VIP" tvg-logo="http://galaxtv.art:80/images/45880bf799b6d88bb5b778b34011912b.jpg" group-title="Brasil",BR: Futura VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27005
+#EXTINF:-1 tvg-id="" tvg-name="BR: FX" tvg-logo="http://galaxtv.art:80/images/ed46e326bd3efa27c14892a4a5dd8f9a.jpg" group-title="Brasil",BR: FX
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27006
+#EXTINF:-1 tvg-id="" tvg-name="BR: FX VIP" tvg-logo="http://galaxtv.art:80/images/ed46e326bd3efa27c14892a4a5dd8f9a.jpg" group-title="Brasil",BR: FX VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27007
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Brasilia" tvg-logo="http://galaxtv.art:80/images/eb1eb7cad036ba63d28668372773ae6e.jpg" group-title="Brasil",BR: Globo Brasilia
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27008
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo EPTV Campinas HD" tvg-logo="http://galaxtv.art:80/images/80941d5363a4bba8cecd1791b0534173.jpg" group-title="Brasil",BR: Globo EPTV Campinas HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27009
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo EPTV Ribeirao Preto" tvg-logo="http://galaxtv.art:80/images/80941d5363a4bba8cecd1791b0534173.jpg" group-title="Brasil",BR: Globo EPTV Ribeirao Preto
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27010
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Internacional" tvg-logo="http://galaxtv.art:80/images/ab1a30c0f30a578d5cc4b4c84382f098.jpg" group-title="Brasil",BR: Globo Internacional
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27011
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Internacional SD" tvg-logo="http://galaxtv.art:80/images/4e353c05606f71674bc137f267ca7a8b.jpg" group-title="Brasil",BR: Globo Internacional SD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27012
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Minas" tvg-logo="http://galaxtv.art:80/images/ab1a30c0f30a578d5cc4b4c84382f098.jpg" group-title="Brasil",BR: Globo Minas
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27013
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Minas" tvg-logo="http://galaxtv.art:80/images/ed8fd92d3f17e2f27267e507e49263e2.jpg" group-title="Brasil",BR: Globo Minas
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27014
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo News +" tvg-logo="http://galaxtv.art:80/images/1ea5631b7000ecffb11a9de4ad37995d.jpg" group-title="Brasil",BR: Globo News +
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27015
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo News" tvg-logo="http://galaxtv.art:80/images/1ea5631b7000ecffb11a9de4ad37995d.jpg" group-title="Brasil",BR: Globo News
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27016
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Nordeste FHD" tvg-logo="http://galaxtv.art:80/images/9dc27458191769bdc72cd60f0d874e68.jpg" group-title="Brasil",BR: Globo Nordeste FHD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27017
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Rede Amazonica" tvg-logo="http://galaxtv.art:80/images/ef6e28720e568d5c477685dfb8cc9387.jpg" group-title="Brasil",BR: Globo Rede Amazonica
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27018
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Rede Amazonica SD" tvg-logo="http://galaxtv.art:80/images/ef6e28720e568d5c477685dfb8cc9387.jpg" group-title="Brasil",BR: Globo Rede Amazonica SD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27019
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RJ" tvg-logo="http://galaxtv.art:80/images/ab1a30c0f30a578d5cc4b4c84382f098.jpg" group-title="Brasil",BR: Globo RJ
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27020
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RJ FHD" tvg-logo="http://galaxtv.art:80/images/c2513738a261235d775b13e93abc4744.jpg" group-title="Brasil",BR: Globo RJ FHD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27021
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo SP" tvg-logo="http://galaxtv.art:80/images/ab1a30c0f30a578d5cc4b4c84382f098.jpg" group-title="Brasil",BR: Globo SP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27022
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo SP FHD" tvg-logo="http://galaxtv.art:80/images/f7347abe1f6d63613d63c3d17c7500f7.jpg" group-title="Brasil",BR: Globo SP FHD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27023
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Bahia" tvg-logo="http://galaxtv.art:80/images/d0eb5dfb488f39c238332d88e9053fa9.jpg" group-title="Brasil",BR: Globo TV Bahia
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27024
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Bahia HD" tvg-logo="http://galaxtv.art:80/images/893368aed1ecbd83837592882e1c69d6.jpg" group-title="Brasil",BR: Globo TV Bahia HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27025
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Nacional HD" tvg-logo="http://galaxtv.art:80/images/ab1a30c0f30a578d5cc4b4c84382f098.jpg" group-title="Brasil",BR: Globo TV Nacional HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27026
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Tem Sorocaba HD" tvg-logo="http://galaxtv.art:80/images/ab1a30c0f30a578d5cc4b4c84382f098.jpg" group-title="Brasil",BR: Globo TV Tem Sorocaba HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27027
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Tribuna Santos HD" tvg-logo="http://galaxtv.art:80/images/ab1a30c0f30a578d5cc4b4c84382f098.jpg" group-title="Brasil",BR: Globo TV Tribuna Santos HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27028
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Anhanguera Goiania HD" tvg-logo="http://galaxtv.art:80/images/22e3446c8ad5396e52e86254f74fc0fc.png" group-title="Brasil",BR: Globo Anhanguera Goiania HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27029
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Centro América Cuiaba SD" tvg-logo="http://galaxtv.art:80/images/a86e26a30ab23827e33666b084a6928e.png" group-title="Brasil",BR: Globo Centro América Cuiaba SD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27030
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo EPTV Araraquara SD" tvg-logo="http://galaxtv.art:80/images/ef25435a9e61230247caa0baf1181a67.jpg" group-title="Brasil",BR: Globo EPTV Araraquara SD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27031
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo EPTV Campinas SD" tvg-logo="http://galaxtv.art:80/images/ef25435a9e61230247caa0baf1181a67.jpg" group-title="Brasil",BR: Globo EPTV Campinas SD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27032
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo EPTV São Carlos SD" tvg-logo="http://galaxtv.art:80/images/ef25435a9e61230247caa0baf1181a67.jpg" group-title="Brasil",BR: Globo EPTV São Carlos SD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27033
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Inter TV Cabugi RN HD" tvg-logo="http://galaxtv.art:80/images/953e7cdf8e01064b3a38ecbc75687780.jpg" group-title="Brasil",BR: Globo Inter TV Cabugi RN HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27034
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo InterTV Alto Litoral HD" tvg-logo="http://galaxtv.art:80/images/5a9cd3dc976ab046508537788468337f.png" group-title="Brasil",BR: Globo InterTV Alto Litoral HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27035
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo InterTV Cabugi RN SD" tvg-logo="http://galaxtv.art:80/images/953e7cdf8e01064b3a38ecbc75687780.jpg" group-title="Brasil",BR: Globo InterTV Cabugi RN SD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27036
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo InterTV Serra Mar HD" tvg-logo="http://galaxtv.art:80/images/1e29d65eadfd19f3183e27d2fdc4584e.png" group-title="Brasil",BR: Globo InterTV Serra Mar HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27037
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo NSC Blumenau HD" tvg-logo="http://galaxtv.art:80/images/72925eaef57eff6f804fcddeb76eccfa.png" group-title="Brasil",BR: Globo NSC Blumenau HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27038
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo NSC Florianópolis HD" tvg-logo="http://galaxtv.art:80/images/72925eaef57eff6f804fcddeb76eccfa.png" group-title="Brasil",BR: Globo NSC Florianópolis HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27039
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo NSC Joinville SD" tvg-logo="http://galaxtv.art:80/images/72925eaef57eff6f804fcddeb76eccfa.png" group-title="Brasil",BR: Globo NSC Joinville SD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27040
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Petrolina HD" tvg-logo="http://galaxtv.art:80/images/ab1a30c0f30a578d5cc4b4c84382f098.jpg" group-title="Brasil",BR: Globo Petrolina HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27041
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RBS Porto Alegre" tvg-logo="http://galaxtv.art:80/images/8e31c7ab840c5b8c83e464afdb5edee7.jpg" group-title="Brasil",BR: Globo RBS Porto Alegre
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27042
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RBS TV Pelotas HD" tvg-logo="http://galaxtv.art:80/images/8e31c7ab840c5b8c83e464afdb5edee7.jpg" group-title="Brasil",BR: Globo RBS TV Pelotas HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27043
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Rede Amazônica Boa Vista" tvg-logo="http://galaxtv.art:80/images/e5cb1df9a717545a25d7bcdda330be71.png" group-title="Brasil",BR: Globo Rede Amazônica Boa Vista
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27044
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Rede Amazônica Porto Velho" tvg-logo="http://galaxtv.art:80/images/e5cb1df9a717545a25d7bcdda330be71.png" group-title="Brasil",BR: Globo Rede Amazônica Porto Velho
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27045
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Rede Amazônica Rio Branco" tvg-logo="http://galaxtv.art:80/images/e5cb1df9a717545a25d7bcdda330be71.png" group-title="Brasil",BR: Globo Rede Amazônica Rio Branco
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27046
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RPC Cascavel HD" tvg-logo="http://galaxtv.art:80/images/76b97d81d65144e3eee1b4af68eb94ca.jpg" group-title="Brasil",BR: Globo RPC Cascavel HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27047
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RPC Curitiba" tvg-logo="http://galaxtv.art:80/images/76b97d81d65144e3eee1b4af68eb94ca.jpg" group-title="Brasil",BR: Globo RPC Curitiba
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27048
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RPC Maringa SD" tvg-logo="http://galaxtv.art:80/images/76b97d81d65144e3eee1b4af68eb94ca.jpg" group-title="Brasil",BR: Globo RPC Maringa SD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27049
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RPC Paranavaí SD" tvg-logo="http://galaxtv.art:80/images/76b97d81d65144e3eee1b4af68eb94ca.jpg" group-title="Brasil",BR: Globo RPC Paranavaí SD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27050
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Anhanguera Luziânia HD" tvg-logo="http://galaxtv.art:80/images/22e3446c8ad5396e52e86254f74fc0fc.png" group-title="Brasil",BR: Globo TV Anhanguera Luziânia HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27051
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Anhanguera Rio Verde HD" tvg-logo="http://galaxtv.art:80/images/22e3446c8ad5396e52e86254f74fc0fc.png" group-title="Brasil",BR: Globo TV Anhanguera Rio Verde HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27052
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Cabo Branco" tvg-logo="http://galaxtv.art:80/images/7d0870a7a631f15f3b22cf39b0172e6e.jpg" group-title="Brasil",BR: Globo TV Cabo Branco
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27053
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Caruaru (Asa Branca) HD" tvg-logo="http://galaxtv.art:80/images/3c3b1107e5b8dc1d45574cbdf51fb08c.png" group-title="Brasil",BR: Globo TV Caruaru (Asa Branca) HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27054
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Fronteira Paulista" tvg-logo="http://galaxtv.art:80/images/ea61629193340efd0c60a397cbbd3295.png" group-title="Brasil",BR: Globo TV Fronteira Paulista
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27055
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Gazeta Norte HD" tvg-logo="http://galaxtv.art:80/images/b154b3cd819a19dc00b15d5257c8220e.jpg" group-title="Brasil",BR: Globo TV Gazeta Norte HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27056
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Gazeta Sul ES HD" tvg-logo="http://galaxtv.art:80/images/b154b3cd819a19dc00b15d5257c8220e.jpg" group-title="Brasil",BR: Globo TV Gazeta Sul ES HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27057
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Gazeta Vitória HD" tvg-logo="http://galaxtv.art:80/images/b154b3cd819a19dc00b15d5257c8220e.jpg" group-title="Brasil",BR: Globo TV Gazeta Vitória HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27058
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Integração Araxa SD" tvg-logo="" group-title="Brasil",BR: Globo TV Integração Araxa SD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27059
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Integração Uberaba HD" tvg-logo="http://galaxtv.art:80/images/e543cd4988fb6bf9f5e31a4f1347e845.jpg" group-title="Brasil",BR: Globo TV Integração Uberaba HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27060
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Itapetininga SD" tvg-logo="http://galaxtv.art:80/images/ab1a30c0f30a578d5cc4b4c84382f098.jpg" group-title="Brasil",BR: Globo TV Itapetininga SD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27061
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Liberal Belém HD" tvg-logo="http://galaxtv.art:80/images/112872f260f98c5b38e908c9be6aa47a.png" group-title="Brasil",BR: Globo TV Liberal Belém HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27062
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Mirante SD" tvg-logo="http://galaxtv.art:80/images/793c39ce6967829b231c9b28022b5ab8.jpg" group-title="Brasil",BR: Globo TV Mirante SD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27063
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Morena SD" tvg-logo="http://galaxtv.art:80/images/509723cc01c920f20e2252ff4c0e654c.jpg" group-title="Brasil",BR: Globo TV Morena SD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27064
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Sergipe HD" tvg-logo="http://galaxtv.art:80/images/383a997543a6679d636c30980c19e632.png" group-title="Brasil",BR: Globo TV Sergipe HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27065
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Tem Bauru SD" tvg-logo="http://galaxtv.art:80/images/e3b4a2d3a8c2db6cde2710cbf079284b.jpg" group-title="Brasil",BR: Globo TV Tem Bauru SD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27066
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Tem Rio Preto HD" tvg-logo="http://galaxtv.art:80/images/e3b4a2d3a8c2db6cde2710cbf079284b.jpg" group-title="Brasil",BR: Globo TV Tem Rio Preto HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27067
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Vanguarda São José dos Campos SD" tvg-logo="http://galaxtv.art:80/images/f9e034f21d41b9c69652771348561fbe.jpg" group-title="Brasil",BR: Globo TV Vanguarda São José dos Campos SD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27068
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Vanguarda Taubaté HD" tvg-logo="http://galaxtv.art:80/images/f9e034f21d41b9c69652771348561fbe.jpg" group-title="Brasil",BR: Globo TV Vanguarda Taubaté HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27069
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Verdes Mares Fortaleza HD" tvg-logo="http://galaxtv.art:80/images/9118fc8e95614dc05c5cbe7017352973.jpg" group-title="Brasil",BR: Globo TV Verdes Mares Fortaleza HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27070
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RPC TV Foz do Iguacu HD" tvg-logo="http://galaxtv.art:80/images/76b97d81d65144e3eee1b4af68eb94ca.jpg" group-title="Brasil",BR: Globo RPC TV Foz do Iguacu HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27071
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RPC TV Ponta Grossa" tvg-logo="http://galaxtv.art:80/images/76b97d81d65144e3eee1b4af68eb94ca.jpg" group-title="Brasil",BR: Globo RPC TV Ponta Grossa
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27072
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Clube Teresina" tvg-logo="http://galaxtv.art:80/images/4fbd2ee3bf09000e5973b3c5801c8d0e.jpg" group-title="Brasil",BR: Globo TV Clube Teresina
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27073
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Clube Teresina SD" tvg-logo="http://galaxtv.art:80/images/4fbd2ee3bf09000e5973b3c5801c8d0e.jpg" group-title="Brasil",BR: Globo TV Clube Teresina SD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27074
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Integracao Juiz de Fora SD" tvg-logo="http://galaxtv.art:80/images/596a4948872422d8d7221960964e9a17.png" group-title="Brasil",BR: Globo TV Integracao Juiz de Fora SD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27075
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Rio Sul SD" tvg-logo="http://galaxtv.art:80/images/9908256342b3211f22d9a1b03f066b15.png" group-title="Brasil",BR: Globo TV Rio Sul SD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27076
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Rede Amazonica Macapa HD" tvg-logo="http://galaxtv.art:80/images/e5cb1df9a717545a25d7bcdda330be71.png" group-title="Brasil",BR: Globo Rede Amazonica Macapa HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27077
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo NSC Chapeco HD" tvg-logo="http://galaxtv.art:80/images/72925eaef57eff6f804fcddeb76eccfa.png" group-title="Brasil",BR: Globo NSC Chapeco HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27078
+#EXTINF:-1 tvg-id="" tvg-name="BR: Gloob" tvg-logo="http://galaxtv.art:80/images/bdd401ab2025d1b2beefefa21fe6ad0a.jpg" group-title="Brasil",BR: Gloob
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27079
+#EXTINF:-1 tvg-id="" tvg-name="BR: Gloob" tvg-logo="http://galaxtv.art:80/images/bdd401ab2025d1b2beefefa21fe6ad0a.jpg" group-title="Brasil",BR: Gloob
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27080
+#EXTINF:-1 tvg-id="" tvg-name="BR: Gloobinho" tvg-logo="http://galaxtv.art:80/images/46040cab5f8bc215a84856b85ba9fc69.png" group-title="Brasil",BR: Gloobinho
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27081
+#EXTINF:-1 tvg-id="" tvg-name="BR: Gloobinho VIP" tvg-logo="http://galaxtv.art:80/images/46040cab5f8bc215a84856b85ba9fc69.png" group-title="Brasil",BR: Gloobinho VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27082
+#EXTINF:-1 tvg-id="" tvg-name="BR: GNT HD" tvg-logo="http://galaxtv.art:80/images/db781ac97f8736685e24ed01d03af4b8.jpg" group-title="Brasil",BR: GNT HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27083
+#EXTINF:-1 tvg-id="" tvg-name="BR: H2 HD" tvg-logo="http://galaxtv.art:80/images/bee9c764b37e04a13dc24d39b8e0fce6.jpg" group-title="Brasil",BR: H2 HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27084
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO 2 VIP" tvg-logo="http://galaxtv.art:80/images/fe584c51704cdb68017a9c4d68bfef36.png" group-title="Brasil",BR: HBO 2 VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27085
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO 2 HD" tvg-logo="http://galaxtv.art:80/images/fe584c51704cdb68017a9c4d68bfef36.png" group-title="Brasil",BR: HBO 2 HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27086
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Family VIP" tvg-logo="http://galaxtv.art:80/images/a80c587b1f8cdf1647fc45091efd61b0.jpg" group-title="Brasil",BR: HBO Family VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27087
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO HD" tvg-logo="http://galaxtv.art:80/images/7a5a0a729f6063a3742854f5bbc00a06.png" group-title="Brasil",BR: HBO HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27088
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO LEGENDADO" tvg-logo="http://galaxtv.art:80/images/19c0a3768306086c9601f4c7c5a5cc81.jpg" group-title="Brasil",BR: HBO LEGENDADO
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27089
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Mundi HD" tvg-logo="http://galaxtv.art:80/images/97c107f04ff9171e1a910132c66bf0d1.jpg" group-title="Brasil",BR: HBO Mundi HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27090
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Mundi LEGENDADO" tvg-logo="http://galaxtv.art:80/images/97c107f04ff9171e1a910132c66bf0d1.jpg" group-title="Brasil",BR: HBO Mundi LEGENDADO
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27091
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Plus HD" tvg-logo="http://galaxtv.art:80/images/d4f737dac7151e7371b19aaf8c1f30fa.jpg" group-title="Brasil",BR: HBO Plus HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27092
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Plus LEGENDADO" tvg-logo="http://galaxtv.art:80/images/d4f737dac7151e7371b19aaf8c1f30fa.jpg" group-title="Brasil",BR: HBO Plus LEGENDADO
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27093
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Pop VIP" tvg-logo="http://galaxtv.art:80/images/2cc6e2e49b837ebb7a8d6d024f48787c.png" group-title="Brasil",BR: HBO Pop VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27094
+#EXTINF:-1 tvg-id="" tvg-name="BR: Hbo Pop LEGENDADO" tvg-logo="http://galaxtv.art:80/images/0e72fdd615e1760b90e48d1313514c96.png" group-title="Brasil",BR: Hbo Pop LEGENDADO
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27095
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Signature VIP" tvg-logo="http://galaxtv.art:80/images/44eadd85a8dd1c6bf8a3873855ddc36a.jpg" group-title="Brasil",BR: HBO Signature VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27096
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Signature LEGENDADO" tvg-logo="http://galaxtv.art:80/images/44eadd85a8dd1c6bf8a3873855ddc36a.jpg" group-title="Brasil",BR: HBO Signature LEGENDADO
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27097
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Xtreme VIP" tvg-logo="http://galaxtv.art:80/images/db8ce8fdd5ac9286197f6d5f14d1fb78.png" group-title="Brasil",BR: HBO Xtreme VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27098
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Xtreme LEGENDADO" tvg-logo="http://galaxtv.art:80/images/db8ce8fdd5ac9286197f6d5f14d1fb78.png" group-title="Brasil",BR: HBO Xtreme LEGENDADO
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27099
+#EXTINF:-1 tvg-id="" tvg-name="BR: HGTV FHD" tvg-logo="http://galaxtv.art:80/images/329bc9d5507a21359e797c50e1e292c1.png" group-title="Brasil",BR: HGTV FHD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27100
+#EXTINF:-1 tvg-id="" tvg-name="BR: History Channel FHD" tvg-logo="http://galaxtv.art:80/images/4cb1ef18f89bbe194cb96d5c01418c62.jpg" group-title="Brasil",BR: History Channel FHD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27101
+#EXTINF:-1 tvg-id="" tvg-name="BR: ID Investigação Discovery VIP" tvg-logo="http://galaxtv.art:80/images/988d50ab9e6f6783a35712471bca38e6.jpg" group-title="Brasil",BR: ID Investigação Discovery VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27102
+#EXTINF:-1 tvg-id="" tvg-name="BR: Lifetime HD" tvg-logo="http://galaxtv.art:80/images/521089f2cce4254ab6adc26d76d5ee3b.png" group-title="Brasil",BR: Lifetime HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27103
+#EXTINF:-1 tvg-id="" tvg-name="BR: Mais Globosat HD" tvg-logo="http://galaxtv.art:80/images/70b9057d1ea251e44c90294bb9e74bb2.jpg" group-title="Brasil",BR: Mais Globosat HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27104
+#EXTINF:-1 tvg-id="" tvg-name="BR: Megapix HD" tvg-logo="http://galaxtv.art:80/images/f0432b1ab06ca94a7d434d3b94bf1141.jpg" group-title="Brasil",BR: Megapix HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27105
+#EXTINF:-1 tvg-id="" tvg-name="BR: MTV FHD" tvg-logo="http://galaxtv.art:80/images/c521b3b1343bc4c1d727ef87629b3d10.jpg" group-title="Brasil",BR: MTV FHD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27106
+#EXTINF:-1 tvg-id="" tvg-name="BR: Multishow" tvg-logo="http://galaxtv.art:80/images/d86c2455f7248a0bd12945187439ec01.jpg" group-title="Brasil",BR: Multishow
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27107
+#EXTINF:-1 tvg-id="" tvg-name="BR: Multishow VIP" tvg-logo="http://galaxtv.art:80/images/d86c2455f7248a0bd12945187439ec01.jpg" group-title="Brasil",BR: Multishow VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27108
+#EXTINF:-1 tvg-id="" tvg-name="BR: Music Box Brazil" tvg-logo="http://galaxtv.art:80/images/151a3ac9edc3595ff3e9d9018cc9512c.jpg" group-title="Brasil",BR: Music Box Brazil
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27109
+#EXTINF:-1 tvg-id="" tvg-name="BR: Nat Geo Kids VIP" tvg-logo="http://galaxtv.art:80/images/310dfe5ef81773bd682a4809422b1fde.png" group-title="Brasil",BR: Nat Geo Kids VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27110
+#EXTINF:-1 tvg-id="" tvg-name="BR: Nat Geo Wild" tvg-logo="http://galaxtv.art:80/images/835c503f8a33fe5691345a7ef1c6a323.jpg" group-title="Brasil",BR: Nat Geo Wild
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27111
+#EXTINF:-1 tvg-id="" tvg-name="BR: Nat Geo Wild VIP" tvg-logo="http://galaxtv.art:80/images/835c503f8a33fe5691345a7ef1c6a323.jpg" group-title="Brasil",BR: Nat Geo Wild VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27112
+#EXTINF:-1 tvg-id="" tvg-name="BR: National Geographic" tvg-logo="http://galaxtv.art:80/images/7a9ed10f71e4e88e6b83af9073b958b3.jpg" group-title="Brasil",BR: National Geographic
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27113
+#EXTINF:-1 tvg-id="" tvg-name="BR: National Geographic VIP" tvg-logo="http://galaxtv.art:80/images/7a9ed10f71e4e88e6b83af9073b958b3.jpg" group-title="Brasil",BR: National Geographic VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27114
+#EXTINF:-1 tvg-id="" tvg-name="BR: Nick Jr" tvg-logo="http://galaxtv.art:80/images/5d4e2cc5333925697b0cf3288bdd99aa.jpg" group-title="Brasil",BR: Nick Jr
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27115
+#EXTINF:-1 tvg-id="" tvg-name="BR: Nick Jr VIP" tvg-logo="http://galaxtv.art:80/images/5d4e2cc5333925697b0cf3288bdd99aa.jpg" group-title="Brasil",BR: Nick Jr VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27116
+#EXTINF:-1 tvg-id="" tvg-name="BR: Nickelodeon" tvg-logo="http://galaxtv.art:80/images/837a69023bb54c293bd48ea6b6cf3183.jpg" group-title="Brasil",BR: Nickelodeon
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27117
+#EXTINF:-1 tvg-id="" tvg-name="BR: Nickelodeon VIP" tvg-logo="http://galaxtv.art:80/images/837a69023bb54c293bd48ea6b6cf3183.jpg" group-title="Brasil",BR: Nickelodeon VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27118
+#EXTINF:-1 tvg-id="" tvg-name="BR: Novo Tempo" tvg-logo="http://galaxtv.art:80/images/301e499248ae563a9e958cd4f7e4f2a1.jpg" group-title="Brasil",BR: Novo Tempo
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27119
+#EXTINF:-1 tvg-id="" tvg-name="BR: OFF HD" tvg-logo="http://galaxtv.art:80/images/930dac03d977d4b2075977305957caf8.jpg" group-title="Brasil",BR: OFF HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27120
+#EXTINF:-1 tvg-id="" tvg-name="BR: Paramount Channel" tvg-logo="http://galaxtv.art:80/images/a084e38778d533e20691f411ab10c6ea.png" group-title="Brasil",BR: Paramount Channel
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27121
+#EXTINF:-1 tvg-id="" tvg-name="BR: Paramount Channel VIP" tvg-logo="http://galaxtv.art:80/images/a084e38778d533e20691f411ab10c6ea.png" group-title="Brasil",BR: Paramount Channel VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27122
+#EXTINF:-1 tvg-id="" tvg-name="BR: PlayTV SD" tvg-logo="http://galaxtv.art:80/images/38c4b064cbd74d825d7e817c33ecd0ee.jpg" group-title="Brasil",BR: PlayTV SD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27123
+#EXTINF:-1 tvg-id="" tvg-name="BR: Polishop TV SD" tvg-logo="http://galaxtv.art:80/images/2fe349ab611e9cba2b704ef009b20eec.jpg" group-title="Brasil",BR: Polishop TV SD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27124
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere 2 VIP" tvg-logo="http://galaxtv.art:80/images/57cd008871c9f2886f14a22840a04abb.jpg" group-title="Brasil",BR: Premiere 2 VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27125
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere 2" tvg-logo="http://galaxtv.art:80/images/57cd008871c9f2886f14a22840a04abb.jpg" group-title="Brasil",BR: Premiere 2
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27126
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere 3 HD" tvg-logo="http://galaxtv.art:80/images/356a60ae56433d236f78e38257d81fc5.jpg" group-title="Brasil",BR: Premiere 3 HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27127
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere 4 HD" tvg-logo="http://galaxtv.art:80/images/356a60ae56433d236f78e38257d81fc5.jpg" group-title="Brasil",BR: Premiere 4 HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27128
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere 5 HD" tvg-logo="http://galaxtv.art:80/images/356a60ae56433d236f78e38257d81fc5.jpg" group-title="Brasil",BR: Premiere 5 HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27129
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere 6 HD" tvg-logo="http://galaxtv.art:80/images/356a60ae56433d236f78e38257d81fc5.jpg" group-title="Brasil",BR: Premiere 6 HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27130
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere 7 SD" tvg-logo="http://galaxtv.art:80/images/57cd008871c9f2886f14a22840a04abb.jpg" group-title="Brasil",BR: Premiere 7 SD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27131
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere Clubes FHD" tvg-logo="http://galaxtv.art:80/images/356a60ae56433d236f78e38257d81fc5.jpg" group-title="Brasil",BR: Premiere Clubes FHD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27132
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere Clubes HD" tvg-logo="http://galaxtv.art:80/images/356a60ae56433d236f78e38257d81fc5.jpg" group-title="Brasil",BR: Premiere Clubes HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27133
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere Clubes Extra" tvg-logo="http://galaxtv.art:80/images/3d272affd48ba86b6ee831141de28c7d.jpg" group-title="Brasil",BR: Premiere Clubes Extra
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27134
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere Clubes SD" tvg-logo="http://galaxtv.art:80/images/57cd008871c9f2886f14a22840a04abb.jpg" group-title="Brasil",BR: Premiere Clubes SD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27135
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record Campinas  VIP" tvg-logo="http://galaxtv.art:80/images/fb1ad519ac1e2052542008f1f168903d.jpg" group-title="Brasil",BR: Record Campinas  VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27136
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record News" tvg-logo="http://galaxtv.art:80/images/dbb3b1efed3f5ef82e1027dd83d9a8cd.jpg" group-title="Brasil",BR: Record News
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27137
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record News VIP" tvg-logo="http://galaxtv.art:80/images/dbb3b1efed3f5ef82e1027dd83d9a8cd.jpg" group-title="Brasil",BR: Record News VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27138
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record RJ" tvg-logo="http://galaxtv.art:80/images/fb1ad519ac1e2052542008f1f168903d.jpg" group-title="Brasil",BR: Record RJ
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27139
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record RJ VIP" tvg-logo="http://galaxtv.art:80/images/fb1ad519ac1e2052542008f1f168903d.jpg" group-title="Brasil",BR: Record RJ VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27140
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record SP VIP" tvg-logo="http://galaxtv.art:80/images/fb1ad519ac1e2052542008f1f168903d.jpg" group-title="Brasil",BR: Record SP VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27141
+#EXTINF:-1 tvg-id="" tvg-name="BR: Rede Familia SD" tvg-logo="http://galaxtv.art:80/images/27f5e2212b80ab59ca207d41e288cfc9.jpg" group-title="Brasil",BR: Rede Familia SD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27142
+#EXTINF:-1 tvg-id="" tvg-name="BR: Rede Gospel SD" tvg-logo="http://galaxtv.art:80/images/ffd10a3c82a8bf33bfb4747a7c782c3e.jpg" group-title="Brasil",BR: Rede Gospel SD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27143
+#EXTINF:-1 tvg-id="" tvg-name="BR: Rede Vida HD" tvg-logo="http://galaxtv.art:80/images/8e8410b55a6a2d0b8f9482f065c071e2.png" group-title="Brasil",BR: Rede Vida HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27144
+#EXTINF:-1 tvg-id="" tvg-name="BR: RedeTV!   VIP" tvg-logo="http://galaxtv.art:80/images/4e31c3e7ebe825386b73857ae59f127a.jpg" group-title="Brasil",BR: RedeTV!   VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27145
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT Brasilia HD" tvg-logo="http://galaxtv.art:80/images/184ff93748dc5058fe4d478cd49e9cb7.jpg" group-title="Brasil",BR: SBT Brasilia HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27146
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT RJ HD" tvg-logo="http://galaxtv.art:80/images/235d437a8907ea70c2306a0428da4c3a.jpg" group-title="Brasil",BR: SBT RJ HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27147
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT SP HD" tvg-logo="http://galaxtv.art:80/images/235d437a8907ea70c2306a0428da4c3a.jpg" group-title="Brasil",BR: SBT SP HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27148
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT TV Jornal Pernambuco" tvg-logo="http://galaxtv.art:80/images/25bc0d03949a029ef8aa09b7afcd8946.jpg" group-title="Brasil",BR: SBT TV Jornal Pernambuco
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27149
+#EXTINF:-1 tvg-id="" tvg-name="BR: Space FHD" tvg-logo="http://galaxtv.art:80/images/c3e94163384f02bd636be552246a8213.jpg" group-title="Brasil",BR: Space FHD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27150
+#EXTINF:-1 tvg-id="" tvg-name="BR: SporTV 2 VIP" tvg-logo="http://galaxtv.art:80/images/0d7c4ff91cc86701fcae4d26010094b3.jpg" group-title="Brasil",BR: SporTV 2 VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27151
+#EXTINF:-1 tvg-id="" tvg-name="BR: SporTV 2" tvg-logo="http://galaxtv.art:80/images/0d7c4ff91cc86701fcae4d26010094b3.jpg" group-title="Brasil",BR: SporTV 2
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27152
+#EXTINF:-1 tvg-id="" tvg-name="BR: SporTV 3 VIP" tvg-logo="http://galaxtv.art:80/images/9a5b51c28f765d1172758f10ed69c7c3.jpg" group-title="Brasil",BR: SporTV 3 VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27153
+#EXTINF:-1 tvg-id="" tvg-name="BR: SporTV VIP" tvg-logo="http://galaxtv.art:80/images/5a43b3f24111d142797286de408a31ff.jpg" group-title="Brasil",BR: SporTV VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27154
+#EXTINF:-1 tvg-id="" tvg-name="BR: SporTV" tvg-logo="http://galaxtv.art:80/images/5a43b3f24111d142797286de408a31ff.jpg" group-title="Brasil",BR: SporTV
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27155
+#EXTINF:-1 tvg-id="" tvg-name="BR: Studio Universal HD" tvg-logo="http://galaxtv.art:80/images/f30fe96259272495dad6d6c938f95e93.jpg" group-title="Brasil",BR: Studio Universal HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27156
+#EXTINF:-1 tvg-id="" tvg-name="BR: SyFy FHD" tvg-logo="http://galaxtv.art:80/images/a0efb266281959a537683e046c89d542.jpg" group-title="Brasil",BR: SyFy FHD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27157
+#EXTINF:-1 tvg-id="" tvg-name="BR: TBS" tvg-logo="http://galaxtv.art:80/images/c56d898ebd650a807334f0c82eba67c5.png" group-title="Brasil",BR: TBS
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27158
+#EXTINF:-1 tvg-id="" tvg-name="BR: TCM SD" tvg-logo="http://galaxtv.art:80/images/0eddd8ddf2f792b7e359580c1578be64.png" group-title="Brasil",BR: TCM SD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27159
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Action FHD" tvg-logo="http://galaxtv.art:80/images/57c2953ec35a61ea74868222787958c1.jpg" group-title="Brasil",BR: Telecine Action FHD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27160
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Action LEGENDADO" tvg-logo="http://galaxtv.art:80/images/35df6c685c8799a841780411473f1d1a.jpg" group-title="Brasil",BR: Telecine Action LEGENDADO
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27161
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Cult FHD" tvg-logo="http://galaxtv.art:80/images/40714b07c862388d2135639b8cdfc1f4.jpg" group-title="Brasil",BR: Telecine Cult FHD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27162
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Cult LEGENDADO" tvg-logo="http://galaxtv.art:80/images/40714b07c862388d2135639b8cdfc1f4.jpg" group-title="Brasil",BR: Telecine Cult LEGENDADO
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27163
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Fun FHD" tvg-logo="http://galaxtv.art:80/images/a2c411ead6a23eacfcbcd71a1619512a.jpg" group-title="Brasil",BR: Telecine Fun FHD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27164
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Fun LEGENDADO" tvg-logo="http://galaxtv.art:80/images/a2c411ead6a23eacfcbcd71a1619512a.jpg" group-title="Brasil",BR: Telecine Fun LEGENDADO
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27165
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Pipoca FHD" tvg-logo="http://galaxtv.art:80/images/c5f467ac5cf21663664acdcfc21117b8.jpg" group-title="Brasil",BR: Telecine Pipoca FHD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27166
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Pipoca LEGENDADO" tvg-logo="https://i.postimg.cc/g2kqfPVs/Telecine-Pipoca-logo.gif" group-title="Brasil",BR: Telecine Pipoca LEGENDADO
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27167
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Premium FHD" tvg-logo="http://galaxtv.art:80/images/48c26fb66dff819950ef144c61684e53.jpg" group-title="Brasil",BR: Telecine Premium FHD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27168
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Premium LEGENDADO" tvg-logo="http://galaxtv.art:80/images/17ac8f72645e0c2f92954d53d86d7675.jpg" group-title="Brasil",BR: Telecine Premium LEGENDADO
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27169
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Touch VIP" tvg-logo="http://galaxtv.art:80/images/f079ed09dba69519f4dc0da96cdc35d0.jpg" group-title="Brasil",BR: Telecine Touch VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27170
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Touch LEGENDADO" tvg-logo="http://galaxtv.art:80/images/f079ed09dba69519f4dc0da96cdc35d0.jpg" group-title="Brasil",BR: Telecine Touch LEGENDADO
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27171
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT FHD" tvg-logo="http://galaxtv.art:80/images/60f5418c9d41d3b18d4658d4d1eb9039.jpg" group-title="Brasil",BR: TNT FHD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27172
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT Séries FHD" tvg-logo="http://galaxtv.art:80/images/888fb7210f8588397d889cefffb00d5a.png" group-title="Brasil",BR: TNT Séries FHD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27173
+#EXTINF:-1 tvg-id="" tvg-name="BR: Tooncast" tvg-logo="http://galaxtv.art:80/images/e267350225dd575e779ef2722288ff63.jpg" group-title="Brasil",BR: Tooncast
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27174
+#EXTINF:-1 tvg-id="" tvg-name="BR: Tooncast VIP" tvg-logo="http://galaxtv.art:80/images/842bb72b9cc9ef8c86459a5101fb8673.jpg" group-title="Brasil",BR: Tooncast VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27175
+#EXTINF:-1 tvg-id="" tvg-name="BR: TruTV HD" tvg-logo="http://galaxtv.art:80/images/3fbfc54107ec209d8edbd5e80b5e9f52.jpg" group-title="Brasil",BR: TruTV HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27176
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Aparecida SD" tvg-logo="http://galaxtv.art:80/images/cfcca1522834cc1411a1805f838b7f00.jpg" group-title="Brasil",BR: TV Aparecida SD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27177
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Gazeta HD" tvg-logo="http://galaxtv.art:80/images/b154b3cd819a19dc00b15d5257c8220e.jpg" group-title="Brasil",BR: TV Gazeta HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27178
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Ra Tim Bum" tvg-logo="http://galaxtv.art:80/images/620e372130b5824a2bbbdaccc89e80ba.jpg" group-title="Brasil",BR: TV Ra Tim Bum
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27179
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Ra Tim Bum VIP" tvg-logo="http://galaxtv.art:80/images/9d1708cd5f2f76d6594ddaf893bd9db0.jpg" group-title="Brasil",BR: TV Ra Tim Bum VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27180
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Século 21" tvg-logo="http://galaxtv.art:80/images/158dabb6218f2d98e18bb02193630b37.jpg" group-title="Brasil",BR: TV Século 21
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27181
+#EXTINF:-1 tvg-id="" tvg-name="BR: Universal Channel FHD" tvg-logo="http://galaxtv.art:80/images/599dd5bff4e4f348320c9e801af815f8.jpg" group-title="Brasil",BR: Universal Channel FHD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27182
+#EXTINF:-1 tvg-id="" tvg-name="BR: VH1 HD" tvg-logo="http://galaxtv.art:80/images/eb990668d3df808512780d6fc8e210ea.png" group-title="Brasil",BR: VH1 HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27183
+#EXTINF:-1 tvg-id="" tvg-name="BR: Viva" tvg-logo="http://galaxtv.art:80/images/c3a9d72618cb7c4f4987bbeec0518344.png" group-title="Brasil",BR: Viva
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27184
+#EXTINF:-1 tvg-id="" tvg-name="BR: Viva  VIP" tvg-logo="http://galaxtv.art:80/images/c3a9d72618cb7c4f4987bbeec0518344.png" group-title="Brasil",BR: Viva  VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27185
+#EXTINF:-1 tvg-id="" tvg-name="BR: Warner Channel" tvg-logo="http://galaxtv.art:80/images/9e578e21873509b4f79f1bed95232227.jpg" group-title="Brasil",BR: Warner Channel
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27186
+#EXTINF:-1 tvg-id="" tvg-name="BR: Warner Channel VIP" tvg-logo="http://galaxtv.art:80/images/9e578e21873509b4f79f1bed95232227.jpg" group-title="Brasil",BR: Warner Channel VIP
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27187
+#EXTINF:-1 tvg-id="" tvg-name="BR: Woohoo HD" tvg-logo="http://galaxtv.art:80/images/cf05219372b8bf3f08225f6374609f26.jpg" group-title="Brasil",BR: Woohoo HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27188
+#EXTINF:-1 tvg-id="" tvg-name="BR: Zoomoo HD" tvg-logo="http://galaxtv.art:80/images/0d667cef9858d5859677da5172641c00.png" group-title="Brasil",BR: Zoomoo HD
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27189
+#EXTINF:-1 tvg-id="" tvg-name="BR: Cine Pipoca 1" tvg-logo="http://galaxtv.art:80/images/2d0db1cd5f8771069530948b9519cb23.jpg" group-title="Brasil",BR: Cine Pipoca 1
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27190
+#EXTINF:-1 tvg-id="" tvg-name="BR: Cine Pipoca 3" tvg-logo="http://galaxtv.art:80/images/2d0db1cd5f8771069530948b9519cb23.jpg" group-title="Brasil",BR: Cine Pipoca 3
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27191
+#EXTINF:-1 tvg-id="" tvg-name="BR: Cine Pipoca 2" tvg-logo="http://galaxtv.art:80/images/2d0db1cd5f8771069530948b9519cb23.jpg" group-title="Brasil",BR: Cine Pipoca 2
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27192
+#EXTINF:-1 tvg-id="" tvg-name="BR: Cine Pipoca 4" tvg-logo="http://galaxtv.art:80/images/2d0db1cd5f8771069530948b9519cb23.jpg" group-title="Brasil",BR: Cine Pipoca 4
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27193
+#EXTINF:-1 tvg-id="" tvg-name="BR: Cine Pipoca 5" tvg-logo="http://galaxtv.art:80/images/2d0db1cd5f8771069530948b9519cb23.jpg" group-title="Brasil",BR: Cine Pipoca 5
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27194
+#EXTINF:-1 tvg-id="" tvg-name="BR: Conmebol TV 01" tvg-logo="http://galaxtv.art:80/images/7bb049cae52dd63dd35336291788ace8.jpg" group-title="Brasil",BR: Conmebol TV 01
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27195
+#EXTINF:-1 tvg-id="" tvg-name="BR: Conmebol TV 02" tvg-logo="http://galaxtv.art:80/images/7bb049cae52dd63dd35336291788ace8.jpg" group-title="Brasil",BR: Conmebol TV 02
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27196
+#EXTINF:-1 tvg-id="" tvg-name="BR: Conmebol TV 03" tvg-logo="http://galaxtv.art:80/images/7bb049cae52dd63dd35336291788ace8.jpg" group-title="Brasil",BR: Conmebol TV 03
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27197
+#EXTINF:-1 tvg-id="" tvg-name="BR: Conmebol TV 04" tvg-logo="http://galaxtv.art:80/images/7bb049cae52dd63dd35336291788ace8.jpg" group-title="Brasil",BR: Conmebol TV 04
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27198
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO NORDESTE" tvg-logo="http://galaxtv.art:80/images/9dc27458191769bdc72cd60f0d874e68.jpg" group-title="Brasil",BR: GLOBO NORDESTE
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27199
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fox Legendado" tvg-logo="http://galaxtv.art:80/images/0c990587f0ad45e578729a2fa307e2f0.jpg" group-title="Brasil",BR: Fox Legendado
+http://martelo.top:80/p2RzWr46tj/GWNgZC6q2Z/27200
