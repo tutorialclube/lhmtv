@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Canais | A Fazenda 2021",#A FAZENDA SINAL 8
+http://pfsv.io:80/4300503/7955/92848
+#EXTINF:-1 tvg-logo="" group-title="Canais | A Fazenda 2021",#A FAZENDA SINAL 7
+http://pfsv.io:80/4300503/7955/92849
+#EXTINF:-1 tvg-logo="" group-title="Canais | A Fazenda 2021",#A FAZENDA SINAL 6
+http://pfsv.io:80/4300503/7955/92850
+#EXTINF:-1 tvg-logo="" group-title="Canais | A Fazenda 2021",#A FAZENDA SINAL 5
+http://pfsv.io:80/4300503/7955/92851
+#EXTINF:-1 tvg-logo="" group-title="Canais | A Fazenda 2021",#A FAZENDA SINAL 4
+http://pfsv.io:80/4300503/7955/92852
+#EXTINF:-1 tvg-logo="" group-title="Canais | A Fazenda 2021",#A FAZENDA SINAL 3
+http://pfsv.io:80/4300503/7955/92853
+#EXTINF:-1 tvg-logo="" group-title="Canais | A Fazenda 2021",#A FAZENDA SINAL 2
+http://pfsv.io:80/4300503/7955/92854
+#EXTINF:-1 tvg-logo="" group-title="Canais | A Fazenda 2021",#A FAZENDA SINAL 1
+http://pfsv.io:80/4300503/7955/92855
 #EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Jogos & Eventos",#EVENTOS 01
 http://pfsv.io:80/4300503/7955/33377
 #EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Jogos & Eventos",#EVENTOS 02
