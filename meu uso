@@ -1,1401 +1,1035 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="https://i.postimg.cc/GtJ3Q7k5/1516310963-93dd95b2bb0ed437164a949521c4c39a2315839d.jpg" group-title="HBO's",HBO SD
-http://cdn.erost.xyz:8080/33156246/83611094/14411
+http://cdn.erost.xyz:8080/58220335/15014071/14411
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="https://i.postimg.cc/GtJ3Q7k5/1516310963-93dd95b2bb0ed437164a949521c4c39a2315839d.jpg" group-title="HBO's",HBO HD
-http://cdn.erost.xyz:8080/33156246/83611094/14412
+http://cdn.erost.xyz:8080/58220335/15014071/14412
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD" tvg-logo="https://i.postimg.cc/GtJ3Q7k5/1516310963-93dd95b2bb0ed437164a949521c4c39a2315839d.jpg" group-title="HBO's",HBO FHD
-http://cdn.erost.xyz:8080/33156246/83611094/14413
+http://cdn.erost.xyz:8080/58220335/15014071/14413
 #EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="https://i.postimg.cc/JhGnLQLs/1516311085-daf8e87ee066625b204c7ab0c72f4fd93495b3eb.jpg" group-title="HBO's",HBO 2 SD
-http://cdn.erost.xyz:8080/33156246/83611094/14414
+http://cdn.erost.xyz:8080/58220335/15014071/14414
 #EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://i.postimg.cc/JhGnLQLs/1516311085-daf8e87ee066625b204c7ab0c72f4fd93495b3eb.jpg" group-title="HBO's",HBO 2 HD
-http://cdn.erost.xyz:8080/33156246/83611094/14415
+http://cdn.erost.xyz:8080/58220335/15014071/14415
 #EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="https://i.postimg.cc/JhGnLQLs/1516311085-daf8e87ee066625b204c7ab0c72f4fd93495b3eb.jpg" group-title="HBO's",HBO 2 FHD
-http://cdn.erost.xyz:8080/33156246/83611094/14416
+http://cdn.erost.xyz:8080/58220335/15014071/14416
 #EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY SD" tvg-logo="https://i.postimg.cc/v8WmbBpt/1516311196-c901e94fbc94819c91616c75905a41d6af11970c.jpg" group-title="HBO's",HBO FAMILY SD
-http://cdn.erost.xyz:8080/33156246/83611094/14417
+http://cdn.erost.xyz:8080/58220335/15014071/14417
 #EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="https://i.postimg.cc/v8WmbBpt/1516311196-c901e94fbc94819c91616c75905a41d6af11970c.jpg" group-title="HBO's",HBO FAMILY HD
-http://cdn.erost.xyz:8080/33156246/83611094/14418
+http://cdn.erost.xyz:8080/58220335/15014071/14418
 #EXTINF:-1 tvg-id="Maxprimee.br" tvg-name="HBO MUNDI SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hbomundib.png" group-title="HBO's",HBO MUNDI SD
-http://cdn.erost.xyz:8080/33156246/83611094/14419
+http://cdn.erost.xyz:8080/58220335/15014071/14419
 #EXTINF:-1 tvg-id="Maxprimee.br" tvg-name="HBO MUNDI HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hbomundib.png" group-title="HBO's",HBO MUNDI HD
-http://cdn.erost.xyz:8080/33156246/83611094/14420
+http://cdn.erost.xyz:8080/58220335/15014071/14420
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS SD" tvg-logo="https://i.postimg.cc/HxMkJsjH/1516311316-72fe3dc94524fffb92702a67f9780dd8d20ab761.jpg" group-title="HBO's",HBO PLUS SD
-http://cdn.erost.xyz:8080/33156246/83611094/14421
+http://cdn.erost.xyz:8080/58220335/15014071/14421
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD" tvg-logo="https://i.postimg.cc/HxMkJsjH/1516311316-72fe3dc94524fffb92702a67f9780dd8d20ab761.jpg" group-title="HBO's",HBO PLUS HD
-http://cdn.erost.xyz:8080/33156246/83611094/14422
+http://cdn.erost.xyz:8080/58220335/15014071/14422
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS FHD" tvg-logo="https://i.postimg.cc/HxMkJsjH/1516311316-72fe3dc94524fffb92702a67f9780dd8d20ab761.jpg" group-title="HBO's",HBO PLUS FHD
-http://cdn.erost.xyz:8080/33156246/83611094/14423
+http://cdn.erost.xyz:8080/58220335/15014071/14423
 #EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="HBO POP SD" tvg-logo="https://www.cabonnet.com.br/ourinhos/uploads/canais/01022020101153.jpg" group-title="HBO's",HBO POP SD
-http://cdn.erost.xyz:8080/33156246/83611094/14424
+http://cdn.erost.xyz:8080/58220335/15014071/14424
 #EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="HBO POP HD" tvg-logo="https://www.cabonnet.com.br/ourinhos/uploads/canais/01022020101153.jpg" group-title="HBO's",HBO POP HD
-http://cdn.erost.xyz:8080/33156246/83611094/14425
+http://cdn.erost.xyz:8080/58220335/15014071/14425
 #EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="https://i.postimg.cc/RZPFyDjr/1516311574-cf89ef886267b71b946bc40c6c85bc5c9b2d2080.jpg" group-title="HBO's",HBO SIGNATURE SD
-http://cdn.erost.xyz:8080/33156246/83611094/14426
+http://cdn.erost.xyz:8080/58220335/15014071/14426
 #EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.postimg.cc/RZPFyDjr/1516311574-cf89ef886267b71b946bc40c6c85bc5c9b2d2080.jpg" group-title="HBO's",HBO SIGNATURE HD
-http://cdn.erost.xyz:8080/33156246/83611094/14427
+http://cdn.erost.xyz:8080/58220335/15014071/14427
 #EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="https://i.postimg.cc/RZPFyDjr/1516311574-cf89ef886267b71b946bc40c6c85bc5c9b2d2080.jpg" group-title="HBO's",HBO SIGNATURE FHD
-http://cdn.erost.xyz:8080/33156246/83611094/14428
+http://cdn.erost.xyz:8080/58220335/15014071/14428
 #EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SD" tvg-logo="https://www.cabonnet.com.br/ourinhos/uploads/canais/01022020101313.jpg" group-title="HBO's",HBO XTREME SD
-http://cdn.erost.xyz:8080/33156246/83611094/14429
+http://cdn.erost.xyz:8080/58220335/15014071/14429
 #EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHD" tvg-logo="https://www.cabonnet.com.br/ourinhos/uploads/canais/01022020101313.jpg" group-title="HBO's",HBO XTREME FHD
-http://cdn.erost.xyz:8080/33156246/83611094/14430
+http://cdn.erost.xyz:8080/58220335/15014071/14430
 #EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD" tvg-logo="https://www.cabonnet.com.br/ourinhos/uploads/canais/01022020101313.jpg" group-title="HBO's",HBO XTREME HD
-http://cdn.erost.xyz:8080/33156246/83611094/14431
+http://cdn.erost.xyz:8080/58220335/15014071/14431
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD" tvg-logo="https://i.postimg.cc/J0tK3vV1/1516360836-34e97214a21d80f45b12171e5e28ecde28afbaf3.jpg" group-title="Telecine's",TELECINE ACTION SD
-http://cdn.erost.xyz:8080/33156246/83611094/14617
+http://cdn.erost.xyz:8080/58220335/15014071/14617
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://i.postimg.cc/J0tK3vV1/1516360836-34e97214a21d80f45b12171e5e28ecde28afbaf3.jpg" group-title="Telecine's",TELECINE ACTION HD
-http://cdn.erost.xyz:8080/33156246/83611094/14618
+http://cdn.erost.xyz:8080/58220335/15014071/14618
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD" tvg-logo="https://i.postimg.cc/J0tK3vV1/1516360836-34e97214a21d80f45b12171e5e28ecde28afbaf3.jpg" group-title="Telecine's",TELECINE ACTION FHD
-http://cdn.erost.xyz:8080/33156246/83611094/14619
+http://cdn.erost.xyz:8080/58220335/15014071/14619
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT SD" tvg-logo="https://i.postimg.cc/Rh8dgd4w/1516360963-3650ca65bf2d7dfd81b84e1d0490bbfec6102ea1.jpg" group-title="Telecine's",TELECINE CULT SD
-http://cdn.erost.xyz:8080/33156246/83611094/14620
+http://cdn.erost.xyz:8080/58220335/15014071/14620
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://i.postimg.cc/Rh8dgd4w/1516360963-3650ca65bf2d7dfd81b84e1d0490bbfec6102ea1.jpg" group-title="Telecine's",TELECINE CULT HD
-http://cdn.erost.xyz:8080/33156246/83611094/14621
+http://cdn.erost.xyz:8080/58220335/15014071/14621
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT FHD" tvg-logo="https://i.postimg.cc/Rh8dgd4w/1516360963-3650ca65bf2d7dfd81b84e1d0490bbfec6102ea1.jpg" group-title="Telecine's",TELECINE CULT FHD
-http://cdn.erost.xyz:8080/33156246/83611094/14622
+http://cdn.erost.xyz:8080/58220335/15014071/14622
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN SD" tvg-logo="https://i.postimg.cc/KvkJR6Df/1516361211-233589ebc98bb0fc54278e2a1cc626e1dda51a2a.jpg" group-title="Telecine's",TELECINE FUN SD
-http://cdn.erost.xyz:8080/33156246/83611094/14623
+http://cdn.erost.xyz:8080/58220335/15014071/14623
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://i.postimg.cc/KvkJR6Df/1516361211-233589ebc98bb0fc54278e2a1cc626e1dda51a2a.jpg" group-title="Telecine's",TELECINE FUN HD
-http://cdn.erost.xyz:8080/33156246/83611094/14624
+http://cdn.erost.xyz:8080/58220335/15014071/14624
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN FHD" tvg-logo="https://i.postimg.cc/KvkJR6Df/1516361211-233589ebc98bb0fc54278e2a1cc626e1dda51a2a.jpg" group-title="Telecine's",TELECINE FUN FHD
-http://cdn.erost.xyz:8080/33156246/83611094/14625
+http://cdn.erost.xyz:8080/58220335/15014071/14625
 #EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://i.postimg.cc/SQtgQSCj/1516361300-46a9179784e301633ee84c04dcf0e707f362e096.jpg" group-title="Telecine's",TELECINE PIPOCA SD
-http://cdn.erost.xyz:8080/33156246/83611094/14626
+http://cdn.erost.xyz:8080/58220335/15014071/14626
 #EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://i.postimg.cc/SQtgQSCj/1516361300-46a9179784e301633ee84c04dcf0e707f362e096.jpg" group-title="Telecine's",TELECINE PIPOCA HD
-http://cdn.erost.xyz:8080/33156246/83611094/14627
+http://cdn.erost.xyz:8080/58220335/15014071/14627
 #EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD" tvg-logo="https://i.postimg.cc/SQtgQSCj/1516361300-46a9179784e301633ee84c04dcf0e707f362e096.jpg" group-title="Telecine's",TELECINE PIPOCA FHD
-http://cdn.erost.xyz:8080/33156246/83611094/14628
+http://cdn.erost.xyz:8080/58220335/15014071/14628
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://i.postimg.cc/c4pTYFDS/1516361393-00dbf22b51a4de3512bd744ef42116ffd04eb5d9.jpg" group-title="Telecine's",TELECINE PREMIUM SD
-http://cdn.erost.xyz:8080/33156246/83611094/14629
+http://cdn.erost.xyz:8080/58220335/15014071/14629
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="https://i.postimg.cc/c4pTYFDS/1516361393-00dbf22b51a4de3512bd744ef42116ffd04eb5d9.jpg" group-title="Telecine's",TELECINE PREMIUM FHD
-http://cdn.erost.xyz:8080/33156246/83611094/14630
+http://cdn.erost.xyz:8080/58220335/15014071/14630
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://i.postimg.cc/c4pTYFDS/1516361393-00dbf22b51a4de3512bd744ef42116ffd04eb5d9.jpg" group-title="Telecine's",TELECINE PREMIUM HD
-http://cdn.erost.xyz:8080/33156246/83611094/14631
+http://cdn.erost.xyz:8080/58220335/15014071/14631
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH SD" tvg-logo="https://i.postimg.cc/Mp15Y14j/1516361487-90fe88aa0de57cd024250a92af9ab73cc3747ee0.jpg" group-title="Telecine's",TELECINE TOUCH SD
-http://cdn.erost.xyz:8080/33156246/83611094/14632
+http://cdn.erost.xyz:8080/58220335/15014071/14632
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH FHD" tvg-logo="https://i.postimg.cc/Mp15Y14j/1516361487-90fe88aa0de57cd024250a92af9ab73cc3747ee0.jpg" group-title="Telecine's",TELECINE TOUCH FHD
-http://cdn.erost.xyz:8080/33156246/83611094/14633
+http://cdn.erost.xyz:8080/58220335/15014071/14633
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://i.postimg.cc/Mp15Y14j/1516361487-90fe88aa0de57cd024250a92af9ab73cc3747ee0.jpg" group-title="Telecine's",TELECINE TOUCH HD
-http://cdn.erost.xyz:8080/33156246/83611094/14634
+http://cdn.erost.xyz:8080/58220335/15014071/14634
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL SD" tvg-logo="https://www.meioemensagem.com.br/wp-content/uploads/2019/03/CNN-Brasil-marca.jpg" group-title="Noticias",CNN BRASIL SD
-http://cdn.erost.xyz:8080/33156246/83611094/14635
+http://cdn.erost.xyz:8080/58220335/15014071/14635
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL HD" tvg-logo="https://www.meioemensagem.com.br/wp-content/uploads/2019/03/CNN-Brasil-marca.jpg" group-title="Noticias",CNN BRASIL HD
-http://cdn.erost.xyz:8080/33156246/83611094/14636
+http://cdn.erost.xyz:8080/58220335/15014071/14636
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL FHD" tvg-logo="https://www.meioemensagem.com.br/wp-content/uploads/2019/03/CNN-Brasil-marca.jpg" group-title="Noticias",CNN BRASIL FHD
-http://cdn.erost.xyz:8080/33156246/83611094/14637
+http://cdn.erost.xyz:8080/58220335/15014071/14637
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS SD" tvg-logo="https://i.postimg.cc/zDRgW84y/1516309117-7f7c1bfb444c2e2ce328bfb0a775a505c7698a86.jpg" group-title="Noticias",GLOBO NEWS SD
-http://cdn.erost.xyz:8080/33156246/83611094/14638
+http://cdn.erost.xyz:8080/58220335/15014071/14638
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD" tvg-logo="https://i.postimg.cc/zDRgW84y/1516309117-7f7c1bfb444c2e2ce328bfb0a775a505c7698a86.jpg" group-title="Noticias",GLOBO NEWS HD
-http://cdn.erost.xyz:8080/33156246/83611094/14639
+http://cdn.erost.xyz:8080/58220335/15014071/14639
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS FHD" tvg-logo="https://i.postimg.cc/zDRgW84y/1516309117-7f7c1bfb444c2e2ce328bfb0a775a505c7698a86.jpg" group-title="Noticias",GLOBO NEWS FHD
-http://cdn.erost.xyz:8080/33156246/83611094/14640
+http://cdn.erost.xyz:8080/58220335/15014071/14640
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS SD" tvg-logo="https://i.postimg.cc/s2pL1kyq/1516324071-28ffcd4f79fc9a354305060278b4f675ccdcd601.jpg" group-title="Noticias",RECORD NEWS SD
-http://cdn.erost.xyz:8080/33156246/83611094/14641
+http://cdn.erost.xyz:8080/58220335/15014071/14641
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS HD" tvg-logo="https://i.postimg.cc/s2pL1kyq/1516324071-28ffcd4f79fc9a354305060278b4f675ccdcd601.jpg" group-title="Noticias",RECORD NEWS HD
-http://cdn.erost.xyz:8080/33156246/83611094/14642
+http://cdn.erost.xyz:8080/58220335/15014071/14642
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS FHD" tvg-logo="https://i.postimg.cc/s2pL1kyq/1516324071-28ffcd4f79fc9a354305060278b4f675ccdcd601.jpg" group-title="Noticias",RECORD NEWS FHD
-http://cdn.erost.xyz:8080/33156246/83611094/14643
+http://cdn.erost.xyz:8080/58220335/15014071/14643
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS SD" tvg-logo="https://i.postimg.cc/wTvQnSrH/1516239506-9b9974cafce5cf724e5338189b8d013ebe2c17e4.jpg" group-title="Noticias",BAND NEWS SD
-http://cdn.erost.xyz:8080/33156246/83611094/14644
+http://cdn.erost.xyz:8080/58220335/15014071/14644
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="https://i.postimg.cc/wTvQnSrH/1516239506-9b9974cafce5cf724e5338189b8d013ebe2c17e4.jpg" group-title="Noticias",BAND NEWS HD
-http://cdn.erost.xyz:8080/33156246/83611094/14645
+http://cdn.erost.xyz:8080/58220335/15014071/14645
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS FHD" tvg-logo="https://i.postimg.cc/wTvQnSrH/1516239506-9b9974cafce5cf724e5338189b8d013ebe2c17e4.jpg" group-title="Noticias",BAND NEWS FHD
-http://cdn.erost.xyz:8080/33156246/83611094/14646
+http://cdn.erost.xyz:8080/58220335/15014071/14646
 #EXTINF:-1 tvg-id="" tvg-name="RECORD AMAZONAS HD" tvg-logo="https://i.postimg.cc/7LvcHHvS/1516323964-5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD AMAZONAS HD
-http://cdn.erost.xyz:8080/33156246/83611094/14648
+http://cdn.erost.xyz:8080/58220335/15014071/14648
 #EXTINF:-1 tvg-id="" tvg-name="RECORD BRASILIA HD" tvg-logo="https://i.postimg.cc/7LvcHHvS/1516323964-5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD BRASILIA HD
-http://cdn.erost.xyz:8080/33156246/83611094/14649
+http://cdn.erost.xyz:8080/58220335/15014071/14649
 #EXTINF:-1 tvg-id="" tvg-name="RECORD CAMPINAS HD" tvg-logo="https://i.postimg.cc/7LvcHHvS/1516323964-5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD CAMPINAS HD
-http://cdn.erost.xyz:8080/33156246/83611094/14650
+http://cdn.erost.xyz:8080/58220335/15014071/14650
 #EXTINF:-1 tvg-id="RecordTV Brasília" tvg-name="RECORD DF HD" tvg-logo="https://i.postimg.cc/7LvcHHvS/1516323964-5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD DF HD
-http://cdn.erost.xyz:8080/33156246/83611094/14651
+http://cdn.erost.xyz:8080/58220335/15014071/14651
 #EXTINF:-1 tvg-id="record.minas.br" tvg-name="RECORD MG HD" tvg-logo="https://i.postimg.cc/7LvcHHvS/1516323964-5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD MG HD
-http://cdn.erost.xyz:8080/33156246/83611094/14652
+http://cdn.erost.xyz:8080/58220335/15014071/14652
 #EXTINF:-1 tvg-id="" tvg-name="RECORD NORDESTE HD" tvg-logo="https://i.postimg.cc/7LvcHHvS/1516323964-5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD NORDESTE HD
-http://cdn.erost.xyz:8080/33156246/83611094/14653
+http://cdn.erost.xyz:8080/58220335/15014071/14653
 #EXTINF:-1 tvg-id="Record TV Rio HD" tvg-name="RECORD RJ SD" tvg-logo="https://i.postimg.cc/7LvcHHvS/1516323964-5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD RJ SD
-http://cdn.erost.xyz:8080/33156246/83611094/14654
+http://cdn.erost.xyz:8080/58220335/15014071/14654
 #EXTINF:-1 tvg-id="Record TV Rio HD" tvg-name="RECORD RJ HD" tvg-logo="https://i.postimg.cc/7LvcHHvS/1516323964-5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD RJ HD
-http://cdn.erost.xyz:8080/33156246/83611094/14655
+http://cdn.erost.xyz:8080/58220335/15014071/14655
 #EXTINF:-1 tvg-id="RecordTV RS" tvg-name="RECORD RS SD" tvg-logo="https://i.postimg.cc/7LvcHHvS/1516323964-5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD RS SD
-http://cdn.erost.xyz:8080/33156246/83611094/14656
+http://cdn.erost.xyz:8080/58220335/15014071/14656
 #EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="RECORD SP SD" tvg-logo="https://i.postimg.cc/7LvcHHvS/1516323964-5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD SP SD
-http://cdn.erost.xyz:8080/33156246/83611094/14657
+http://cdn.erost.xyz:8080/58220335/15014071/14657
 #EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="RECORD SP HD" tvg-logo="https://i.postimg.cc/7LvcHHvS/1516323964-5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD SP HD
-http://cdn.erost.xyz:8080/33156246/83611094/14658
+http://cdn.erost.xyz:8080/58220335/15014071/14658
 #EXTINF:-1 tvg-id="" tvg-name="CULTURA HD" tvg-logo="https://i.postimg.cc/Nf9r6YVy/1516303892-b30968dffae882d4a4d4fec70bce4522999acdea.jpg" group-title="Canais Abertos",CULTURA HD
-http://cdn.erost.xyz:8080/33156246/83611094/14660
+http://cdn.erost.xyz:8080/58220335/15014071/14660
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT FHD" tvg-logo="https://i.postimg.cc/bwnCF7Gr/1516324981-94cd7b9d468fcbf02426a848f39cbf5ec5938b34.jpg" group-title="Canais Abertos",SBT FHD
-http://cdn.erost.xyz:8080/33156246/83611094/14661
+http://cdn.erost.xyz:8080/58220335/15014071/14661
 #EXTINF:-1 tvg-id="" tvg-name="SBT GOIAS HD" tvg-logo="https://i.postimg.cc/bwnCF7Gr/1516324981-94cd7b9d468fcbf02426a848f39cbf5ec5938b34.jpg" group-title="Canais Abertos",SBT GOIAS HD
-http://cdn.erost.xyz:8080/33156246/83611094/14662
+http://cdn.erost.xyz:8080/58220335/15014071/14662
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD" tvg-logo="https://i.postimg.cc/bwnCF7Gr/1516324981-94cd7b9d468fcbf02426a848f39cbf5ec5938b34.jpg" group-title="Canais Abertos",SBT HD
-http://cdn.erost.xyz:8080/33156246/83611094/14663
+http://cdn.erost.xyz:8080/58220335/15014071/14663
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT NORDESTE HD" tvg-logo="https://i.postimg.cc/bwnCF7Gr/1516324981-94cd7b9d468fcbf02426a848f39cbf5ec5938b34.jpg" group-title="Canais Abertos",SBT NORDESTE HD
-http://cdn.erost.xyz:8080/33156246/83611094/14664
+http://cdn.erost.xyz:8080/58220335/15014071/14664
 #EXTINF:-1 tvg-id="" tvg-name="SBT NORDESTE FHD" tvg-logo="https://i.postimg.cc/bwnCF7Gr/1516324981-94cd7b9d468fcbf02426a848f39cbf5ec5938b34.jpg" group-title="Canais Abertos",SBT NORDESTE FHD
-http://cdn.erost.xyz:8080/33156246/83611094/14665
+http://cdn.erost.xyz:8080/58220335/15014071/14665
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SD" tvg-logo="https://i.postimg.cc/bwnCF7Gr/1516324981-94cd7b9d468fcbf02426a848f39cbf5ec5938b34.jpg" group-title="Canais Abertos",SBT SD
-http://cdn.erost.xyz:8080/33156246/83611094/14666
+http://cdn.erost.xyz:8080/58220335/15014071/14666
 #EXTINF:-1 tvg-id="SBT Rio" tvg-name="SBT RJ HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" group-title="Canais Abertos",SBT RJ HD
-http://cdn.erost.xyz:8080/33156246/83611094/14667
+http://cdn.erost.xyz:8080/58220335/15014071/14667
 #EXTINF:-1 tvg-id="" tvg-name="BAND CAMPINAS SD" tvg-logo="https://i.postimg.cc/dVZmVGvx/1516239409-b03ea8a6df6dcf3c4a72ba5cd30d11544c78e7bc.jpg" group-title="Canais Abertos",BAND CAMPINAS SD
-http://cdn.erost.xyz:8080/33156246/83611094/14668
+http://cdn.erost.xyz:8080/58220335/15014071/14668
 #EXTINF:-1 tvg-id="band.rj.br" tvg-name="BAND RJ HD" tvg-logo="https://i.postimg.cc/dVZmVGvx/1516239409-b03ea8a6df6dcf3c4a72ba5cd30d11544c78e7bc.jpg" group-title="Canais Abertos",BAND RJ HD
-http://cdn.erost.xyz:8080/33156246/83611094/14669
+http://cdn.erost.xyz:8080/58220335/15014071/14669
 #EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND SP SD" tvg-logo="https://i.postimg.cc/dVZmVGvx/1516239409-b03ea8a6df6dcf3c4a72ba5cd30d11544c78e7bc.jpg" group-title="Canais Abertos",BAND SP SD
-http://cdn.erost.xyz:8080/33156246/83611094/14670
+http://cdn.erost.xyz:8080/58220335/15014071/14670
 #EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND SP HD" tvg-logo="https://i.postimg.cc/dVZmVGvx/1516239409-b03ea8a6df6dcf3c4a72ba5cd30d11544c78e7bc.jpg" group-title="Canais Abertos",BAND SP HD
-http://cdn.erost.xyz:8080/33156246/83611094/14671
+http://cdn.erost.xyz:8080/58220335/15014071/14671
 #EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND SP FHD" tvg-logo="https://i.postimg.cc/dVZmVGvx/1516239409-b03ea8a6df6dcf3c4a72ba5cd30d11544c78e7bc.jpg" group-title="Canais Abertos",BAND SP FHD
-http://cdn.erost.xyz:8080/33156246/83611094/14672
+http://cdn.erost.xyz:8080/58220335/15014071/14672
 #EXTINF:-1 tvg-id="Telecine Premium HD ³" tvg-name="TV GAZETA SD" tvg-logo="https://i.postimg.cc/pTrK3j0C/1516363058-06b12bb9de0c903ebe7dc33edf6bd5d4cea6d705.jpg" group-title="Canais Abertos",TV GAZETA SD
-http://cdn.erost.xyz:8080/33156246/83611094/14673
+http://cdn.erost.xyz:8080/58220335/15014071/14673
 #EXTINF:-1 tvg-id="Telecine Premium HD ³" tvg-name="REDETV! SD" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2018/06/rede-tv-logo.png" group-title="Canais Abertos",REDETV! SD
-http://cdn.erost.xyz:8080/33156246/83611094/14674
+http://cdn.erost.xyz:8080/58220335/15014071/14674
 #EXTINF:-1 tvg-id="Telecine Premium HD ³" tvg-name="REDETV! HD" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2018/06/rede-tv-logo.png" group-title="Canais Abertos",REDETV! HD
-http://cdn.erost.xyz:8080/33156246/83611094/14675
+http://cdn.erost.xyz:8080/58220335/15014071/14675
 #EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANCAO NOVA SD" tvg-logo="https://seeklogo.com/images/C/cancao-nova-logo-32E26101A3-seeklogo.com.png" group-title="Religioso",CANCAO NOVA SD
-http://cdn.erost.xyz:8080/33156246/83611094/14787
+http://cdn.erost.xyz:8080/58220335/15014071/14787
 #EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA SD" tvg-logo="https://i.postimg.cc/mDB59mgD/1516324691-08c354cb70083b600155c5b2e315e559d7f01fac.jpg" group-title="Religioso",REDE VIDA SD
-http://cdn.erost.xyz:8080/33156246/83611094/14789
+http://cdn.erost.xyz:8080/58220335/15014071/14789
 #EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA HD" tvg-logo="https://i.postimg.cc/mDB59mgD/1516324691-08c354cb70083b600155c5b2e315e559d7f01fac.jpg" group-title="Religioso",REDE VIDA HD
-http://cdn.erost.xyz:8080/33156246/83611094/14790
+http://cdn.erost.xyz:8080/58220335/15014071/14790
 #EXTINF:-1 tvg-id="RICTVCuritibaHD.br" tvg-name="Igreja Universal HD" tvg-logo="http://u.meulogin.net:80/images/c15da4ee7b4d48d88e994293466db351.png" group-title="Religioso",Igreja Universal HD
-http://cdn.erost.xyz:8080/33156246/83611094/14791
+http://cdn.erost.xyz:8080/58220335/15014071/14791
 #EXTINF:-1 tvg-id="" tvg-name="TV GIDEOES SD" tvg-logo="" group-title="Religioso",TV GIDEOES SD
-http://cdn.erost.xyz:8080/33156246/83611094/14792
+http://cdn.erost.xyz:8080/58220335/15014071/14792
 #EXTINF:-1 tvg-id="tv.mundial.br" tvg-name="TV MUNDIAL" tvg-logo="https://4.bp.blogspot.com/-U4BMQVun848/V4BR2aJSYOI/AAAAAAAAuEI/xb82iDy7gOkSxIGc2HleWFxCMukWKosBQCLcB/s1600/1619829.jpg" group-title="Religioso",TV MUNDIAL
-http://cdn.erost.xyz:8080/33156246/83611094/14793
+http://cdn.erost.xyz:8080/58220335/15014071/14793
 #EXTINF:-1 tvg-id="NovoTempo.br" tvg-name="TV Novo Tempo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="Religioso",TV Novo Tempo
-http://cdn.erost.xyz:8080/33156246/83611094/14794
+http://cdn.erost.xyz:8080/58220335/15014071/14794
 #EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="Canção Nova SD" tvg-logo="https://seeklogo.com/images/C/cancao-nova-logo-32E26101A3-seeklogo.com.png" group-title="Religioso",Canção Nova SD
-http://cdn.erost.xyz:8080/33156246/83611094/19138
+http://cdn.erost.xyz:8080/58220335/15014071/19138
 #EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANÇÃO NOVA HD" tvg-logo="https://seeklogo.com/images/C/cancao-nova-logo-32E26101A3-seeklogo.com.png" group-title="Religioso",CANÇÃO NOVA HD
-http://cdn.erost.xyz:8080/33156246/83611094/19166
+http://cdn.erost.xyz:8080/58220335/15014071/19166
 #EXTINF:-1 tvg-id="" tvg-name="TV Igreja Mundial do Poder de Deus HD" tvg-logo="" group-title="Religioso",TV Igreja Mundial do Poder de Deus HD
-http://cdn.erost.xyz:8080/33156246/83611094/19168
+http://cdn.erost.xyz:8080/58220335/15014071/19168
 #EXTINF:-1 tvg-id="" tvg-name="REDE METROPOLE" tvg-logo="" group-title="Canais Abertos",REDE METROPOLE
-http://cdn.erost.xyz:8080/33156246/83611094/19175
+http://cdn.erost.xyz:8080/58220335/15014071/19175
 #EXTINF:-1 tvg-id="" tvg-name="REDE TV SP SD" tvg-logo="" group-title="Canais Abertos",REDE TV SP SD
-http://cdn.erost.xyz:8080/33156246/83611094/19177
+http://cdn.erost.xyz:8080/58220335/15014071/19177
 #EXTINF:-1 tvg-id="" tvg-name="SBT MA IMPERATRIZ" tvg-logo="" group-title="Canais Abertos",SBT MA IMPERATRIZ
-http://cdn.erost.xyz:8080/33156246/83611094/19178
+http://cdn.erost.xyz:8080/58220335/15014071/19178
 #EXTINF:-1 tvg-id="" tvg-name="TV CULTURA PA" tvg-logo="" group-title="Canais Abertos",TV CULTURA PA
-http://cdn.erost.xyz:8080/33156246/83611094/19188
+http://cdn.erost.xyz:8080/58220335/15014071/19188
 #EXTINF:-1 tvg-id="TV Câmara" tvg-name="TV CÂMARA²" tvg-logo="" group-title="Canais Abertos",TV CÂMARA²
-http://cdn.erost.xyz:8080/33156246/83611094/19189
+http://cdn.erost.xyz:8080/58220335/15014071/19189
 #EXTINF:-1 tvg-id="" tvg-name="TV DIÁRIO DO SERTÃO PARAÍBA" tvg-logo="" group-title="Canais Abertos",TV DIÁRIO DO SERTÃO PARAÍBA
-http://cdn.erost.xyz:8080/33156246/83611094/19190
+http://cdn.erost.xyz:8080/58220335/15014071/19190
 #EXTINF:-1 tvg-id="" tvg-name="TV DIÁRIO DO SERTÃO PB" tvg-logo="" group-title="Canais Abertos",TV DIÁRIO DO SERTÃO PB
-http://cdn.erost.xyz:8080/33156246/83611094/19191
+http://cdn.erost.xyz:8080/58220335/15014071/19191
 #EXTINF:-1 tvg-id="" tvg-name="TV DIÁRIO DO SERTÃO PB²" tvg-logo="" group-title="Canais Abertos",TV DIÁRIO DO SERTÃO PB²
-http://cdn.erost.xyz:8080/33156246/83611094/19192
+http://cdn.erost.xyz:8080/58220335/15014071/19192
 #EXTINF:-1 tvg-id="" tvg-name="TV MARAJOARA  REDE BRASIL" tvg-logo="" group-title="Canais Abertos",TV MARAJOARA  REDE BRASIL
-http://cdn.erost.xyz:8080/33156246/83611094/19196
+http://cdn.erost.xyz:8080/58220335/15014071/19196
 #EXTINF:-1 tvg-id="" tvg-name="TV BRASIL FHD" tvg-logo="" group-title="Canais Abertos",TV BRASIL FHD
-http://cdn.erost.xyz:8080/33156246/83611094/19198
+http://cdn.erost.xyz:8080/58220335/15014071/19198
 #EXTINF:-1 tvg-id="" tvg-name="SHOPTIME HD" tvg-logo="https://grupo.aguiamontagemdemoveis.com.br/wp-content/uploads/2017/10/shoptime.jpg" group-title="Canais Abertos",SHOPTIME HD
-http://cdn.erost.xyz:8080/33156246/83611094/19209
+http://cdn.erost.xyz:8080/58220335/15014071/19209
 #EXTINF:-1 tvg-id="Polishop" tvg-name="Polishop TV SD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a27db73628471d246a5ba6daa44d3ad2.jpg" group-title="Canais Abertos",Polishop TV SD
-http://cdn.erost.xyz:8080/33156246/83611094/19210
+http://cdn.erost.xyz:8080/58220335/15014071/19210
 #EXTINF:-1 tvg-id="TV Evangelizar" tvg-name="TV Evangelizar SD" tvg-logo="" group-title="Religioso",TV Evangelizar SD
-http://cdn.erost.xyz:8080/33156246/83611094/19251
+http://cdn.erost.xyz:8080/58220335/15014071/19251
 #EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="Tv Aparecida HD" tvg-logo="" group-title="Religioso",Tv Aparecida HD
-http://cdn.erost.xyz:8080/33156246/83611094/19252
+http://cdn.erost.xyz:8080/58220335/15014071/19252
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES SD" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere.jpg" group-title="Premiere",PREMIERE CLUBES SD
-http://cdn.erost.xyz:8080/33156246/83611094/26620
+http://cdn.erost.xyz:8080/58220335/15014071/26620
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES SD (Alternativo)" tvg-logo="http://printv.esy.es/server/Premiere%20Clubes.png" group-title="Premiere",PREMIERE CLUBES SD (Alternativo)
-http://cdn.erost.xyz:8080/33156246/83611094/26621
+http://cdn.erost.xyz:8080/58220335/15014071/26621
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere.jpg" group-title="Premiere",PREMIERE CLUBES HD
-http://cdn.erost.xyz:8080/33156246/83611094/26622
+http://cdn.erost.xyz:8080/58220335/15014071/26622
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD (Alternativo)" tvg-logo="http://printv.esy.es/server/Premiere%20Clubes%20HD.png" group-title="Premiere",PREMIERE CLUBES HD (Alternativo)
-http://cdn.erost.xyz:8080/33156246/83611094/26623
+http://cdn.erost.xyz:8080/58220335/15014071/26623
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES FHD" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere.jpg" group-title="Premiere",PREMIERE CLUBES FHD
-http://cdn.erost.xyz:8080/33156246/83611094/26624
+http://cdn.erost.xyz:8080/58220335/15014071/26624
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES FHD (Alternativo)" tvg-logo="http://printv.esy.es/server/Premiere%20Clubes%20HD.png" group-title="Premiere",PREMIERE CLUBES FHD (Alternativo)
-http://cdn.erost.xyz:8080/33156246/83611094/26625
+http://cdn.erost.xyz:8080/58220335/15014071/26625
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 SD" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere.jpg" group-title="Premiere",PREMIERE 2 SD
-http://cdn.erost.xyz:8080/33156246/83611094/26626
+http://cdn.erost.xyz:8080/58220335/15014071/26626
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 SD (Alternativo)" tvg-logo="http://printv.esy.es/server/Premiere%202.png" group-title="Premiere",PREMIERE 2 SD (Alternativo)
-http://cdn.erost.xyz:8080/33156246/83611094/26627
+http://cdn.erost.xyz:8080/58220335/15014071/26627
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere.jpg" group-title="Premiere",PREMIERE 2 HD
-http://cdn.erost.xyz:8080/33156246/83611094/26628
+http://cdn.erost.xyz:8080/58220335/15014071/26628
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD (Alternativo)" tvg-logo="http://printv.esy.es/server/Premiere%202.png" group-title="Premiere",PREMIERE 2 HD (Alternativo)
-http://cdn.erost.xyz:8080/33156246/83611094/26629
+http://cdn.erost.xyz:8080/58220335/15014071/26629
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere.jpg" group-title="Premiere",PREMIERE 2 FHD
-http://cdn.erost.xyz:8080/33156246/83611094/26630
+http://cdn.erost.xyz:8080/58220335/15014071/26630
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD (Alternativo)" tvg-logo="http://printv.esy.es/server/Premiere%202.png" group-title="Premiere",PREMIERE 2 FHD (Alternativo)
-http://cdn.erost.xyz:8080/33156246/83611094/26631
+http://cdn.erost.xyz:8080/58220335/15014071/26631
 #EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 SD" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere.jpg" group-title="Premiere",PREMIERE 3 SD
-http://cdn.erost.xyz:8080/33156246/83611094/26632
+http://cdn.erost.xyz:8080/58220335/15014071/26632
 #EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 SD (Alternativo)" tvg-logo="http://printv.esy.es/server/Premiere%203.png" group-title="Premiere",PREMIERE 3 SD (Alternativo)
-http://cdn.erost.xyz:8080/33156246/83611094/26633
+http://cdn.erost.xyz:8080/58220335/15014071/26633
 #EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere.jpg" group-title="Premiere",PREMIERE 3 HD
-http://cdn.erost.xyz:8080/33156246/83611094/26634
+http://cdn.erost.xyz:8080/58220335/15014071/26634
 #EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD (Alternativo)" tvg-logo="http://printv.esy.es/server/Premiere%203.png" group-title="Premiere",PREMIERE 3 HD (Alternativo)
-http://cdn.erost.xyz:8080/33156246/83611094/26635
+http://cdn.erost.xyz:8080/58220335/15014071/26635
 #EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 FHD" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere.jpg" group-title="Premiere",PREMIERE 3 FHD
-http://cdn.erost.xyz:8080/33156246/83611094/26636
+http://cdn.erost.xyz:8080/58220335/15014071/26636
 #EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 FHD (Alternativo)" tvg-logo="http://printv.esy.es/server/Premiere%203.png" group-title="Premiere",PREMIERE 3 FHD (Alternativo)
-http://cdn.erost.xyz:8080/33156246/83611094/26637
+http://cdn.erost.xyz:8080/58220335/15014071/26637
 #EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 SD" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere.jpg" group-title="Premiere",PREMIERE 4 SD
-http://cdn.erost.xyz:8080/33156246/83611094/26638
+http://cdn.erost.xyz:8080/58220335/15014071/26638
 #EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 SD (Alternativo)" tvg-logo="http://printv.esy.es/server/Premiere%204.png" group-title="Premiere",PREMIERE 4 SD (Alternativo)
-http://cdn.erost.xyz:8080/33156246/83611094/26639
+http://cdn.erost.xyz:8080/58220335/15014071/26639
 #EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere.jpg" group-title="Premiere",PREMIERE 4 HD
-http://cdn.erost.xyz:8080/33156246/83611094/26640
+http://cdn.erost.xyz:8080/58220335/15014071/26640
 #EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD (Alternativo)" tvg-logo="http://printv.esy.es/server/Premiere%204.png" group-title="Premiere",PREMIERE 4 HD (Alternativo)
-http://cdn.erost.xyz:8080/33156246/83611094/26641
+http://cdn.erost.xyz:8080/58220335/15014071/26641
 #EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 FHD" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere.jpg" group-title="Premiere",PREMIERE 4 FHD
-http://cdn.erost.xyz:8080/33156246/83611094/26642
+http://cdn.erost.xyz:8080/58220335/15014071/26642
 #EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 FHD (Alternativo)" tvg-logo="http://printv.esy.es/server/Premiere%204.png" group-title="Premiere",PREMIERE 4 FHD (Alternativo)
-http://cdn.erost.xyz:8080/33156246/83611094/26643
+http://cdn.erost.xyz:8080/58220335/15014071/26643
 #EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 SD" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere.jpg" group-title="Premiere",PREMIERE 5 SD
-http://cdn.erost.xyz:8080/33156246/83611094/26644
+http://cdn.erost.xyz:8080/58220335/15014071/26644
 #EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 SD (Alternativo)" tvg-logo="http://printv.esy.es/server/Premiere%205.png" group-title="Premiere",PREMIERE 5 SD (Alternativo)
-http://cdn.erost.xyz:8080/33156246/83611094/26645
+http://cdn.erost.xyz:8080/58220335/15014071/26645
 #EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere.jpg" group-title="Premiere",PREMIERE 5 HD
-http://cdn.erost.xyz:8080/33156246/83611094/26646
+http://cdn.erost.xyz:8080/58220335/15014071/26646
 #EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD (Alternativo)" tvg-logo="http://printv.esy.es/server/Premiere%205.png" group-title="Premiere",PREMIERE 5 HD (Alternativo)
-http://cdn.erost.xyz:8080/33156246/83611094/26647
+http://cdn.erost.xyz:8080/58220335/15014071/26647
 #EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 FHD" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere.jpg" group-title="Premiere",PREMIERE 5 FHD
-http://cdn.erost.xyz:8080/33156246/83611094/26648
+http://cdn.erost.xyz:8080/58220335/15014071/26648
 #EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 SD" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere.jpg" group-title="Premiere",PREMIERE 6 SD
-http://cdn.erost.xyz:8080/33156246/83611094/26650
+http://cdn.erost.xyz:8080/58220335/15014071/26650
 #EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 SD (Alternativo)" tvg-logo="http://printv.esy.es/server/Premiere%206.png" group-title="Premiere",PREMIERE 6 SD (Alternativo)
-http://cdn.erost.xyz:8080/33156246/83611094/26651
+http://cdn.erost.xyz:8080/58220335/15014071/26651
 #EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HD" tvg-logo="http://printv.esy.es/server/Premiere%206.png" group-title="Premiere",PREMIERE 6 HD
-http://cdn.erost.xyz:8080/33156246/83611094/26652
+http://cdn.erost.xyz:8080/58220335/15014071/26652
 #EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 FHD" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere.jpg" group-title="Premiere",PREMIERE 6 FHD
-http://cdn.erost.xyz:8080/33156246/83611094/26653
+http://cdn.erost.xyz:8080/58220335/15014071/26653
 #EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 SD" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere.jpg" group-title="Premiere",PREMIERE 7 SD
-http://cdn.erost.xyz:8080/33156246/83611094/26655
+http://cdn.erost.xyz:8080/58220335/15014071/26655
 #EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 SD (Alternativo)" tvg-logo="http://printv.esy.es/server/Premiere%207.png" group-title="Premiere",PREMIERE 7 SD (Alternativo)
-http://cdn.erost.xyz:8080/33156246/83611094/26656
+http://cdn.erost.xyz:8080/58220335/15014071/26656
 #EXTINF:-1 tvg-id="Premiere8.br" tvg-name="PREMIERE 8 SD" tvg-logo="http://printv.esy.es/server/Premiere%208.png" group-title="Premiere",PREMIERE 8 SD
-http://cdn.erost.xyz:8080/33156246/83611094/26659
+http://cdn.erost.xyz:8080/58220335/15014071/26659
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://i.postimg.cc/wTGQzwKN/1516238874-eafb047f810465d4230f923dc6f1c08ea472d2e3.jpg" group-title="Documentarios",ANIMAL PLANET FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42293
+http://cdn.erost.xyz:8080/58220335/15014071/42293
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://i.postimg.cc/wTGQzwKN/1516238874-eafb047f810465d4230f923dc6f1c08ea472d2e3.jpg" group-title="Documentarios",ANIMAL PLANET HD
-http://cdn.erost.xyz:8080/33156246/83611094/42294
+http://cdn.erost.xyz:8080/58220335/15014071/42294
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://i.postimg.cc/wTGQzwKN/1516238874-eafb047f810465d4230f923dc6f1c08ea472d2e3.jpg" group-title="Documentarios",ANIMAL PLANET SD
-http://cdn.erost.xyz:8080/33156246/83611094/42295
+http://cdn.erost.xyz:8080/58220335/15014071/42295
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://i.postimg.cc/bw1D5gqp/1516304181-46ab479ef1cad874e93ac87dfbcff6c83ed0c66d.jpg" group-title="Documentarios",DISCOVERY CHANNEL FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42296
+http://cdn.erost.xyz:8080/58220335/15014071/42296
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://i.postimg.cc/bw1D5gqp/1516304181-46ab479ef1cad874e93ac87dfbcff6c83ed0c66d.jpg" group-title="Documentarios",DISCOVERY CHANNEL HD
-http://cdn.erost.xyz:8080/33156246/83611094/42297
+http://cdn.erost.xyz:8080/58220335/15014071/42297
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://i.postimg.cc/bw1D5gqp/1516304181-46ab479ef1cad874e93ac87dfbcff6c83ed0c66d.jpg" group-title="Documentarios",DISCOVERY CHANNEL SD
-http://cdn.erost.xyz:8080/33156246/83611094/42298
+http://cdn.erost.xyz:8080/58220335/15014071/42298
 #EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH FHD" tvg-logo="https://i.postimg.cc/Pq4LXqL7/1516304527-2da0f142fc25feed1d546aac7a1bc93564eca785.jpg" group-title="Documentarios",DISCOVERY HOME & HEALTH FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42299
+http://cdn.erost.xyz:8080/58220335/15014071/42299
 #EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="https://i.postimg.cc/Pq4LXqL7/1516304527-2da0f142fc25feed1d546aac7a1bc93564eca785.jpg" group-title="Documentarios",DISCOVERY HOME & HEALTH HD
-http://cdn.erost.xyz:8080/33156246/83611094/42300
+http://cdn.erost.xyz:8080/58220335/15014071/42300
 #EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH SD" tvg-logo="https://i.postimg.cc/Pq4LXqL7/1516304527-2da0f142fc25feed1d546aac7a1bc93564eca785.jpg" group-title="Documentarios",DISCOVERY HOME & HEALTH SD
-http://cdn.erost.xyz:8080/33156246/83611094/42301
+http://cdn.erost.xyz:8080/58220335/15014071/42301
 #EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="https://i.postimg.cc/brGd9H6X/1516304750-47cba569fa26f81e49f4fdd8596bec9930f0f89e.jpg" group-title="Documentarios",DISCOVERY SCIENCE FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42302
+http://cdn.erost.xyz:8080/58220335/15014071/42302
 #EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://i.postimg.cc/brGd9H6X/1516304750-47cba569fa26f81e49f4fdd8596bec9930f0f89e.jpg" group-title="Documentarios",DISCOVERY SCIENCE HD
-http://cdn.erost.xyz:8080/33156246/83611094/42303
+http://cdn.erost.xyz:8080/58220335/15014071/42303
 #EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="https://i.postimg.cc/brGd9H6X/1516304750-47cba569fa26f81e49f4fdd8596bec9930f0f89e.jpg" group-title="Documentarios",DISCOVERY SCIENCE SD
-http://cdn.erost.xyz:8080/33156246/83611094/42304
+http://cdn.erost.xyz:8080/58220335/15014071/42304
 #EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER FHD" tvg-logo="https://i.postimg.cc/ZRsCNDxF/1516304897-f7974bfa3b9d050bd9fab2b1b3d768aecb457639.jpg" group-title="Documentarios",DISCOVERY THEATER FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42305
+http://cdn.erost.xyz:8080/58220335/15014071/42305
 #EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://i.postimg.cc/ZRsCNDxF/1516304897-f7974bfa3b9d050bd9fab2b1b3d768aecb457639.jpg" group-title="Documentarios",DISCOVERY THEATER HD
-http://cdn.erost.xyz:8080/33156246/83611094/42306
+http://cdn.erost.xyz:8080/58220335/15014071/42306
 #EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER SD" tvg-logo="https://i.postimg.cc/ZRsCNDxF/1516304897-f7974bfa3b9d050bd9fab2b1b3d768aecb457639.jpg" group-title="Documentarios",DISCOVERY THEATER SD
-http://cdn.erost.xyz:8080/33156246/83611094/42307
+http://cdn.erost.xyz:8080/58220335/15014071/42307
 #EXTINF:-1 tvg-id="Tlc.br" tvg-name="DISCOVERY TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/1280px-TLC_Logo_Germany.svg.png" group-title="Documentarios",DISCOVERY TLC HD
-http://cdn.erost.xyz:8080/33156246/83611094/42308
+http://cdn.erost.xyz:8080/58220335/15014071/42308
 #EXTINF:-1 tvg-id="Tlc.br" tvg-name="DISCOVERY TLC SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/1280px-TLC_Logo_Germany.svg.png" group-title="Documentarios",DISCOVERY TLC SD
-http://cdn.erost.xyz:8080/33156246/83611094/42309
+http://cdn.erost.xyz:8080/58220335/15014071/42309
 #EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD" tvg-logo="https://i.postimg.cc/QtdFHr1d/1516304981-7e49582c4bf61a25a2c3e2901514e8a6690e61e1.jpg" group-title="Documentarios",DISCOVERY TURBO FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42310
+http://cdn.erost.xyz:8080/58220335/15014071/42310
 #EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://i.postimg.cc/QtdFHr1d/1516304981-7e49582c4bf61a25a2c3e2901514e8a6690e61e1.jpg" group-title="Documentarios",DISCOVERY TURBO HD
-http://cdn.erost.xyz:8080/33156246/83611094/42311
+http://cdn.erost.xyz:8080/58220335/15014071/42311
 #EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://i.postimg.cc/QtdFHr1d/1516304981-7e49582c4bf61a25a2c3e2901514e8a6690e61e1.jpg" group-title="Documentarios",DISCOVERY TURBO SD
-http://cdn.erost.xyz:8080/33156246/83611094/42312
+http://cdn.erost.xyz:8080/58220335/15014071/42312
 #EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD FHD" tvg-logo="https://i.postimg.cc/NfH5yD9m/1516305094-516d89d1f346643f27d856707cf1384a24455144.jpg" group-title="Documentarios",DISCOVERY WORLD FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42313
+http://cdn.erost.xyz:8080/58220335/15014071/42313
 #EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://i.postimg.cc/NfH5yD9m/1516305094-516d89d1f346643f27d856707cf1384a24455144.jpg" group-title="Documentarios",DISCOVERY WORLD HD
-http://cdn.erost.xyz:8080/33156246/83611094/42314
+http://cdn.erost.xyz:8080/58220335/15014071/42314
 #EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD SD" tvg-logo="https://i.postimg.cc/NfH5yD9m/1516305094-516d89d1f346643f27d856707cf1384a24455144.jpg" group-title="Documentarios",DISCOVERY WORLD SD
-http://cdn.erost.xyz:8080/33156246/83611094/42315
+http://cdn.erost.xyz:8080/58220335/15014071/42315
 #EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV HD" tvg-logo="https://i.postimg.cc/F15Fgtdc/1516307200-1f7490d9118234b1616bb0fddf1a0d1ba364b2a1.jpg" group-title="Documentarios",FISH TV HD
-http://cdn.erost.xyz:8080/33156246/83611094/42316
+http://cdn.erost.xyz:8080/58220335/15014071/42316
 #EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV SD" tvg-logo="https://i.postimg.cc/F15Fgtdc/1516307200-1f7490d9118234b1616bb0fddf1a0d1ba364b2a1.jpg" group-title="Documentarios",FISH TV SD
-http://cdn.erost.xyz:8080/33156246/83611094/42317
+http://cdn.erost.xyz:8080/58220335/15014071/42317
 #EXTINF:-1 tvg-id="H2.br" tvg-name="H2 FHD" tvg-logo="https://3.bp.blogspot.com/-kQIypodyTFw/U8c6bKN2dkI/AAAAAAAAjNw/5x4z2seCJVs/s1600/H2_1.png" group-title="Documentarios",H2 FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42318
+http://cdn.erost.xyz:8080/58220335/15014071/42318
 #EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD" tvg-logo="https://3.bp.blogspot.com/-kQIypodyTFw/U8c6bKN2dkI/AAAAAAAAjNw/5x4z2seCJVs/s1600/H2_1.png" group-title="Documentarios",H2 HD
-http://cdn.erost.xyz:8080/33156246/83611094/42319
+http://cdn.erost.xyz:8080/58220335/15014071/42319
 #EXTINF:-1 tvg-id="H2.br" tvg-name="H2 SD" tvg-logo="https://3.bp.blogspot.com/-kQIypodyTFw/U8c6bKN2dkI/AAAAAAAAjNw/5x4z2seCJVs/s1600/H2_1.png" group-title="Documentarios",H2 SD
-http://cdn.erost.xyz:8080/33156246/83611094/42320
+http://cdn.erost.xyz:8080/58220335/15014071/42320
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV FHD" tvg-logo="https://i.postimg.cc/TPGLvbPm/1516304318-ea0fabc96247cdacd9f0af7b22790b53bd2d48c6.jpg" group-title="Documentarios",HGTV FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42321
+http://cdn.erost.xyz:8080/58220335/15014071/42321
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV HD" tvg-logo="https://i.postimg.cc/TPGLvbPm/1516304318-ea0fabc96247cdacd9f0af7b22790b53bd2d48c6.jpg" group-title="Documentarios",HGTV HD
-http://cdn.erost.xyz:8080/33156246/83611094/42322
+http://cdn.erost.xyz:8080/58220335/15014071/42322
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV SD" tvg-logo="https://i.postimg.cc/TPGLvbPm/1516304318-ea0fabc96247cdacd9f0af7b22790b53bd2d48c6.jpg" group-title="Documentarios",HGTV SD
-http://cdn.erost.xyz:8080/33156246/83611094/42323
+http://cdn.erost.xyz:8080/58220335/15014071/42323
 #EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL FHD" tvg-logo="https://i.postimg.cc/tg5zKp9q/1516361934-5cd0838fbf66c6c1499b637579b89fb891f732c0.jpg" group-title="Documentarios",HISTORY CHANNEL FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42324
+http://cdn.erost.xyz:8080/58220335/15014071/42324
 #EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL HD" tvg-logo="https://i.postimg.cc/tg5zKp9q/1516361934-5cd0838fbf66c6c1499b637579b89fb891f732c0.jpg" group-title="Documentarios",HISTORY CHANNEL HD
-http://cdn.erost.xyz:8080/33156246/83611094/42325
+http://cdn.erost.xyz:8080/58220335/15014071/42325
 #EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL SD" tvg-logo="https://i.postimg.cc/tg5zKp9q/1516361934-5cd0838fbf66c6c1499b637579b89fb891f732c0.jpg" group-title="Documentarios",HISTORY CHANNEL SD
-http://cdn.erost.xyz:8080/33156246/83611094/42326
+http://cdn.erost.xyz:8080/58220335/15014071/42326
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY FHD" tvg-logo="https://multicanais.com/wp-content/uploads/2019/04/Assistir-id-ao-vivo-online.png" group-title="Documentarios",ID - INVESTIGACAO DISCOVERY FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42327
+http://cdn.erost.xyz:8080/58220335/15014071/42327
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY HD" tvg-logo="https://multicanais.com/wp-content/uploads/2019/04/Assistir-id-ao-vivo-online.png" group-title="Documentarios",ID - INVESTIGACAO DISCOVERY HD
-http://cdn.erost.xyz:8080/33156246/83611094/42328
+http://cdn.erost.xyz:8080/58220335/15014071/42328
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID INVESTIGACAO DISCOVERY SD" tvg-logo="https://multicanais.com/wp-content/uploads/2019/04/Assistir-id-ao-vivo-online.png" group-title="Documentarios",ID INVESTIGACAO DISCOVERY SD
-http://cdn.erost.xyz:8080/33156246/83611094/42329
+http://cdn.erost.xyz:8080/58220335/15014071/42329
 #EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD FHD" tvg-logo="https://i.postimg.cc/134Pn5YT/1516318948-9930a9b4d86cac9b03a91650951d47828388f718.jpg" group-title="Documentarios",NATGEO WILD FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42331
+http://cdn.erost.xyz:8080/58220335/15014071/42331
 #EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD HD" tvg-logo="https://i.postimg.cc/134Pn5YT/1516318948-9930a9b4d86cac9b03a91650951d47828388f718.jpg" group-title="Documentarios",NATGEO WILD HD
-http://cdn.erost.xyz:8080/33156246/83611094/42332
+http://cdn.erost.xyz:8080/58220335/15014071/42332
 #EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD SD" tvg-logo="https://i.postimg.cc/134Pn5YT/1516318948-9930a9b4d86cac9b03a91650951d47828388f718.jpg" group-title="Documentarios",NATGEO WILD SD
-http://cdn.erost.xyz:8080/33156246/83611094/42333
+http://cdn.erost.xyz:8080/58220335/15014071/42333
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="https://i.postimg.cc/q73TwDrx/1516319258-4582b925ef1ccaaeaf6fc165249d007d97d19e97.jpg" group-title="Documentarios",NATIONAL GEOGRAPHIC FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42334
+http://cdn.erost.xyz:8080/58220335/15014071/42334
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://i.postimg.cc/q73TwDrx/1516319258-4582b925ef1ccaaeaf6fc165249d007d97d19e97.jpg" group-title="Documentarios",NATIONAL GEOGRAPHIC HD
-http://cdn.erost.xyz:8080/33156246/83611094/42335
+http://cdn.erost.xyz:8080/58220335/15014071/42335
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="https://i.postimg.cc/q73TwDrx/1516319258-4582b925ef1ccaaeaf6fc165249d007d97d19e97.jpg" group-title="Documentarios",NATIONAL GEOGRAPHIC SD
-http://cdn.erost.xyz:8080/33156246/83611094/42336
+http://cdn.erost.xyz:8080/58220335/15014071/42336
 #EXTINF:-1 tvg-id="SmithsonianChannel" tvg-name="Smithsonian Channel FHD" tvg-logo="https://1.bp.blogspot.com/-q1dK46-Q6oo/X8GH4RQRYZI/AAAAAAAB49o/1HFWQgHhU2wEnSma5UigGT0TsCjM9mOagCLcBGAsYHQ/s1200/smithsonianchannel_logo.png" group-title="Documentarios",Smithsonian Channel FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42337
+http://cdn.erost.xyz:8080/58220335/15014071/42337
 #EXTINF:-1 tvg-id="SmithsonianChannel" tvg-name="Smithsonian Channel HD" tvg-logo="https://1.bp.blogspot.com/-q1dK46-Q6oo/X8GH4RQRYZI/AAAAAAAB49o/1HFWQgHhU2wEnSma5UigGT0TsCjM9mOagCLcBGAsYHQ/s1200/smithsonianchannel_logo.png" group-title="Documentarios",Smithsonian Channel HD
-http://cdn.erost.xyz:8080/33156246/83611094/42338
+http://cdn.erost.xyz:8080/58220335/15014071/42338
 #EXTINF:-1 tvg-id="SmithsonianChannel" tvg-name="Smithsonian Channel SD" tvg-logo="https://1.bp.blogspot.com/-q1dK46-Q6oo/X8GH4RQRYZI/AAAAAAAB49o/1HFWQgHhU2wEnSma5UigGT0TsCjM9mOagCLcBGAsYHQ/s1200/smithsonianchannel_logo.png" group-title="Documentarios",Smithsonian Channel SD
-http://cdn.erost.xyz:8080/33156246/83611094/42339
+http://cdn.erost.xyz:8080/58220335/15014071/42339
 #EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRUTV SD" tvg-logo="https://i.postimg.cc/J4k51bRd/1516362361-4210102befbcd3b65ecd86dbb4bd6a24ad8fa580.jpg" group-title="Documentarios",TRUTV SD
-http://cdn.erost.xyz:8080/33156246/83611094/42341
+http://cdn.erost.xyz:8080/58220335/15014071/42341
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="All Sports" tvg-logo="https://1.bp.blogspot.com/-_ohPupEo060/XQ0tvARsyDI/AAAAAAAABMI/2Cie7xcwGvAkXsxNEvQOV1fLFnqq4FllwCPcBGAYYCw/s320/Screenshot_2019-06-21-15-36-14.png" group-title="Esportes",All Sports
-http://cdn.erost.xyz:8080/33156246/83611094/42342
+http://cdn.erost.xyz:8080/58220335/15014071/42342
 #EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD" tvg-logo="https://i.postimg.cc/kGhKngHC/1516239642-ce097a9c842de59c059fdfa7821f72ef817eec75.jpg" group-title="Esportes",BAND SPORTS HD
-http://cdn.erost.xyz:8080/33156246/83611094/42343
+http://cdn.erost.xyz:8080/58220335/15014071/42343
 #EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS SD" tvg-logo="https://i.postimg.cc/kGhKngHC/1516239642-ce097a9c842de59c059fdfa7821f72ef817eec75.jpg" group-title="Esportes",BAND SPORTS SD
-http://cdn.erost.xyz:8080/33156246/83611094/42344
+http://cdn.erost.xyz:8080/58220335/15014071/42344
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE FHD" tvg-logo="https://i.postimg.cc/wTCRFZ8w/1516242013-90e9f2f32a088eaf9a40dbeb88887f9758e0506b.jpg" group-title="Esportes",COMBATE FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42345
+http://cdn.erost.xyz:8080/58220335/15014071/42345
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD" tvg-logo="https://i.postimg.cc/wTCRFZ8w/1516242013-90e9f2f32a088eaf9a40dbeb88887f9758e0506b.jpg" group-title="Esportes",COMBATE HD
-http://cdn.erost.xyz:8080/33156246/83611094/42346
+http://cdn.erost.xyz:8080/58220335/15014071/42346
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE SD" tvg-logo="https://i.postimg.cc/wTCRFZ8w/1516242013-90e9f2f32a088eaf9a40dbeb88887f9758e0506b.jpg" group-title="Esportes",COMBATE SD
-http://cdn.erost.xyz:8080/33156246/83611094/42347
+http://cdn.erost.xyz:8080/58220335/15014071/42347
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1" tvg-logo="https://1.bp.blogspot.com/-6fbcs2hGJF8/X2AL3bqqZWI/AAAAAAABAWk/gLhMQa5J2VUWuLBsCh1uIk2ftzcV2OWowCLcBGAsYHQ/s590/conmebol.jpg" group-title="Esportes",CONMEBOL TV 1
-http://cdn.erost.xyz:8080/33156246/83611094/42348
+http://cdn.erost.xyz:8080/58220335/15014071/42348
 #EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 2" tvg-logo="http://u.meulogin.net:80/images/3f8c88629050d7f958fc1b4d2a64a885.jpg" group-title="Esportes",Conmebol TV 2
-http://cdn.erost.xyz:8080/33156246/83611094/42349
+http://cdn.erost.xyz:8080/58220335/15014071/42349
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3" tvg-logo="https://1.bp.blogspot.com/-6fbcs2hGJF8/X2AL3bqqZWI/AAAAAAABAWk/gLhMQa5J2VUWuLBsCh1uIk2ftzcV2OWowCLcBGAsYHQ/s590/conmebol.jpg" group-title="Esportes",CONMEBOL TV 3
-http://cdn.erost.xyz:8080/33156246/83611094/42350
+http://cdn.erost.xyz:8080/58220335/15014071/42350
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4" tvg-logo="https://1.bp.blogspot.com/-6fbcs2hGJF8/X2AL3bqqZWI/AAAAAAABAWk/gLhMQa5J2VUWuLBsCh1uIk2ftzcV2OWowCLcBGAsYHQ/s590/conmebol.jpg" group-title="Esportes",CONMEBOL TV 4
-http://cdn.erost.xyz:8080/33156246/83611094/42351
+http://cdn.erost.xyz:8080/58220335/15014071/42351
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="http://u.meulogin.net:80/images/98bb2910883b8ad5ac110131fd466ce3.png" group-title="Esportes",DAZN 1 HD
-http://cdn.erost.xyz:8080/33156246/83611094/42354
+http://cdn.erost.xyz:8080/58220335/15014071/42354
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="http://u.meulogin.net:80/images/98bb2910883b8ad5ac110131fd466ce3.png" group-title="Esportes",DAZN 2 HD
-http://cdn.erost.xyz:8080/33156246/83611094/42355
+http://cdn.erost.xyz:8080/58220335/15014071/42355
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="http://u.meulogin.net:80/images/98bb2910883b8ad5ac110131fd466ce3.png" group-title="Esportes",DAZN 3 HD
-http://cdn.erost.xyz:8080/33156246/83611094/42356
+http://cdn.erost.xyz:8080/58220335/15014071/42356
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD" tvg-logo="http://u.meulogin.net:80/images/98bb2910883b8ad5ac110131fd466ce3.png" group-title="Esportes",DAZN 4 HD
-http://cdn.erost.xyz:8080/33156246/83611094/42357
+http://cdn.erost.xyz:8080/58220335/15014071/42357
 #EXTINF:-1 tvg-id="" tvg-name="EI Plus 2 HD" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/3b/53/84/3b53844a-f17f-ed31-1695-de30f04bfb22/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/246x0w.jpg" group-title="Esportes",EI Plus 2 HD
-http://cdn.erost.xyz:8080/33156246/83611094/42359
+http://cdn.erost.xyz:8080/58220335/15014071/42359
 #EXTINF:-1 tvg-id="" tvg-name="EI Plus 3" tvg-logo="http://u.meulogin.net:80/images/beaa19f8efd5c33ef64138ae928386c1.jpeg" group-title="Esportes",EI Plus 3
-http://cdn.erost.xyz:8080/33156246/83611094/42360
+http://cdn.erost.xyz:8080/58220335/15014071/42360
 #EXTINF:-1 tvg-id="" tvg-name="EI Plus 4" tvg-logo="http://u.meulogin.net:80/images/beaa19f8efd5c33ef64138ae928386c1.jpeg" group-title="Esportes",EI Plus 4
-http://cdn.erost.xyz:8080/33156246/83611094/42361
+http://cdn.erost.xyz:8080/58220335/15014071/42361
 #EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/espn2.png" group-title="Esportes",ESPN 2 HD
-http://cdn.erost.xyz:8080/33156246/83611094/42362
+http://cdn.erost.xyz:8080/58220335/15014071/42362
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL FHD" tvg-logo="https://i.postimg.cc/DZNw047x/1516306529-3124e1403d7ae1a9822115352d305b323ab0e3f3.jpg" group-title="Esportes",ESPN BRASIL FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42363
+http://cdn.erost.xyz:8080/58220335/15014071/42363
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD" tvg-logo="https://i.postimg.cc/DZNw047x/1516306529-3124e1403d7ae1a9822115352d305b323ab0e3f3.jpg" group-title="Esportes",ESPN BRASIL SD
-http://cdn.erost.xyz:8080/33156246/83611094/42364
+http://cdn.erost.xyz:8080/58220335/15014071/42364
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD" tvg-logo="https://i.postimg.cc/DZNw047x/1516306529-3124e1403d7ae1a9822115352d305b323ab0e3f3.jpg" group-title="Esportes",ESPN BRASIL HD
-http://cdn.erost.xyz:8080/33156246/83611094/42365
+http://cdn.erost.xyz:8080/58220335/15014071/42365
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HD" tvg-logo="https://imagem.natelinha.uol.com.br/grande/espnextra_168454a3305d02eac89d9178fef561c1447c9710.jpeg" group-title="Esportes",ESPN EXTRA HD
-http://cdn.erost.xyz:8080/33156246/83611094/42366
+http://cdn.erost.xyz:8080/58220335/15014071/42366
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA SD" tvg-logo="https://imagem.natelinha.uol.com.br/grande/espnextra_168454a3305d02eac89d9178fef561c1447c9710.jpeg" group-title="Esportes",ESPN EXTRA SD
-http://cdn.erost.xyz:8080/33156246/83611094/42367
+http://cdn.erost.xyz:8080/58220335/15014071/42367
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN FHD" tvg-logo="https://i.postimg.cc/ydxN7yCJ/1516306420-45fec84e387e19225b7a3037065d0418f6ec3a85.jpg" group-title="Esportes",ESPN FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42368
+http://cdn.erost.xyz:8080/58220335/15014071/42368
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD" tvg-logo="https://i.postimg.cc/ydxN7yCJ/1516306420-45fec84e387e19225b7a3037065d0418f6ec3a85.jpg" group-title="Esportes",ESPN HD
-http://cdn.erost.xyz:8080/33156246/83611094/42369
+http://cdn.erost.xyz:8080/58220335/15014071/42369
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN SD" tvg-logo="https://i.postimg.cc/ydxN7yCJ/1516306420-45fec84e387e19225b7a3037065d0418f6ec3a85.jpg" group-title="Esportes",ESPN SD
-http://cdn.erost.xyz:8080/33156246/83611094/42370
+http://cdn.erost.xyz:8080/58220335/15014071/42370
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD" tvg-logo="https://i.postimg.cc/fL1SFrSW-/1516307934-b476a94f3a9f4bdd0feb9b6086d5a273b5ad1c2e.jpg" group-title="Esportes",FOX SPORTS 2 FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42372
+http://cdn.erost.xyz:8080/58220335/15014071/42372
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://i.postimg.cc/fL1SFrSW-/1516307934-b476a94f3a9f4bdd0feb9b6086d5a273b5ad1c2e.jpg" group-title="Esportes",FOX SPORTS 2 HD
-http://cdn.erost.xyz:8080/33156246/83611094/42373
+http://cdn.erost.xyz:8080/58220335/15014071/42373
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="https://i.postimg.cc/fL1SFrSW-/1516307934-b476a94f3a9f4bdd0feb9b6086d5a273b5ad1c2e.jpg" group-title="Esportes",FOX SPORTS 2 SD
-http://cdn.erost.xyz:8080/33156246/83611094/42374
+http://cdn.erost.xyz:8080/58220335/15014071/42374
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS FHD" tvg-logo="https://i.postimg.cc/jjdfJNrT/1516307827-47a370d229281c0970459096366ddbbe12357919.jpg" group-title="Esportes",FOX SPORTS FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42375
+http://cdn.erost.xyz:8080/58220335/15014071/42375
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD" tvg-logo="https://i.postimg.cc/jjdfJNrT/1516307827-47a370d229281c0970459096366ddbbe12357919.jpg" group-title="Esportes",FOX SPORTS HD
-http://cdn.erost.xyz:8080/33156246/83611094/42376
+http://cdn.erost.xyz:8080/58220335/15014071/42376
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS SD" tvg-logo="https://i.postimg.cc/jjdfJNrT/1516307827-47a370d229281c0970459096366ddbbe12357919.jpg" group-title="Esportes",FOX SPORTS SD
-http://cdn.erost.xyz:8080/33156246/83611094/42377
+http://cdn.erost.xyz:8080/58220335/15014071/42377
 #EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-logo="https://image.roku.com/developer_channels/prod/0560cd3757ba28d0525e524fe0d98c1b95721c5ecf5fda464eba3084eeed7f36.png" group-title="Esportes",Red Bull TV
-http://cdn.erost.xyz:8080/33156246/83611094/42378
+http://cdn.erost.xyz:8080/58220335/15014071/42378
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD" tvg-logo="" group-title="Esportes",SPORTV 2 FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42379
+http://cdn.erost.xyz:8080/58220335/15014071/42379
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://i.postimg.cc/X7m1LjYt/1516325624-37a7dacc74e5ee85edf0c0c2074a56e4bb894bca.jpg" group-title="Esportes",SPORTV 2 HD
-http://cdn.erost.xyz:8080/33156246/83611094/42380
+http://cdn.erost.xyz:8080/58220335/15014071/42380
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD" tvg-logo="https://i.postimg.cc/X7m1LjYt/1516325624-37a7dacc74e5ee85edf0c0c2074a56e4bb894bca.jpg" group-title="Esportes",SPORTV 2 SD
-http://cdn.erost.xyz:8080/33156246/83611094/42381
+http://cdn.erost.xyz:8080/58220335/15014071/42381
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD" tvg-logo="" group-title="Esportes",SPORTV 3 FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42382
+http://cdn.erost.xyz:8080/58220335/15014071/42382
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://i.postimg.cc/cJN9qFYm/1516325799-6c9c20301539587d987cf1d0a7ae9bdadeedc9a8.jpg" group-title="Esportes",SPORTV 3 HD
-http://cdn.erost.xyz:8080/33156246/83611094/42383
+http://cdn.erost.xyz:8080/58220335/15014071/42383
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="https://i.postimg.cc/cJN9qFYm/1516325799-6c9c20301539587d987cf1d0a7ae9bdadeedc9a8.jpg" group-title="Esportes",SPORTV 3 SD
-http://cdn.erost.xyz:8080/33156246/83611094/42384
+http://cdn.erost.xyz:8080/58220335/15014071/42384
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD" tvg-logo="" group-title="Esportes",SPORTV FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42385
+http://cdn.erost.xyz:8080/58220335/15014071/42385
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="https://i.postimg.cc/Dy8Y1Jnq/1516325501-a57d469ee395de417336e66ec14dd41ddbf22918.jpg" group-title="Esportes",SPORTV HD
-http://cdn.erost.xyz:8080/33156246/83611094/42386
+http://cdn.erost.xyz:8080/58220335/15014071/42386
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD" tvg-logo="https://i.postimg.cc/Dy8Y1Jnq/1516325501-a57d469ee395de417336e66ec14dd41ddbf22918.jpg" group-title="Esportes",SPORTV SD
-http://cdn.erost.xyz:8080/33156246/83611094/42387
+http://cdn.erost.xyz:8080/58220335/15014071/42387
 #EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO HD" tvg-logo="https://i.postimg.cc/QtvSbSX1/1516364678-b3bf53791e3d9d09f55edae7e59d5c3c078f362b.jpg" group-title="Esportes",WOOHOO HD
-http://cdn.erost.xyz:8080/33156246/83611094/42389
+http://cdn.erost.xyz:8080/58220335/15014071/42389
 #EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO SD" tvg-logo="https://i.postimg.cc/QtvSbSX1/1516364678-b3bf53791e3d9d09f55edae7e59d5c3c078f362b.jpg" group-title="Esportes",WOOHOO SD
-http://cdn.erost.xyz:8080/33156246/83611094/42390
+http://cdn.erost.xyz:8080/58220335/15014071/42390
 #EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV HD" tvg-logo="https://i.postimg.cc/1XzDhqJM/1516239337-557dc8661e44ed7ca15d83ab79d1c7c82ddc846e.jpg" group-title="Infantil",BABY TV HD
-http://cdn.erost.xyz:8080/33156246/83611094/42391
+http://cdn.erost.xyz:8080/58220335/15014071/42391
 #EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV SD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61C2TSxmMwL._SY355_.png" group-title="Infantil",BABY TV SD
-http://cdn.erost.xyz:8080/33156246/83611094/42392
+http://cdn.erost.xyz:8080/58220335/15014071/42392
 #EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG FHD" tvg-logo="https://i.postimg.cc/7Ly7PcK5/1516240205-efe708c81a67c52de7219a580dae5821fab9c1de.jpg" group-title="Infantil",BOOMERANG FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42393
+http://cdn.erost.xyz:8080/58220335/15014071/42393
 #EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG HD" tvg-logo="https://i.postimg.cc/7Ly7PcK5/1516240205-efe708c81a67c52de7219a580dae5821fab9c1de.jpg" group-title="Infantil",BOOMERANG HD
-http://cdn.erost.xyz:8080/33156246/83611094/42394
+http://cdn.erost.xyz:8080/58220335/15014071/42394
 #EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG SD" tvg-logo="https://i.postimg.cc/7Ly7PcK5/1516240205-efe708c81a67c52de7219a580dae5821fab9c1de.jpg" group-title="Infantil",BOOMERANG SD
-http://cdn.erost.xyz:8080/33156246/83611094/42395
+http://cdn.erost.xyz:8080/58220335/15014071/42395
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="https://i.postimg.cc/9MLqpfC9/1516240947-cc5a9bb51e655575d37271f7ae5e68702177a152.jpg" group-title="Infantil",CARTOON NETWORK FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42396
+http://cdn.erost.xyz:8080/58220335/15014071/42396
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://i.postimg.cc/9MLqpfC9/1516240947-cc5a9bb51e655575d37271f7ae5e68702177a152.jpg" group-title="Infantil",CARTOON NETWORK HD
-http://cdn.erost.xyz:8080/33156246/83611094/42397
+http://cdn.erost.xyz:8080/58220335/15014071/42397
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD" tvg-logo="https://i.postimg.cc/9MLqpfC9/1516240947-cc5a9bb51e655575d37271f7ae5e68702177a152.jpg" group-title="Infantil",CARTOON NETWORK SD
-http://cdn.erost.xyz:8080/33156246/83611094/42398
+http://cdn.erost.xyz:8080/58220335/15014071/42398
 #EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS FHD" tvg-logo="https://i.postimg.cc/HnfnZcKr/1516304644-edc471400f6172057f74d5b6d92bd16114264a99.jpg" group-title="Infantil",DISCOVERY KIDS FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42399
+http://cdn.erost.xyz:8080/58220335/15014071/42399
 #EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://i.postimg.cc/HnfnZcKr/1516304644-edc471400f6172057f74d5b6d92bd16114264a99.jpg" group-title="Infantil",DISCOVERY KIDS HD
-http://cdn.erost.xyz:8080/33156246/83611094/42400
+http://cdn.erost.xyz:8080/58220335/15014071/42400
 #EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="https://i.postimg.cc/HnfnZcKr/1516304644-edc471400f6172057f74d5b6d92bd16114264a99.jpg" group-title="Infantil",DISCOVERY KIDS SD
-http://cdn.erost.xyz:8080/33156246/83611094/42401
+http://cdn.erost.xyz:8080/58220335/15014071/42401
 #EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL FHD" tvg-logo="https://i.postimg.cc/h4wXP6jK/1516305216-7644d76efb5153d934b737bd09c4462ba57d3698.jpg" group-title="Infantil",DISNEY CHANNEL FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42402
+http://cdn.erost.xyz:8080/58220335/15014071/42402
 #EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://i.postimg.cc/h4wXP6jK/1516305216-7644d76efb5153d934b737bd09c4462ba57d3698.jpg" group-title="Infantil",DISNEY CHANNEL HD
-http://cdn.erost.xyz:8080/33156246/83611094/42403
+http://cdn.erost.xyz:8080/58220335/15014071/42403
 #EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL SD" tvg-logo="https://i.postimg.cc/h4wXP6jK/1516305216-7644d76efb5153d934b737bd09c4462ba57d3698.jpg" group-title="Infantil",DISNEY CHANNEL SD
-http://cdn.erost.xyz:8080/33156246/83611094/42404
+http://cdn.erost.xyz:8080/58220335/15014071/42404
 #EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JR FHD" tvg-logo="https://i.postimg.cc/rw2z54xb/1516305311-fdef187c9b89d6286f9b2d369f725f621e412d8a.jpg" group-title="Infantil",DISNEY JR FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42405
+http://cdn.erost.xyz:8080/58220335/15014071/42405
 #EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JR HD" tvg-logo="https://i.postimg.cc/rw2z54xb/1516305311-fdef187c9b89d6286f9b2d369f725f621e412d8a.jpg" group-title="Infantil",DISNEY JR HD
-http://cdn.erost.xyz:8080/33156246/83611094/42406
+http://cdn.erost.xyz:8080/58220335/15014071/42406
 #EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JR SD" tvg-logo="https://i.postimg.cc/rw2z54xb/1516305311-fdef187c9b89d6286f9b2d369f725f621e412d8a.jpg" group-title="Infantil",DISNEY JR SD
-http://cdn.erost.xyz:8080/33156246/83611094/42407
+http://cdn.erost.xyz:8080/58220335/15014071/42407
 #EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD FHD" tvg-logo="https://i.postimg.cc/vmQBNdPt/1516305423-fd4a752509881f22a0df995e655ba8f0267b3dd7.jpg" group-title="Infantil",DISNEY XD FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42408
+http://cdn.erost.xyz:8080/58220335/15014071/42408
 #EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD HD" tvg-logo="https://i.postimg.cc/vmQBNdPt/1516305423-fd4a752509881f22a0df995e655ba8f0267b3dd7.jpg" group-title="Infantil",DISNEY XD HD
-http://cdn.erost.xyz:8080/33156246/83611094/42409
+http://cdn.erost.xyz:8080/58220335/15014071/42409
 #EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD SD" tvg-logo="https://i.postimg.cc/vmQBNdPt/1516305423-fd4a752509881f22a0df995e655ba8f0267b3dd7.jpg" group-title="Infantil",DISNEY XD SD
-http://cdn.erost.xyz:8080/33156246/83611094/42410
+http://cdn.erost.xyz:8080/58220335/15014071/42410
 #EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB FHD" tvg-logo="https://i.postimg.cc/zvnvQX1p/1516310467-7a394923dae733aea5c2d0f07bf671299a77875e.jpg" group-title="Infantil",GLOOB FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42411
+http://cdn.erost.xyz:8080/58220335/15014071/42411
 #EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD" tvg-logo="https://i.postimg.cc/zvnvQX1p/1516310467-7a394923dae733aea5c2d0f07bf671299a77875e.jpg" group-title="Infantil",GLOOB HD
-http://cdn.erost.xyz:8080/33156246/83611094/42412
+http://cdn.erost.xyz:8080/58220335/15014071/42412
 #EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB SD" tvg-logo="https://i.postimg.cc/zvnvQX1p/1516310467-7a394923dae733aea5c2d0f07bf671299a77875e.jpg" group-title="Infantil",GLOOB SD
-http://cdn.erost.xyz:8080/33156246/83611094/42413
+http://cdn.erost.xyz:8080/58220335/15014071/42413
 #EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/GloobinhoLogo.png" group-title="Infantil",GLOOBINHO SD
-http://cdn.erost.xyz:8080/33156246/83611094/42414
+http://cdn.erost.xyz:8080/58220335/15014071/42414
 #EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS FHD" tvg-logo="https://i.postimg.cc/QdPDpG2M/1516319142-de02e1b2a44cd3d481196e18916399ba38ea7654.jpg" group-title="Infantil",NAT GEO KIDS FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42415
+http://cdn.erost.xyz:8080/58220335/15014071/42415
 #EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NATGEO KIDS HD" tvg-logo="https://i.postimg.cc/QdPDpG2M/1516319142-de02e1b2a44cd3d481196e18916399ba38ea7654.jpg" group-title="Infantil",NATGEO KIDS HD
-http://cdn.erost.xyz:8080/33156246/83611094/42416
+http://cdn.erost.xyz:8080/58220335/15014071/42416
 #EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NATGEO KIDS SD" tvg-logo="https://i.postimg.cc/QdPDpG2M/1516319142-de02e1b2a44cd3d481196e18916399ba38ea7654.jpg" group-title="Infantil",NATGEO KIDS SD
-http://cdn.erost.xyz:8080/33156246/83611094/42417
+http://cdn.erost.xyz:8080/58220335/15014071/42417
 #EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR FHD" tvg-logo="https://i.postimg.cc/7hm8hp1w/1516319773-c9501087eef0b5c1e5ebe74be3a54d255638e660.jpg" group-title="Infantil",NICK JR FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42418
+http://cdn.erost.xyz:8080/58220335/15014071/42418
 #EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR HD" tvg-logo="https://i.postimg.cc/7hm8hp1w/1516319773-c9501087eef0b5c1e5ebe74be3a54d255638e660.jpg" group-title="Infantil",NICK JR HD
-http://cdn.erost.xyz:8080/33156246/83611094/42419
+http://cdn.erost.xyz:8080/58220335/15014071/42419
 #EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR SD" tvg-logo="https://i.postimg.cc/7hm8hp1w/1516319773-c9501087eef0b5c1e5ebe74be3a54d255638e660.jpg" group-title="Infantil",NICK JR SD
-http://cdn.erost.xyz:8080/33156246/83611094/42420
+http://cdn.erost.xyz:8080/58220335/15014071/42420
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON HD" tvg-logo="https://i.postimg.cc/kGnPnnbT/1516319666-1d30fe30c3a44aa9e392a724eca183ff165abaa7.jpg" group-title="Infantil",NICKELODEON HD
-http://cdn.erost.xyz:8080/33156246/83611094/42421
+http://cdn.erost.xyz:8080/58220335/15014071/42421
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON SD" tvg-logo="https://i.postimg.cc/kGnPnnbT/1516319666-1d30fe30c3a44aa9e392a724eca183ff165abaa7.jpg" group-title="Infantil",NICKELODEON SD
-http://cdn.erost.xyz:8080/33156246/83611094/42422
+http://cdn.erost.xyz:8080/58220335/15014071/42422
 #EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST FHD" tvg-logo="https://i.postimg.cc/h4w0WCRd/1516362285-6fdf477e3e280d8326fbf2b1231cec180617462d.jpg" group-title="Infantil",TOONCAST FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42424
+http://cdn.erost.xyz:8080/58220335/15014071/42424
 #EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST HD" tvg-logo="https://i.postimg.cc/kGnPnnbT/1516319666-1d30fe30c3a44aa9e392a724eca183ff165abaa7.jpg" group-title="Infantil",TOONCAST HD
-http://cdn.erost.xyz:8080/33156246/83611094/42425
+http://cdn.erost.xyz:8080/58220335/15014071/42425
 #EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST SD" tvg-logo="https://i.postimg.cc/kGnPnnbT/1516319666-1d30fe30c3a44aa9e392a724eca183ff165abaa7.jpg" group-title="Infantil",TOONCAST SD
-http://cdn.erost.xyz:8080/33156246/83611094/42426
+http://cdn.erost.xyz:8080/58220335/15014071/42426
 #EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO HD" tvg-logo="https://i.postimg.cc/kGnPnnbT/1516319666-1d30fe30c3a44aa9e392a724eca183ff165abaa7.jpg" group-title="Infantil",ZOOMOO HD
-http://cdn.erost.xyz:8080/33156246/83611094/42427
+http://cdn.erost.xyz:8080/58220335/15014071/42427
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="https://portal4.files.wordpress.com/2014/09/a-e_logo_2_.jpg" group-title="Filmes e Series",A&E FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42428
+http://cdn.erost.xyz:8080/58220335/15014071/42428
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://portal4.files.wordpress.com/2014/09/a-e_logo_2_.jpg" group-title="Filmes e Series",A&E HD
-http://cdn.erost.xyz:8080/33156246/83611094/42429
+http://cdn.erost.xyz:8080/58220335/15014071/42429
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://portal4.files.wordpress.com/2014/09/a-e_logo_2_.jpg" group-title="Filmes e Series",A&E SD
-http://cdn.erost.xyz:8080/33156246/83611094/42430
+http://cdn.erost.xyz:8080/58220335/15014071/42430
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="https://i.postimg.cc/MGk0MXpK/1516238758-3dc4eee5c20558e96d3e5026ad519589b8814465.jpg" group-title="Filmes e Series",AMC FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42431
+http://cdn.erost.xyz:8080/58220335/15014071/42431
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://i.postimg.cc/MGk0MXpK/1516238758-3dc4eee5c20558e96d3e5026ad519589b8814465.jpg" group-title="Filmes e Series",AMC HD
-http://cdn.erost.xyz:8080/33156246/83611094/42432
+http://cdn.erost.xyz:8080/58220335/15014071/42432
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://i.postimg.cc/MGk0MXpK/1516238758-3dc4eee5c20558e96d3e5026ad519589b8814465.jpg" group-title="Filmes e Series",AMC SD
-http://cdn.erost.xyz:8080/33156246/83611094/42433
+http://cdn.erost.xyz:8080/58220335/15014071/42433
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="https://i.postimg.cc/jjzHzKD6/1516239217-221b3727109dedf11b31af301492faf24acd6261.jpg" group-title="Filmes e Series",AXN FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42434
+http://cdn.erost.xyz:8080/58220335/15014071/42434
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://i.postimg.cc/jjzHzKD6/1516239217-221b3727109dedf11b31af301492faf24acd6261.jpg" group-title="Filmes e Series",AXN HD
-http://cdn.erost.xyz:8080/33156246/83611094/42435
+http://cdn.erost.xyz:8080/58220335/15014071/42435
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="https://i.postimg.cc/jjzHzKD6/1516239217-221b3727109dedf11b31af301492faf24acd6261.jpg" group-title="Filmes e Series",AXN SD
-http://cdn.erost.xyz:8080/33156246/83611094/42436
+http://cdn.erost.xyz:8080/58220335/15014071/42436
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/925b6247503993.588f6e3466c6a.jpg" group-title="Filmes e Series",CINE SKY 01 HD
-http://cdn.erost.xyz:8080/33156246/83611094/42437
+http://cdn.erost.xyz:8080/58220335/15014071/42437
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/925b6247503993.588f6e3466c6a.jpg" group-title="Filmes e Series",CINE SKY 02 HD
-http://cdn.erost.xyz:8080/33156246/83611094/42438
+http://cdn.erost.xyz:8080/58220335/15014071/42438
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/925b6247503993.588f6e3466c6a.jpg" group-title="Filmes e Series",CINE SKY 03 HD
-http://cdn.erost.xyz:8080/33156246/83611094/42439
+http://cdn.erost.xyz:8080/58220335/15014071/42439
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/925b6247503993.588f6e3466c6a.jpg" group-title="Filmes e Series",CINE SKY 04 HD
-http://cdn.erost.xyz:8080/33156246/83611094/42440
+http://cdn.erost.xyz:8080/58220335/15014071/42440
 #EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 05 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/925b6247503993.588f6e3466c6a.jpg" group-title="Filmes e Series",CINE SKY 05 HD
-http://cdn.erost.xyz:8080/33156246/83611094/42441
+http://cdn.erost.xyz:8080/58220335/15014071/42441
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/925b6247503993.588f6e3466c6a.jpg" group-title="Filmes e Series",CINE SKY 06 HD
-http://cdn.erost.xyz:8080/33156246/83611094/42442
+http://cdn.erost.xyz:8080/58220335/15014071/42442
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/925b6247503993.588f6e3466c6a.jpg" group-title="Filmes e Series",CINE SKY 07 HD
-http://cdn.erost.xyz:8080/33156246/83611094/42443
+http://cdn.erost.xyz:8080/58220335/15014071/42443
 #EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 08 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/925b6247503993.588f6e3466c6a.jpg" group-title="Filmes e Series",CINE SKY 08 HD
-http://cdn.erost.xyz:8080/33156246/83611094/42444
+http://cdn.erost.xyz:8080/58220335/15014071/42444
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 09 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/925b6247503993.588f6e3466c6a.jpg" group-title="Filmes e Series",CINE SKY 09 HD
-http://cdn.erost.xyz:8080/33156246/83611094/42445
+http://cdn.erost.xyz:8080/58220335/15014071/42445
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/925b6247503993.588f6e3466c6a.jpg" group-title="Filmes e Series",CINE SKY 10 HD
-http://cdn.erost.xyz:8080/33156246/83611094/42446
+http://cdn.erost.xyz:8080/58220335/15014071/42446
 #EXTINF:-1 tvg-id="" tvg-name="CINEMAX FHD" tvg-logo="https://i.postimg.cc/fykSghRr/1516241687-223a375f300af8b0ce8a2e33f44e5c9836739a89.jpg" group-title="Filmes e Series",CINEMAX FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42447
+http://cdn.erost.xyz:8080/58220335/15014071/42447
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://i.postimg.cc/fykSghRr/1516241687-223a375f300af8b0ce8a2e33f44e5c9836739a89.jpg" group-title="Filmes e Series",CINEMAX HD
-http://cdn.erost.xyz:8080/33156246/83611094/42448
+http://cdn.erost.xyz:8080/58220335/15014071/42448
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://i.postimg.cc/fykSghRr/1516241687-223a375f300af8b0ce8a2e33f44e5c9836739a89.jpg" group-title="Filmes e Series",CINEMAX SD
-http://cdn.erost.xyz:8080/33156246/83611094/42449
+http://cdn.erost.xyz:8080/58220335/15014071/42449
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel FHD" tvg-logo="http://u.meulogin.net:80/images/282ef62a8a14c93caad0d80a3e5abe9d.png" group-title="Filmes e Series",Star Channel FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42450
+http://cdn.erost.xyz:8080/58220335/15014071/42450
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel HD" tvg-logo="http://u.meulogin.net:80/images/282ef62a8a14c93caad0d80a3e5abe9d.png" group-title="Filmes e Series",Star Channel HD
-http://cdn.erost.xyz:8080/33156246/83611094/42451
+http://cdn.erost.xyz:8080/58220335/15014071/42451
 #EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 FHD" tvg-logo="https://i.postimg.cc/QdD1hw4H/1516307631-6b3ce654ae31075d91809448b199d3604fa33880.jpg" group-title="Filmes e Series",FOX PREMIUM 1 FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42452
+http://cdn.erost.xyz:8080/58220335/15014071/42452
 #EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 HD" tvg-logo="https://i.postimg.cc/QdD1hw4H/1516307631-6b3ce654ae31075d91809448b199d3604fa33880.jpg" group-title="Filmes e Series",FOX PREMIUM 1 HD
-http://cdn.erost.xyz:8080/33156246/83611094/42453
+http://cdn.erost.xyz:8080/58220335/15014071/42453
 #EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 1 SD" tvg-logo="https://i.postimg.cc/QdD1hw4H/1516307631-6b3ce654ae31075d91809448b199d3604fa33880.jpg" group-title="Filmes e Series",FOX PREMIUM 1 SD
-http://cdn.erost.xyz:8080/33156246/83611094/42454
+http://cdn.erost.xyz:8080/58220335/15014071/42454
 #EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 FHD" tvg-logo="https://i.postimg.cc/MpYRT5Nt/1516307739-4de824502ee2ab7fc740f3d8e959b278a68e2be4.jpg" group-title="Filmes e Series",FOX PREMIUM 2 FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42455
+http://cdn.erost.xyz:8080/58220335/15014071/42455
 #EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 HD" tvg-logo="https://i.postimg.cc/MpYRT5Nt/1516307739-4de824502ee2ab7fc740f3d8e959b278a68e2be4.jpg" group-title="Filmes e Series",FOX PREMIUM 2 HD
-http://cdn.erost.xyz:8080/33156246/83611094/42456
+http://cdn.erost.xyz:8080/58220335/15014071/42456
 #EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 SD" tvg-logo="https://i.postimg.cc/MpYRT5Nt/1516307739-4de824502ee2ab7fc740f3d8e959b278a68e2be4.jpg" group-title="Filmes e Series",FOX PREMIUM 2 SD
-http://cdn.erost.xyz:8080/33156246/83611094/42457
+http://cdn.erost.xyz:8080/58220335/15014071/42457
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel SD" tvg-logo="http://u.meulogin.net:80/images/282ef62a8a14c93caad0d80a3e5abe9d.png" group-title="Filmes e Series",Star Channel SD
-http://cdn.erost.xyz:8080/33156246/83611094/42458
+http://cdn.erost.xyz:8080/58220335/15014071/42458
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD" tvg-logo="https://i.postimg.cc/BvYK56qK/1516308094-9b4156603dcb6ff24f1d22277f244b3eed9816db.jpg" group-title="Filmes e Series",FX FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42459
+http://cdn.erost.xyz:8080/58220335/15014071/42459
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="https://i.postimg.cc/BvYK56qK/1516308094-9b4156603dcb6ff24f1d22277f244b3eed9816db.jpg" group-title="Filmes e Series",FX HD
-http://cdn.erost.xyz:8080/33156246/83611094/42460
+http://cdn.erost.xyz:8080/58220335/15014071/42460
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD" tvg-logo="https://i.postimg.cc/BvYK56qK/1516308094-9b4156603dcb6ff24f1d22277f244b3eed9816db.jpg" group-title="Filmes e Series",FX SD
-http://cdn.erost.xyz:8080/33156246/83611094/42461
+http://cdn.erost.xyz:8080/58220335/15014071/42461
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD" tvg-logo="" group-title="Filmes e Series",MEGAPIX FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42462
+http://cdn.erost.xyz:8080/58220335/15014071/42462
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://i.postimg.cc/pVYP3SF0/1516312673-6d1d76a391dc330a0250a95fb873c7313c9eacf2.jpg" group-title="Filmes e Series",MEGAPIX HD
-http://cdn.erost.xyz:8080/33156246/83611094/42463
+http://cdn.erost.xyz:8080/58220335/15014071/42463
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD" tvg-logo="https://i.postimg.cc/pVYP3SF0/1516312673-6d1d76a391dc330a0250a95fb873c7313c9eacf2.jpg" group-title="Filmes e Series",MEGAPIX SD
-http://cdn.erost.xyz:8080/33156246/83611094/42464
+http://cdn.erost.xyz:8080/58220335/15014071/42464
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL FHD" tvg-logo="" group-title="Filmes e Series",PARAMOUNT CHANNEL FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42465
+http://cdn.erost.xyz:8080/58220335/15014071/42465
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="https://i.postimg.cc/nL7yBsKd/1516320245-1bb5f2856804bc053a3adbc77a3744d87fd477cf.jpg" group-title="Filmes e Series",PARAMOUNT CHANNEL HD
-http://cdn.erost.xyz:8080/33156246/83611094/42466
+http://cdn.erost.xyz:8080/58220335/15014071/42466
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL SD" tvg-logo="https://i.postimg.cc/nL7yBsKd/1516320245-1bb5f2856804bc053a3adbc77a3744d87fd477cf.jpg" group-title="Filmes e Series",PARAMOUNT CHANNEL SD
-http://cdn.erost.xyz:8080/33156246/83611094/42467
+http://cdn.erost.xyz:8080/58220335/15014071/42467
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY FHD" tvg-logo="" group-title="Filmes e Series",SONY FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42468
+http://cdn.erost.xyz:8080/58220335/15014071/42468
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY HD" tvg-logo="https://i.postimg.cc/6q1jDwL2/1516325290-f4c6c1dbad3b599cf79b81d46858dc50ed08cfc8.jpg" group-title="Filmes e Series",SONY HD
-http://cdn.erost.xyz:8080/33156246/83611094/42469
+http://cdn.erost.xyz:8080/58220335/15014071/42469
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY SD" tvg-logo="https://i.postimg.cc/6q1jDwL2/1516325290-f4c6c1dbad3b599cf79b81d46858dc50ed08cfc8.jpg" group-title="Filmes e Series",SONY SD
-http://cdn.erost.xyz:8080/33156246/83611094/42470
+http://cdn.erost.xyz:8080/58220335/15014071/42470
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD" tvg-logo="" group-title="Filmes e Series",SPACE FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42471
+http://cdn.erost.xyz:8080/58220335/15014071/42471
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="https://i.postimg.cc/Gtpg79Yn/1516325405-d2eac5d3e27f371e6d37a7a5ffe1067df0ad4309.jpg" group-title="Filmes e Series",SPACE HD
-http://cdn.erost.xyz:8080/33156246/83611094/42472
+http://cdn.erost.xyz:8080/58220335/15014071/42472
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD" tvg-logo="https://i.postimg.cc/Gtpg79Yn/1516325405-d2eac5d3e27f371e6d37a7a5ffe1067df0ad4309.jpg" group-title="Filmes e Series",SPACE SD
-http://cdn.erost.xyz:8080/33156246/83611094/42473
+http://cdn.erost.xyz:8080/58220335/15014071/42473
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="" group-title="Filmes e Series",STUDIO UNIVERSAL FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42474
+http://cdn.erost.xyz:8080/58220335/15014071/42474
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://i.postimg.cc/BvchJ2BG/1516325912-5b84ceaa9a5a2872fb6d4b2b8d6d5c318c221277.jpg" group-title="Filmes e Series",STUDIO UNIVERSAL HD
-http://cdn.erost.xyz:8080/33156246/83611094/42475
+http://cdn.erost.xyz:8080/58220335/15014071/42475
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="https://i.postimg.cc/BvchJ2BG/1516325912-5b84ceaa9a5a2872fb6d4b2b8d6d5c318c221277.jpg" group-title="Filmes e Series",STUDIO UNIVERSAL SD
-http://cdn.erost.xyz:8080/33156246/83611094/42476
+http://cdn.erost.xyz:8080/58220335/15014071/42476
 #EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD" tvg-logo="" group-title="Filmes e Series",SYFY FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42477
+http://cdn.erost.xyz:8080/58220335/15014071/42477
 #EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="https://i.postimg.cc/bJymrdmS/1516326010-d70261bac1c7118a0ae0b1b5cb4d0382e43e48d0.jpg" group-title="Filmes e Series",SYFY HD
-http://cdn.erost.xyz:8080/33156246/83611094/42478
+http://cdn.erost.xyz:8080/58220335/15014071/42478
 #EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY SD" tvg-logo="https://i.postimg.cc/bJymrdmS/1516326010-d70261bac1c7118a0ae0b1b5cb4d0382e43e48d0.jpg" group-title="Filmes e Series",SYFY SD
-http://cdn.erost.xyz:8080/33156246/83611094/42479
+http://cdn.erost.xyz:8080/58220335/15014071/42479
 #EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS SD" tvg-logo="https://i.postimg.cc/4dWB9Z0L/1516360523-39401f3fecceb9ab2cbd9a97fb72402523fb0825.jpg" group-title="Filmes e Series",TBS SD
-http://cdn.erost.xyz:8080/33156246/83611094/42480
+http://cdn.erost.xyz:8080/58220335/15014071/42480
 #EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD" tvg-logo="https://i.postimg.cc/6Qw0byJb/1516361623-fad62047e94f5297e9ef74bf5c71ca29b66597f0.jpg" group-title="Filmes e Series",TCM SD
-http://cdn.erost.xyz:8080/33156246/83611094/42481
+http://cdn.erost.xyz:8080/58220335/15014071/42481
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD" tvg-logo="" group-title="Filmes e Series",TNT FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42482
+http://cdn.erost.xyz:8080/58220335/15014071/42482
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="https://i.postimg.cc/yxJX3Rcx/1516362096-b118548d389431cc50d80da692ee4861553c9b35.jpg" group-title="Filmes e Series",TNT HD
-http://cdn.erost.xyz:8080/33156246/83611094/42483
+http://cdn.erost.xyz:8080/58220335/15014071/42483
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="https://i.postimg.cc/yxJX3Rcx/1516362096-b118548d389431cc50d80da692ee4861553c9b35.jpg" group-title="Filmes e Series",TNT SD
-http://cdn.erost.xyz:8080/33156246/83611094/42484
+http://cdn.erost.xyz:8080/58220335/15014071/42484
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES FHD" tvg-logo="" group-title="Filmes e Series",TNT SERIES FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42485
+http://cdn.erost.xyz:8080/58220335/15014071/42485
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD" tvg-logo="https://i.postimg.cc/2yPdQ57w/1516362193-e8ec6624a7201b93a9fd10aefa96116bf612de69.jpg" group-title="Filmes e Series",TNT SERIES HD
-http://cdn.erost.xyz:8080/33156246/83611094/42486
+http://cdn.erost.xyz:8080/58220335/15014071/42486
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES SD" tvg-logo="https://i.postimg.cc/2yPdQ57w/1516362193-e8ec6624a7201b93a9fd10aefa96116bf612de69.jpg" group-title="Filmes e Series",TNT SERIES SD
-http://cdn.erost.xyz:8080/33156246/83611094/42487
+http://cdn.erost.xyz:8080/58220335/15014071/42487
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL FHD" tvg-logo="" group-title="Filmes e Series",WARNER CHANNEL FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42496
+http://cdn.erost.xyz:8080/58220335/15014071/42496
 #EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL FHD" tvg-logo="" group-title="Filmes e Series",UNIVERSAL CHANNEL FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42497
+http://cdn.erost.xyz:8080/58220335/15014071/42497
 #EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://i.postimg.cc/fRs2pHYv/1516364208-c170f20fb41b828eaba2cf07cd91f12e7929575c.jpg" group-title="Filmes e Series",UNIVERSAL CHANNEL HD
-http://cdn.erost.xyz:8080/33156246/83611094/42498
+http://cdn.erost.xyz:8080/58220335/15014071/42498
 #EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL SD" tvg-logo="https://i.postimg.cc/fRs2pHYv/1516364208-c170f20fb41b828eaba2cf07cd91f12e7929575c.jpg" group-title="Filmes e Series",UNIVERSAL CHANNEL SD
-http://cdn.erost.xyz:8080/33156246/83611094/42499
+http://cdn.erost.xyz:8080/58220335/15014071/42499
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://i.postimg.cc/2612hgfC/1516364542-ff6d2a4bbbd056c43cf668d2bf40fde0f6286e35.jpg" group-title="Filmes e Series",WARNER CHANNEL HD
-http://cdn.erost.xyz:8080/33156246/83611094/42500
+http://cdn.erost.xyz:8080/58220335/15014071/42500
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL SD" tvg-logo="https://i.postimg.cc/2612hgfC/1516364542-ff6d2a4bbbd056c43cf668d2bf40fde0f6286e35.jpg" group-title="Premiere",WARNER CHANNEL SD
-http://cdn.erost.xyz:8080/33156246/83611094/42501
+http://cdn.erost.xyz:8080/58220335/15014071/42501
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 FHD" tvg-logo="https://i.postimg.cc/YCtRbvwn/1516366235-0ba27fc615f732d9f81398f8e4216ada8b150683.jpg" group-title="Variedades",ARTE 1 FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42502
+http://cdn.erost.xyz:8080/58220335/15014071/42502
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD" tvg-logo="https://i.postimg.cc/YCtRbvwn/1516366235-0ba27fc615f732d9f81398f8e4216ada8b150683.jpg" group-title="Variedades",ARTE 1 HD
-http://cdn.erost.xyz:8080/33156246/83611094/42503
+http://cdn.erost.xyz:8080/58220335/15014071/42503
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 SD" tvg-logo="https://i.postimg.cc/YCtRbvwn/1516366235-0ba27fc615f732d9f81398f8e4216ada8b150683.jpg" group-title="Variedades",ARTE 1 SD
-http://cdn.erost.xyz:8080/33156246/83611094/42504
+http://cdn.erost.xyz:8080/58220335/15014071/42504
 #EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD" tvg-logo="https://i.postimg.cc/MKv191cp/1516239931-46636112ac8a0a27fde2334d461e7aba1b722c0f.jpg" group-title="Variedades",BIS HD
-http://cdn.erost.xyz:8080/33156246/83611094/42505
+http://cdn.erost.xyz:8080/58220335/15014071/42505
 #EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SD" tvg-logo="https://i.postimg.cc/MKv191cp/1516239931-46636112ac8a0a27fde2334d461e7aba1b722c0f.jpg" group-title="Variedades",BIS SD
-http://cdn.erost.xyz:8080/33156246/83611094/42506
+http://cdn.erost.xyz:8080/58220335/15014071/42506
 #EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL SD" tvg-logo="https://i.postimg.cc/gkQ8QrRq/1516240555-dbbd559b23da3a175b033a244737a817a67c2001.jpg" group-title="Variedades",CANAL BRASIL SD
-http://cdn.erost.xyz:8080/33156246/83611094/42507
+http://cdn.erost.xyz:8080/58220335/15014071/42507
 #EXTINF:-1 tvg-id="Chef TV" tvg-name="CHEF TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/LOGOCHEFTV.jpg" group-title="Variedades",CHEF TV HD
-http://cdn.erost.xyz:8080/33156246/83611094/42508
+http://cdn.erost.xyz:8080/58220335/15014071/42508
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://i.postimg.cc/vTjgJS1H/1516242192-68193e8bc51b466e1238666185410fccd0b8ee98.jpg" group-title="Variedades",COMEDY CENTRAL FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42509
+http://cdn.erost.xyz:8080/58220335/15014071/42509
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://i.postimg.cc/vTjgJS1H/1516242192-68193e8bc51b466e1238666185410fccd0b8ee98.jpg" group-title="Variedades",COMEDY CENTRAL HD
-http://cdn.erost.xyz:8080/33156246/83611094/42510
+http://cdn.erost.xyz:8080/58220335/15014071/42510
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://i.postimg.cc/vTjgJS1H/1516242192-68193e8bc51b466e1238666185410fccd0b8ee98.jpg" group-title="Variedades",COMEDY CENTRAL SD
-http://cdn.erost.xyz:8080/33156246/83611094/42511
+http://cdn.erost.xyz:8080/58220335/15014071/42511
 #EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA! HD" tvg-logo="https://i.postimg.cc/gcBZLrMF/1516303969-17c52198c2fa4d3728a28d35df541d8e500a889b.jpg" group-title="Variedades",CURTA! HD
-http://cdn.erost.xyz:8080/33156246/83611094/42512
+http://cdn.erost.xyz:8080/58220335/15014071/42512
 #EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA! SD" tvg-logo="https://i.postimg.cc/gcBZLrMF/1516303969-17c52198c2fa4d3728a28d35df541d8e500a889b.jpg" group-title="Variedades",CURTA! SD
-http://cdn.erost.xyz:8080/33156246/83611094/42513
+http://cdn.erost.xyz:8080/58220335/15014071/42513
 #EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="https://i.postimg.cc/0NcQgHFR/1516305633-d4159c885b1b9642652d2166c68fb14ea0118f48.jpg" group-title="Variedades",E! HD
-http://cdn.erost.xyz:8080/33156246/83611094/42514
+http://cdn.erost.xyz:8080/58220335/15014071/42514
 #EXTINF:-1 tvg-id="E.br" tvg-name="E! SD" tvg-logo="https://i.postimg.cc/0NcQgHFR/1516305633-d4159c885b1b9642652d2166c68fb14ea0118f48.jpg" group-title="Variedades",E! SD
-http://cdn.erost.xyz:8080/33156246/83611094/42515
+http://cdn.erost.xyz:8080/58220335/15014071/42515
 #EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK FHD" tvg-logo="https://i.postimg.cc/056pfpK2/1516307297-3f171c584b7df80d589aaed8af75066dba195303.jpg" group-title="Variedades",FOOD NETWORK FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42517
+http://cdn.erost.xyz:8080/58220335/15014071/42517
 #EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD" tvg-logo="https://i.postimg.cc/056pfpK2/1516307297-3f171c584b7df80d589aaed8af75066dba195303.jpg" group-title="Variedades",FOOD NETWORK HD
-http://cdn.erost.xyz:8080/33156246/83611094/42518
+http://cdn.erost.xyz:8080/58220335/15014071/42518
 #EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK SD" tvg-logo="https://i.postimg.cc/056pfpK2/1516307297-3f171c584b7df80d589aaed8af75066dba195303.jpg" group-title="Variedades",FOOD NETWORK SD
-http://cdn.erost.xyz:8080/33156246/83611094/42519
+http://cdn.erost.xyz:8080/58220335/15014071/42519
 #EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE HD" tvg-logo="https://i.postimg.cc/jdPyVthp/1516307532-1480374d0207eff2609baebc726b8d3dc9614b6f.jpg" group-title="Variedades",FOX LIFE HD
-http://cdn.erost.xyz:8080/33156246/83611094/42520
+http://cdn.erost.xyz:8080/58220335/15014071/42520
 #EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE SD" tvg-logo="https://i.postimg.cc/jdPyVthp/1516307532-1480374d0207eff2609baebc726b8d3dc9614b6f.jpg" group-title="Variedades",FOX LIFE SD
-http://cdn.erost.xyz:8080/33156246/83611094/42521
+http://cdn.erost.xyz:8080/58220335/15014071/42521
 #EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBOSAT HD" tvg-logo="https://i.postimg.cc/6qwtyrDL/1516312239-2dc4938e1a1ef83c790c0db7499c9f48659c1712.jpg" group-title="Variedades",GLOBOSAT HD
-http://cdn.erost.xyz:8080/33156246/83611094/42522
+http://cdn.erost.xyz:8080/58220335/15014071/42522
 #EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBOSAT SD" tvg-logo="https://i.postimg.cc/6qwtyrDL/1516312239-2dc4938e1a1ef83c790c0db7499c9f48659c1712.jpg" group-title="Variedades",GLOBOSAT SD
-http://cdn.erost.xyz:8080/33156246/83611094/42523
+http://cdn.erost.xyz:8080/58220335/15014071/42523
 #EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="https://i.postimg.cc/L6pn1fzW/1516310558-5ec5a99a7db61a06b36829944ba1e1aa55e5a2be.jpg" group-title="Variedades",GNT HD
-http://cdn.erost.xyz:8080/33156246/83611094/42524
+http://cdn.erost.xyz:8080/58220335/15014071/42524
 #EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD" tvg-logo="https://i.postimg.cc/L6pn1fzW/1516310558-5ec5a99a7db61a06b36829944ba1e1aa55e5a2be.jpg" group-title="Variedades",GNT SD
-http://cdn.erost.xyz:8080/33156246/83611094/42525
+http://cdn.erost.xyz:8080/58220335/15014071/42525
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD" tvg-logo="https://i.postimg.cc/wjBxXk3w/1516312139-baa73a01080f36bc25efa3684c6f408f87efa9d5.jpg" group-title="Variedades",LIFETIME HD
-http://cdn.erost.xyz:8080/33156246/83611094/42526
+http://cdn.erost.xyz:8080/58220335/15014071/42526
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME SD" tvg-logo="https://i.postimg.cc/wjBxXk3w/1516312139-baa73a01080f36bc25efa3684c6f408f87efa9d5.jpg" group-title="Variedades",LIFETIME SD
-http://cdn.erost.xyz:8080/33156246/83611094/42527
+http://cdn.erost.xyz:8080/58220335/15014071/42527
 #EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV HD" tvg-logo="http://u.meulogin.net:80/images/61ec04fea4099811214b59252d2d9336.jpg" group-title="Variedades",Fish TV HD
-http://cdn.erost.xyz:8080/33156246/83611094/42528
+http://cdn.erost.xyz:8080/58220335/15014071/42528
 #EXTINF:-1 tvg-id="Trutv.br" tvg-name="TruTV SD" tvg-logo="http://u.meulogin.net:80/images/f97e9ad5a0e99e1ed61ce5643db27e01.png" group-title="Variedades",TruTV SD
-http://cdn.erost.xyz:8080/33156246/83611094/42529
+http://cdn.erost.xyz:8080/58220335/15014071/42529
 #EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV SD" tvg-logo="http://u.meulogin.net:80/images/61ec04fea4099811214b59252d2d9336.jpg" group-title="Variedades",Fish TV SD
-http://cdn.erost.xyz:8080/33156246/83611094/42530
+http://cdn.erost.xyz:8080/58220335/15014071/42530
 #EXTINF:-1 tvg-id="" tvg-name="M20 MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo-m2o-plain-nero.jpg/220px-Logo-m2o-plain-nero.jpg" group-title="Variedades",M20 MUSIC
-http://cdn.erost.xyz:8080/33156246/83611094/42531
+http://cdn.erost.xyz:8080/58220335/15014071/42531
 #EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD" tvg-logo="https://i.postimg.cc/sDj3zJP3/1516312775-9439b92b416e0eaea27bcf2b3a07ae77c55263df.jpg" group-title="Variedades",MTV FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42532
+http://cdn.erost.xyz:8080/58220335/15014071/42532
 #EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD" tvg-logo="https://i.postimg.cc/sDj3zJP3/1516312775-9439b92b416e0eaea27bcf2b3a07ae77c55263df.jpg" group-title="Variedades",MTV HD
-http://cdn.erost.xyz:8080/33156246/83611094/42533
+http://cdn.erost.xyz:8080/58220335/15014071/42533
 #EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SD" tvg-logo="https://i.postimg.cc/sDj3zJP3/1516312775-9439b92b416e0eaea27bcf2b3a07ae77c55263df.jpg" group-title="Variedades",MTV SD
-http://cdn.erost.xyz:8080/33156246/83611094/42534
+http://cdn.erost.xyz:8080/58220335/15014071/42534
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW FHD" tvg-logo="https://i.postimg.cc/tCBp4VDW/1516312851-ba318e4b09d8586cfeac9ec76bc5816143edc3ef.jpg" group-title="Variedades",MULTISHOW FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42535
+http://cdn.erost.xyz:8080/58220335/15014071/42535
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD" tvg-logo="https://i.postimg.cc/tCBp4VDW/1516312851-ba318e4b09d8586cfeac9ec76bc5816143edc3ef.jpg" group-title="Variedades",MULTISHOW HD
-http://cdn.erost.xyz:8080/33156246/83611094/42536
+http://cdn.erost.xyz:8080/58220335/15014071/42536
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SD" tvg-logo="https://i.postimg.cc/tCBp4VDW/1516312851-ba318e4b09d8586cfeac9ec76bc5816143edc3ef.jpg" group-title="Variedades",MULTISHOW SD
-http://cdn.erost.xyz:8080/33156246/83611094/42537
+http://cdn.erost.xyz:8080/58220335/15014071/42537
 #EXTINF:-1 tvg-id="Music Box Brasil HD" tvg-name="MUSIC BOX BRAZIL SD" tvg-logo="https://i.postimg.cc/QtJvYRy1/1516320851-ad26c1db9961cdf5e77cc25591abf6c39a92bc65.jpg" group-title="Variedades",MUSIC BOX BRAZIL SD
-http://cdn.erost.xyz:8080/33156246/83611094/42538
+http://cdn.erost.xyz:8080/58220335/15014071/42538
 #EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK WORLD HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcThnRoXnEGogeldkT2AT_TT06gLry8j_gbb7Q&usqp=CAU" group-title="Variedades",NHK WORLD HD
-http://cdn.erost.xyz:8080/33156246/83611094/42539
+http://cdn.erost.xyz:8080/58220335/15014071/42539
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="https://i.postimg.cc/QxdZwdst/1516320116-de86d8a6b771725c17d78fa7e0cd82e16b83382d.jpg" group-title="Variedades",OFF HD
-http://cdn.erost.xyz:8080/33156246/83611094/42540
+http://cdn.erost.xyz:8080/58220335/15014071/42540
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD" tvg-logo="https://i.postimg.cc/QxdZwdst/1516320116-de86d8a6b771725c17d78fa7e0cd82e16b83382d.jpg" group-title="Variedades",OFF SD
-http://cdn.erost.xyz:8080/33156246/83611094/42541
+http://cdn.erost.xyz:8080/58220335/15014071/42541
 #EXTINF:-1 tvg-id="" tvg-name="RETRO MUSIC TV" tvg-logo="http://i.imgur.com/QGUGlqk.png" group-title="Variedades",RETRO MUSIC TV
-http://cdn.erost.xyz:8080/33156246/83611094/42544
+http://cdn.erost.xyz:8080/58220335/15014071/42544
 #EXTINF:-1 tvg-id="VH1HD.br" tvg-name="VH1 HD" tvg-logo="https://i.postimg.cc/tgCrCYSZ/1516364336-b7d6ed1c59fe84cb13b82893eb0503161eea186a.jpg" group-title="Variedades",VH1 HD
-http://cdn.erost.xyz:8080/33156246/83611094/42545
+http://cdn.erost.xyz:8080/58220335/15014071/42545
 #EXTINF:-1 tvg-id="VH1HD.br" tvg-name="VH1 SD" tvg-logo="https://i.postimg.cc/tgCrCYSZ/1516364336-b7d6ed1c59fe84cb13b82893eb0503161eea186a.jpg" group-title="Variedades",VH1 SD
-http://cdn.erost.xyz:8080/33156246/83611094/42546
+http://cdn.erost.xyz:8080/58220335/15014071/42546
 #EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA FHD" tvg-logo="" group-title="Variedades",VIVA FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42547
+http://cdn.erost.xyz:8080/58220335/15014071/42547
 #EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD" tvg-logo="https://i.postimg.cc/bvCmGpW6/1516364422-81b2fc789f43d1b600b4406ad018f0876f508b0c.jpg" group-title="Variedades",VIVA HD
-http://cdn.erost.xyz:8080/33156246/83611094/42548
+http://cdn.erost.xyz:8080/58220335/15014071/42548
 #EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD" tvg-logo="https://i.postimg.cc/bvCmGpW6/1516364422-81b2fc789f43d1b600b4406ad018f0876f508b0c.jpg" group-title="Variedades",VIVA SD
-http://cdn.erost.xyz:8080/33156246/83611094/42549
+http://cdn.erost.xyz:8080/58220335/15014071/42549
 #EXTINF:-1 tvg-id="TVAmazonia" tvg-name="Globo Rede Amazônica Manaus HD" tvg-logo="https://i.postimg.cc/CLGnPJhY/1516308217-c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Globo's",Globo Rede Amazônica Manaus HD
-http://cdn.erost.xyz:8080/33156246/83611094/42550
+http://cdn.erost.xyz:8080/58220335/15014071/42550
 #EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="Globo Anhanguera Goiania HD" tvg-logo="https://i.postimg.cc/CLGnPJhY/1516308217-c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Globo's",Globo Anhanguera Goiania HD
-http://cdn.erost.xyz:8080/33156246/83611094/42551
+http://cdn.erost.xyz:8080/58220335/15014071/42551
 #EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="Globo Brasilia HD" tvg-logo="https://i.postimg.cc/CLGnPJhY/1516308217-c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Globo's",Globo Brasilia HD
-http://cdn.erost.xyz:8080/33156246/83611094/42552
+http://cdn.erost.xyz:8080/58220335/15014071/42552
 #EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA SD" tvg-logo="https://i.postimg.cc/CLGnPJhY/1516308217-c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Globo's",GLOBO BRASILIA SD
-http://cdn.erost.xyz:8080/33156246/83611094/42553
+http://cdn.erost.xyz:8080/58220335/15014071/42553
 #EXTINF:-1 tvg-id="" tvg-name="Globo Centro America Cuiabá HD" tvg-logo="https://i.postimg.cc/CLGnPJhY/1516308217-c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Globo's",Globo Centro America Cuiabá HD
-http://cdn.erost.xyz:8080/33156246/83611094/42554
+http://cdn.erost.xyz:8080/58220335/15014071/42554
 #EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="Globo EPTV Campinas HD" tvg-logo="https://i.postimg.cc/CLGnPJhY/1516308217-c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Globo's",Globo EPTV Campinas HD
-http://cdn.erost.xyz:8080/33156246/83611094/42556
+http://cdn.erost.xyz:8080/58220335/15014071/42556
 #EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="Globo EPTV Campinas SD" tvg-logo="https://i.postimg.cc/CLGnPJhY/1516308217-c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Globo's",Globo EPTV Campinas SD
-http://cdn.erost.xyz:8080/33156246/83611094/42557
+http://cdn.erost.xyz:8080/58220335/15014071/42557
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV RIBEIRAO PRETO FHD" tvg-logo="https://i.postimg.cc/CLGnPJhY/1516308217-c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Globo's",GLOBO EPTV RIBEIRAO PRETO FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42558
+http://cdn.erost.xyz:8080/58220335/15014071/42558
 #EXTINF:-1 tvg-id="TV Gazeta Sul" tvg-name="GLOBO GAZETA SUL ES HD" tvg-logo="https://i.postimg.cc/CLGnPJhY/1516308217-c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Globo's",GLOBO GAZETA SUL ES HD
-http://cdn.erost.xyz:8080/33156246/83611094/42559
+http://cdn.erost.xyz:8080/58220335/15014071/42559
 #EXTINF:-1 tvg-id="EPTVSuldeMinas" tvg-name="GLOBO MINAS HD" tvg-logo="http://u.meulogin.net:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="Globo's",GLOBO MINAS HD
-http://cdn.erost.xyz:8080/33156246/83611094/42561
+http://cdn.erost.xyz:8080/58220335/15014071/42561
 #EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="Globo Nordeste SD" tvg-logo="https://i.postimg.cc/CLGnPJhY/1516308217-c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Globo's",Globo Nordeste SD
-http://cdn.erost.xyz:8080/33156246/83611094/42562
+http://cdn.erost.xyz:8080/58220335/15014071/42562
 #EXTINF:-1 tvg-id="Globo RBS TV Poa" tvg-name="Globo RBS Pelotas HD" tvg-logo="https://i.postimg.cc/CLGnPJhY/1516308217-c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Globo's",Globo RBS Pelotas HD
-http://cdn.erost.xyz:8080/33156246/83611094/42566
+http://cdn.erost.xyz:8080/58220335/15014071/42566
 #EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="Globo RBS Porto Alegre HD" tvg-logo="https://i.postimg.cc/CLGnPJhY/1516308217-c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Globo's",Globo RBS Porto Alegre HD
-http://cdn.erost.xyz:8080/33156246/83611094/42567
+http://cdn.erost.xyz:8080/58220335/15014071/42567
 #EXTINF:-1 tvg-id="" tvg-name="Globo RBS Porto Alegre SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo's",Globo RBS Porto Alegre SD
-http://cdn.erost.xyz:8080/33156246/83611094/42569
+http://cdn.erost.xyz:8080/58220335/15014071/42569
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ FHD" tvg-logo="https://i.postimg.cc/CLGnPJhY/1516308217-c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Globo's",GLOBO RJ FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42571
+http://cdn.erost.xyz:8080/58220335/15014071/42571
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="https://i.postimg.cc/CLGnPJhY/1516308217-c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Globo's",GLOBO RJ HD
-http://cdn.erost.xyz:8080/33156246/83611094/42572
+http://cdn.erost.xyz:8080/58220335/15014071/42572
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ SD" tvg-logo="https://i.postimg.cc/CLGnPJhY/1516308217-c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Globo's",GLOBO RJ SD
-http://cdn.erost.xyz:8080/33156246/83611094/42573
+http://cdn.erost.xyz:8080/58220335/15014071/42573
 #EXTINF:-1 tvg-id="" tvg-name="Globo RPC Curitiba SD" tvg-logo="https://i.postimg.cc/CLGnPJhY/1516308217-c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Globo's",Globo RPC Curitiba SD
-http://cdn.erost.xyz:8080/33156246/83611094/42575
+http://cdn.erost.xyz:8080/58220335/15014071/42575
 #EXTINF:-1 tvg-id="" tvg-name="Globo RPC Curitiba HD" tvg-logo="https://i.postimg.cc/CLGnPJhY/1516308217-c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Globo's",Globo RPC Curitiba HD
-http://cdn.erost.xyz:8080/33156246/83611094/42576
+http://cdn.erost.xyz:8080/58220335/15014071/42576
 #EXTINF:-1 tvg-id="" tvg-name="Globo RPC Foz do Iguaçu HD" tvg-logo="https://i.postimg.cc/CLGnPJhY/1516308217-c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Globo's",Globo RPC Foz do Iguaçu HD
-http://cdn.erost.xyz:8080/33156246/83611094/42577
+http://cdn.erost.xyz:8080/58220335/15014071/42577
 #EXTINF:-1 tvg-id="" tvg-name="Globo Sergipe HD" tvg-logo="https://i.postimg.cc/CLGnPJhY/1516308217-c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Globo's",Globo Sergipe HD
-http://cdn.erost.xyz:8080/33156246/83611094/42578
+http://cdn.erost.xyz:8080/58220335/15014071/42578
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.postimg.cc/CLGnPJhY/1516308217-c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Globo's",GLOBO SP FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42579
+http://cdn.erost.xyz:8080/58220335/15014071/42579
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD" tvg-logo="https://i.postimg.cc/CLGnPJhY/1516308217-c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Globo's",GLOBO SP HD
-http://cdn.erost.xyz:8080/33156246/83611094/42580
+http://cdn.erost.xyz:8080/58220335/15014071/42580
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SD" tvg-logo="https://i.postimg.cc/CLGnPJhY/1516308217-c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Globo's",GLOBO SP SD
-http://cdn.erost.xyz:8080/33156246/83611094/42581
+http://cdn.erost.xyz:8080/58220335/15014071/42581
 #EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GLOBO TV BAHIA FHD" tvg-logo="https://i.postimg.cc/CLGnPJhY/1516308217-c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Globo's",GLOBO TV BAHIA FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42582
+http://cdn.erost.xyz:8080/58220335/15014071/42582
 #EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GLOBO TV BAHIA HD" tvg-logo="https://i.postimg.cc/CLGnPJhY/1516308217-c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Globo's",GLOBO TV BAHIA HD
-http://cdn.erost.xyz:8080/33156246/83611094/42583
+http://cdn.erost.xyz:8080/58220335/15014071/42583
 #EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GLOBO TV BAHIA SD" tvg-logo="https://i.postimg.cc/CLGnPJhY/1516308217-c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Globo's",GLOBO TV BAHIA SD
-http://cdn.erost.xyz:8080/33156246/83611094/42584
+http://cdn.erost.xyz:8080/58220335/15014071/42584
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BELEM SD" tvg-logo="https://i.postimg.cc/CLGnPJhY/1516308217-c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Globo's",GLOBO TV BELEM SD
-http://cdn.erost.xyz:8080/33156246/83611094/42585
+http://cdn.erost.xyz:8080/58220335/15014071/42585
 #EXTINF:-1 tvg-id="TV Gazeta Sul" tvg-name="Globo TV Gazeta Vitória HD" tvg-logo="https://i.postimg.cc/CLGnPJhY/1516308217-c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Globo's",Globo TV Gazeta Vitória HD
-http://cdn.erost.xyz:8080/33156246/83611094/42586
+http://cdn.erost.xyz:8080/58220335/15014071/42586
 #EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Ribeirao Preto HD" tvg-logo="https://i.postimg.cc/CLGnPJhY/1516308217-c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Globo's",Globo EPTV Ribeirao Preto HD
-http://cdn.erost.xyz:8080/33156246/83611094/42588
+http://cdn.erost.xyz:8080/58220335/15014071/42588
 #EXTINF:-1 tvg-id="" tvg-name="Globo TV Tem Sorocaba HD" tvg-logo="https://i.postimg.cc/CLGnPJhY/1516308217-c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Globo's",Globo TV Tem Sorocaba HD
-http://cdn.erost.xyz:8080/33156246/83611094/42589
+http://cdn.erost.xyz:8080/58220335/15014071/42589
 #EXTINF:-1 tvg-id="Tvtribuna.br" tvg-name="Globo TV Tribuna Santos HD" tvg-logo="https://i.postimg.cc/CLGnPJhY/1516308217-c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Globo's",Globo TV Tribuna Santos HD
-http://cdn.erost.xyz:8080/33156246/83611094/42590
+http://cdn.erost.xyz:8080/58220335/15014071/42590
 #EXTINF:-1 tvg-id="" tvg-name="Globo TV Vanguarda S.J.C SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo's",Globo TV Vanguarda S.J.C SD
-http://cdn.erost.xyz:8080/33156246/83611094/42591
+http://cdn.erost.xyz:8080/58220335/15014071/42591
 #EXTINF:-1 tvg-id="" tvg-name="Globo TV Verdes Mares HD" tvg-logo="https://i.postimg.cc/CLGnPJhY/1516308217-c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Globo's",Globo TV Verdes Mares HD
-http://cdn.erost.xyz:8080/33156246/83611094/42592
+http://cdn.erost.xyz:8080/58220335/15014071/42592
 #EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 SD" tvg-logo="http://u.meulogin.net:80/images/9b229d23bd7f92559f40790bb9f0449d.png" group-title="Esportes",ESPN 2 SD
-http://cdn.erost.xyz:8080/33156246/83611094/42593
+http://cdn.erost.xyz:8080/58220335/15014071/42593
 #EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 FHD" tvg-logo="http://u.meulogin.net:80/images/cc48e426d6ab61da2fd9968525485ca0.png" group-title="Esportes",ESPN 2 FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42594
+http://cdn.erost.xyz:8080/58220335/15014071/42594
 #EXTINF:-1 tvg-id="" tvg-name="Rede Brasil de Comunicação HD" tvg-logo="http://u.meulogin.net:80/images/81bbc749a4fa92e2a647d4b3a28abe7a.jpg" group-title="Canais Abertos",Rede Brasil de Comunicação HD
-http://cdn.erost.xyz:8080/33156246/83611094/42596
+http://cdn.erost.xyz:8080/58220335/15014071/42596
 #EXTINF:-1 tvg-id="" tvg-name="TV Brasil HD" tvg-logo="https://i0.wp.com/jornalguarunews.com.br/wp-content/uploads/2020/06/tv-brasil-1.jpg?fit=800%2C445&ssl=1&w=640" group-title="Canais Abertos",TV Brasil HD
-http://cdn.erost.xyz:8080/33156246/83611094/42764
-#EXTINF:-1 tvg-id="SBT Rio" tvg-name="Sbt RJ SD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" group-title="Canais Abertos",Sbt RJ SD
-http://cdn.erost.xyz:8080/33156246/83611094/43231
+http://cdn.erost.xyz:8080/58220335/15014071/42764
 #EXTINF:-1 tvg-id="" tvg-name="NBA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Esportes",NBA TV HD
-http://cdn.erost.xyz:8080/33156246/83611094/43401
+http://cdn.erost.xyz:8080/58220335/15014071/43401
 #EXTINF:-1 tvg-id="" tvg-name="Canal do Boi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_do_Boi_-_PNG.png/301px-Logo_Canal_do_Boi_-_PNG.png" group-title="Canais Abertos",Canal do Boi
-http://cdn.erost.xyz:8080/33156246/83611094/43656
+http://cdn.erost.xyz:8080/58220335/15014071/43656
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports 1" tvg-logo="http://u.meulogin.net:80/images/ef909288e84d11669db9d54d6e9177ec.png" group-title="Esportes",TNT Sports 1
-http://cdn.erost.xyz:8080/33156246/83611094/43685
+http://cdn.erost.xyz:8080/58220335/15014071/43685
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports 2" tvg-logo="http://u.meulogin.net:80/images/ef909288e84d11669db9d54d6e9177ec.png" group-title="Esportes",TNT Sports 2
-http://cdn.erost.xyz:8080/33156246/83611094/43686
+http://cdn.erost.xyz:8080/58220335/15014071/43686
 #EXTINF:-1 tvg-id="" tvg-name="COPA LIBERTADORES 2021 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/95/Conmebol_Libertadores_logo.svg/768px-Conmebol_Libertadores_logo.svg.png" group-title="Esportes",COPA LIBERTADORES 2021 HD
-http://cdn.erost.xyz:8080/33156246/83611094/43688
+http://cdn.erost.xyz:8080/58220335/15014071/43688
 #EXTINF:-1 tvg-id="RedeMassa.br" tvg-name="SBT Parana HD" tvg-logo="" group-title="Canais Abertos",SBT Parana HD
-http://cdn.erost.xyz:8080/33156246/83611094/43690
+http://cdn.erost.xyz:8080/58220335/15014071/43690
 #EXTINF:-1 tvg-id="" tvg-name="Record Paraná HD" tvg-logo="http://u.meulogin.net:80/images/40b4a3be5bfd1c442eda644025b3ac7c.jpg" group-title="Canais Abertos",Record Paraná HD
-http://cdn.erost.xyz:8080/33156246/83611094/43691
+http://cdn.erost.xyz:8080/58220335/15014071/43691
 #EXTINF:-1 tvg-id="" tvg-name="Band Paraná HD" tvg-logo="https://i2.wp.com/faclubeband.com.br/wp-content/uploads/2018/05/20170303_162558-1.png?resize=800,445" group-title="Canais Abertos",Band Paraná HD
-http://cdn.erost.xyz:8080/33156246/83611094/43692
+http://cdn.erost.xyz:8080/58220335/15014071/43692
 #EXTINF:-1 tvg-id="" tvg-name="Band Bahia SD" tvg-logo="http://u.meulogin.net:80/images/4c340e00fc2fd4531df5122e218bcc42.png" group-title="Canais Abertos",Band Bahia SD
-http://cdn.erost.xyz:8080/33156246/83611094/45756
+http://cdn.erost.xyz:8080/58220335/15014071/45756
 #EXTINF:-1 tvg-id="" tvg-name="Band Nordeste SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1200px-Rede_Bandeirantes_logo_2011.svg.png" group-title="Canais Abertos",Band Nordeste SD
-http://cdn.erost.xyz:8080/33156246/83611094/45757
+http://cdn.erost.xyz:8080/58220335/15014071/45757
 #EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Sul de Minas HD" tvg-logo="https://www.kindpng.com/picc/m/289-2899526_tv-globo-logo-vector-rede-globo-hd-png.png" group-title="Globo's",Globo EPTV Sul de Minas HD
-http://cdn.erost.xyz:8080/33156246/83611094/45758
+http://cdn.erost.xyz:8080/58220335/15014071/45758
 #EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Sao Carlos HD" tvg-logo="http://u.meulogin.net:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="Globo's",Globo EPTV Sao Carlos HD
-http://cdn.erost.xyz:8080/33156246/83611094/45760
+http://cdn.erost.xyz:8080/58220335/15014071/45760
 #EXTINF:-1 tvg-id="" tvg-name="Globo Internacional HD" tvg-logo="http://u.meulogin.net:80/images/5ec9b2868c9bb3a1d259aa4b50900357.jpg" group-title="Globo's",Globo Internacional HD
-http://cdn.erost.xyz:8080/33156246/83611094/45762
+http://cdn.erost.xyz:8080/58220335/15014071/45762
 #EXTINF:-1 tvg-id="" tvg-name="Globo InterTV Alto Litoral FHD" tvg-logo="http://u.meulogin.net:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="Globo's",Globo InterTV Alto Litoral FHD
-http://cdn.erost.xyz:8080/33156246/83611094/45763
+http://cdn.erost.xyz:8080/58220335/15014071/45763
 #EXTINF:-1 tvg-id="" tvg-name="Globo InterTV RJ Região Serrana HD" tvg-logo="http://u.meulogin.net:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="Globo's",Globo InterTV RJ Região Serrana HD
-http://cdn.erost.xyz:8080/33156246/83611094/45764
+http://cdn.erost.xyz:8080/58220335/15014071/45764
 #EXTINF:-1 tvg-id="" tvg-name="Globo TV Tem Itapetininga HD" tvg-logo="http://u.meulogin.net:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="Globo's",Globo TV Tem Itapetininga HD
-http://cdn.erost.xyz:8080/33156246/83611094/45765
+http://cdn.erost.xyz:8080/58220335/15014071/45765
 #EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante HD (São Luís)" tvg-logo="http://u.meulogin.net:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="Globo's",Globo TV Mirante HD (São Luís)
-http://cdn.erost.xyz:8080/33156246/83611094/45766
+http://cdn.erost.xyz:8080/58220335/15014071/45766
 #EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste HD" tvg-logo="http://u.meulogin.net:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="Globo's",Globo Nordeste HD
-http://cdn.erost.xyz:8080/33156246/83611094/45767
+http://cdn.erost.xyz:8080/58220335/15014071/45767
 #EXTINF:-1 tvg-id="" tvg-name="Globo Minas SD" tvg-logo="http://u.meulogin.net:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="Globo's",Globo Minas SD
-http://cdn.erost.xyz:8080/33156246/83611094/45768
+http://cdn.erost.xyz:8080/58220335/15014071/45768
 #EXTINF:-1 tvg-id="" tvg-name="Globo NSC Blumenau HD" tvg-logo="http://u.meulogin.net:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="Globo's",Globo NSC Blumenau HD
-http://cdn.erost.xyz:8080/33156246/83611094/45769
+http://cdn.erost.xyz:8080/58220335/15014071/45769
 #EXTINF:-1 tvg-id="" tvg-name="Globo RBS Santa Maria HD" tvg-logo="http://u.meulogin.net:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="Globo's",Globo RBS Santa Maria HD
-http://cdn.erost.xyz:8080/33156246/83611094/45770
+http://cdn.erost.xyz:8080/58220335/15014071/45770
 #EXTINF:-1 tvg-id="" tvg-name="Globo RPC Curitiba HD" tvg-logo="http://u.meulogin.net:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="Globo's",Globo RPC Curitiba HD
-http://cdn.erost.xyz:8080/33156246/83611094/45771
+http://cdn.erost.xyz:8080/58220335/15014071/45771
 #EXTINF:-1 tvg-id="" tvg-name="Globo RPC Curitiba SD" tvg-logo="http://u.meulogin.net:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="Globo's",Globo RPC Curitiba SD
-http://cdn.erost.xyz:8080/33156246/83611094/45772
+http://cdn.erost.xyz:8080/58220335/15014071/45772
 #EXTINF:-1 tvg-id="" tvg-name="Globo TV Liberal HD (Belém)" tvg-logo="http://u.meulogin.net:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="Globo's",Globo TV Liberal HD (Belém)
-http://cdn.erost.xyz:8080/33156246/83611094/45773
+http://cdn.erost.xyz:8080/58220335/15014071/45773
 #EXTINF:-1 tvg-id="" tvg-name="Globo TV Morena HD" tvg-logo="http://u.meulogin.net:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="Globo's",Globo TV Morena HD
-http://cdn.erost.xyz:8080/33156246/83611094/45774
+http://cdn.erost.xyz:8080/58220335/15014071/45774
 #EXTINF:-1 tvg-id="Record TV Bahia" tvg-name="Record Bahia HD" tvg-logo="http://u.meulogin.net:80/images/f7835b8384c7926920fa6e2200d6486c.png" group-title="Canais Abertos",Record Bahia HD
-http://cdn.erost.xyz:8080/33156246/83611094/45775
+http://cdn.erost.xyz:8080/58220335/15014071/45775
 #EXTINF:-1 tvg-id="" tvg-name="Record Goaina HD" tvg-logo="http://u.meulogin.net:80/images/f7835b8384c7926920fa6e2200d6486c.png" group-title="Canais Abertos",Record Goaina HD
-http://cdn.erost.xyz:8080/33156246/83611094/45776
+http://cdn.erost.xyz:8080/58220335/15014071/45776
 #EXTINF:-1 tvg-id="" tvg-name="Record RS HD" tvg-logo="http://u.meulogin.net:80/images/f7835b8384c7926920fa6e2200d6486c.png" group-title="Canais Abertos",Record RS HD
-http://cdn.erost.xyz:8080/33156246/83611094/45777
+http://cdn.erost.xyz:8080/58220335/15014071/45777
 #EXTINF:-1 tvg-id="" tvg-name="Record SP FHD" tvg-logo="http://u.meulogin.net:80/images/f7835b8384c7926920fa6e2200d6486c.png" group-title="Canais Abertos",Record SP FHD
-http://cdn.erost.xyz:8080/33156246/83611094/45778
+http://cdn.erost.xyz:8080/58220335/15014071/45778
 #EXTINF:-1 tvg-id="" tvg-name="SBT Bahia (Aratu) HD" tvg-logo="http://u.meulogin.net:80/images/37feb17a9ad4099e2c0809d4d35df16b.png" group-title="Canais Abertos",SBT Bahia (Aratu) HD
-http://cdn.erost.xyz:8080/33156246/83611094/45779
+http://cdn.erost.xyz:8080/58220335/15014071/45779
 #EXTINF:-1 tvg-id="" tvg-name="SBT MG HD" tvg-logo="http://u.meulogin.net:80/images/37feb17a9ad4099e2c0809d4d35df16b.png" group-title="Canais Abertos",SBT MG HD
-http://cdn.erost.xyz:8080/33156246/83611094/45780
+http://cdn.erost.xyz:8080/58220335/15014071/45780
 #EXTINF:-1 tvg-id="" tvg-name="SBT Parana HD" tvg-logo="http://u.meulogin.net:80/images/37feb17a9ad4099e2c0809d4d35df16b.png" group-title="Canais Abertos",SBT Parana HD
-http://cdn.erost.xyz:8080/33156246/83611094/45781
+http://cdn.erost.xyz:8080/58220335/15014071/45781
 #EXTINF:-1 tvg-id="" tvg-name="SBT Sergipe HD" tvg-logo="http://u.meulogin.net:80/images/37feb17a9ad4099e2c0809d4d35df16b.png" group-title="Canais Abertos",SBT Sergipe HD
-http://cdn.erost.xyz:8080/33156246/83611094/45782
+http://cdn.erost.xyz:8080/58220335/15014071/45782
 #EXTINF:-1 tvg-id="" tvg-name="SBT SP FHD" tvg-logo="http://u.meulogin.net:80/images/37feb17a9ad4099e2c0809d4d35df16b.png" group-title="Canais Abertos",SBT SP FHD
-http://cdn.erost.xyz:8080/33156246/83611094/45783
+http://cdn.erost.xyz:8080/58220335/15014071/45783
 #EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT SP HD" tvg-logo="http://u.meulogin.net:80/images/37feb17a9ad4099e2c0809d4d35df16b.png" group-title="Canais Abertos",SBT SP HD
-http://cdn.erost.xyz:8080/33156246/83611094/45784
+http://cdn.erost.xyz:8080/58220335/15014071/45784
 #EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT SP SD" tvg-logo="http://u.meulogin.net:80/images/37feb17a9ad4099e2c0809d4d35df16b.png" group-title="Canais Abertos",SBT SP SD
-http://cdn.erost.xyz:8080/33156246/83611094/45785
+http://cdn.erost.xyz:8080/58220335/15014071/45785
 #EXTINF:-1 tvg-id="" tvg-name="Rede Familia SD" tvg-logo="http://u.meulogin.net:80/images/b04ec8351f64006c3718c7b6dc76b1a0.png" group-title="Religioso",Rede Familia SD
-http://cdn.erost.xyz:8080/33156246/83611094/45786
+http://cdn.erost.xyz:8080/58220335/15014071/45786
 #EXTINF:-1 tvg-id="" tvg-name="Rede Gospel SD" tvg-logo="http://u.meulogin.net:80/images/2bafc1207bc542bb456df798c53e4b1a.png" group-title="Religioso",Rede Gospel SD
-http://cdn.erost.xyz:8080/33156246/83611094/45787
+http://cdn.erost.xyz:8080/58220335/15014071/45787
 #EXTINF:-1 tvg-id="" tvg-name="RedeTV! FHD" tvg-logo="http://u.meulogin.net:80/images/25ef91f1474a124b5a3cf166d09b731a.png" group-title="Canais Abertos",RedeTV! FHD
-http://cdn.erost.xyz:8080/33156246/83611094/45788
+http://cdn.erost.xyz:8080/58220335/15014071/45788
 #EXTINF:-1 tvg-id="" tvg-name="Star Hits 1 FHD" tvg-logo="http://u.meulogin.net:80/images/c3f3f10cf9185f37a6c2b2632812e1f5.png" group-title="Filmes e Series",Star Hits 1 FHD
-http://cdn.erost.xyz:8080/33156246/83611094/45792
+http://cdn.erost.xyz:8080/58220335/15014071/45792
 #EXTINF:-1 tvg-id="" tvg-name="Star Hits 1 HD" tvg-logo="http://u.meulogin.net:80/images/c3f3f10cf9185f37a6c2b2632812e1f5.png" group-title="Filmes e Series",Star Hits 1 HD
-http://cdn.erost.xyz:8080/33156246/83611094/45793
+http://cdn.erost.xyz:8080/58220335/15014071/45793
 #EXTINF:-1 tvg-id="" tvg-name="Star Hits 1 SD" tvg-logo="http://u.meulogin.net:80/images/c3f3f10cf9185f37a6c2b2632812e1f5.png" group-title="Filmes e Series",Star Hits 1 SD
-http://cdn.erost.xyz:8080/33156246/83611094/45794
+http://cdn.erost.xyz:8080/58220335/15014071/45794
 #EXTINF:-1 tvg-id="" tvg-name="Star Hits 2 FHD" tvg-logo="http://u.meulogin.net:80/images/007000ff0fd4fe94b7fab8883db7c332.png" group-title="Filmes e Series",Star Hits 2 FHD
-http://cdn.erost.xyz:8080/33156246/83611094/45795
+http://cdn.erost.xyz:8080/58220335/15014071/45795
 #EXTINF:-1 tvg-id="" tvg-name="Star Hits 2 HD" tvg-logo="http://u.meulogin.net:80/images/007000ff0fd4fe94b7fab8883db7c332.png" group-title="Filmes e Series",Star Hits 2 HD
-http://cdn.erost.xyz:8080/33156246/83611094/45796
+http://cdn.erost.xyz:8080/58220335/15014071/45796
 #EXTINF:-1 tvg-id="" tvg-name="Star Hits 2 SD" tvg-logo="http://u.meulogin.net:80/images/007000ff0fd4fe94b7fab8883db7c332.png" group-title="Filmes e Series",Star Hits 2 SD
-http://cdn.erost.xyz:8080/33156246/83611094/45797
+http://cdn.erost.xyz:8080/58220335/15014071/45797
 #EXTINF:-1 tvg-id="" tvg-name="Star Life FHD" tvg-logo="http://u.meulogin.net:80/images/08ea59479b4b0d460a084d2af824242e.png" group-title="Filmes e Series",Star Life FHD
-http://cdn.erost.xyz:8080/33156246/83611094/45798
+http://cdn.erost.xyz:8080/58220335/15014071/45798
 #EXTINF:-1 tvg-id="" tvg-name="Star Life HD" tvg-logo="http://u.meulogin.net:80/images/08ea59479b4b0d460a084d2af824242e.png" group-title="Filmes e Series",Star Life HD
-http://cdn.erost.xyz:8080/33156246/83611094/45799
+http://cdn.erost.xyz:8080/58220335/15014071/45799
 #EXTINF:-1 tvg-id="" tvg-name="Star Life SD" tvg-logo="http://u.meulogin.net:80/images/08ea59479b4b0d460a084d2af824242e.png" group-title="Filmes e Series",Star Life SD
-http://cdn.erost.xyz:8080/33156246/83611094/45800
+http://cdn.erost.xyz:8080/58220335/15014071/45800
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet 4k" tvg-logo="http://u.meulogin.net:80/images/40e4afcfd925c2e4ea83a767993ea8b0.png" group-title="Canais 4K",Animal Planet 4k
-http://cdn.erost.xyz:8080/33156246/83611094/46043
+http://cdn.erost.xyz:8080/58220335/15014071/46043
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band 4K" tvg-logo="http://u.meulogin.net:80/images/4c340e00fc2fd4531df5122e218bcc42.png" group-title="Canais 4K",Band 4K
-http://cdn.erost.xyz:8080/33156246/83611094/46044
+http://cdn.erost.xyz:8080/58220335/15014071/46044
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network 4K" tvg-logo="http://u.meulogin.net:80/images/89827dcd9dc1ab6712cd1de825153706.png" group-title="Canais 4K",Cartoon Network 4K
-http://cdn.erost.xyz:8080/33156246/83611094/46045
+http://cdn.erost.xyz:8080/58220335/15014071/46045
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate 4K" tvg-logo="http://u.meulogin.net:80/images/299f4b3064094cb510f4529cd6d79ab6.png" group-title="Canais 4K",Combate 4K
-http://cdn.erost.xyz:8080/33156246/83611094/46046
+http://cdn.erost.xyz:8080/58220335/15014071/46046
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel 4K" tvg-logo="http://u.meulogin.net:80/images/4bb92752ec76ca74909c935088f11855.png" group-title="Canais 4K",Discovery Channel 4K
-http://cdn.erost.xyz:8080/33156246/83611094/46047
+http://cdn.erost.xyz:8080/58220335/15014071/46047
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN 4K" tvg-logo="http://u.meulogin.net:80/images/fd54991b4f0ff001b18bce605ead7c50.png" group-title="Canais 4K",ESPN 4K
-http://cdn.erost.xyz:8080/33156246/83611094/46048
+http://cdn.erost.xyz:8080/58220335/15014071/46048
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="Fox Sports 2 4K" tvg-logo="http://u.meulogin.net:80/images/0a456f07d1e01bb48cf02bb6f403b9f5.png" group-title="Canais 4K",Fox Sports 2 4K
-http://cdn.erost.xyz:8080/33156246/83611094/46049
+http://cdn.erost.xyz:8080/58220335/15014071/46049
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="Fox Sports 4K" tvg-logo="http://u.meulogin.net:80/images/5385bc7561abcaea5ba38b1abf7dab36.png" group-title="Canais 4K",Fox Sports 4K
-http://cdn.erost.xyz:8080/33156246/83611094/46050
+http://cdn.erost.xyz:8080/58220335/15014071/46050
 #EXTINF:-1 tvg-id="" tvg-name="Gazeta 4K" tvg-logo="http://u.meulogin.net:80/images/f92af99972eea99aa9529d046193255b.png" group-title="Canais 4K",Gazeta 4K
-http://cdn.erost.xyz:8080/33156246/83611094/46051
+http://cdn.erost.xyz:8080/58220335/15014071/46051
 #EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="Globo 4K" tvg-logo="http://u.meulogin.net:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="Canais 4K",Globo 4K
-http://cdn.erost.xyz:8080/33156246/83611094/46052
+http://cdn.erost.xyz:8080/58220335/15014071/46052
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 4K" tvg-logo="http://u.meulogin.net:80/images/dea84d90553b5cad1f4853160764971d.png" group-title="Canais 4K",HBO 4K
-http://cdn.erost.xyz:8080/33156246/83611094/46053
+http://cdn.erost.xyz:8080/58220335/15014071/46053
 #EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme 4K" tvg-logo="http://u.meulogin.net:80/images/227c5a7767e2742104de1c193474174b.png" group-title="Canais 4K",HBO Xtreme 4K
-http://cdn.erost.xyz:8080/33156246/83611094/46054
+http://cdn.erost.xyz:8080/58220335/15014071/46054
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix 4K" tvg-logo="http://u.meulogin.net:80/images/4b4218887844bfdcd600f1ab147d274a.png" group-title="Canais 4K",Megapix 4K
-http://cdn.erost.xyz:8080/33156246/83611094/46055
+http://cdn.erost.xyz:8080/58220335/15014071/46055
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow 4K" tvg-logo="http://u.meulogin.net:80/images/6bdf24be4543b1a7a30b39006ed9e66e.png" group-title="Canais 4K",Multishow 4K
-http://cdn.erost.xyz:8080/33156246/83611094/46056
+http://cdn.erost.xyz:8080/58220335/15014071/46056
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic 4K" tvg-logo="http://u.meulogin.net:80/images/f6e577e5efa19bd847bc4087337b9d61.png" group-title="Canais 4K",National Geographic 4K
-http://cdn.erost.xyz:8080/33156246/83611094/46057
+http://cdn.erost.xyz:8080/58220335/15014071/46057
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere Clubes 4K" tvg-logo="http://u.meulogin.net:80/images/913a63c66a91caeedb55262ebcc87bc6.png" group-title="Canais 4K",Premiere Clubes 4K
-http://cdn.erost.xyz:8080/33156246/83611094/46058
+http://cdn.erost.xyz:8080/58220335/15014071/46058
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="Record 4K" tvg-logo="http://u.meulogin.net:80/images/f7835b8384c7926920fa6e2200d6486c.png" group-title="Canais 4K",Record 4K
-http://cdn.erost.xyz:8080/33156246/83611094/46059
+http://cdn.erost.xyz:8080/58220335/15014071/46059
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV! 4K" tvg-logo="http://u.meulogin.net:80/images/25ef91f1474a124b5a3cf166d09b731a.png" group-title="Canais 4K",RedeTV! 4K
-http://cdn.erost.xyz:8080/33156246/83611094/46060
+http://cdn.erost.xyz:8080/58220335/15014071/46060
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT 4K" tvg-logo="http://u.meulogin.net:80/images/37feb17a9ad4099e2c0809d4d35df16b.png" group-title="Canais 4K",SBT 4K
-http://cdn.erost.xyz:8080/33156246/83611094/46061
+http://cdn.erost.xyz:8080/58220335/15014071/46061
 #EXTINF:-1 tvg-id="Space.br" tvg-name="Space 4K" tvg-logo="http://u.meulogin.net:80/images/267179ed310eb39b8b734131262b2cee.png" group-title="Canais 4K",Space 4K
-http://cdn.erost.xyz:8080/33156246/83611094/46062
+http://cdn.erost.xyz:8080/58220335/15014071/46062
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV 4K" tvg-logo="http://u.meulogin.net:80/images/f2e8afb10bd1acf52dc881b99da1489f.png" group-title="Canais 4K",SporTV 4K
-http://cdn.erost.xyz:8080/33156246/83611094/46063
+http://cdn.erost.xyz:8080/58220335/15014071/46063
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel 4K" tvg-logo="http://u.meulogin.net:80/images/282ef62a8a14c93caad0d80a3e5abe9d.png" group-title="Canais 4K",Star Channel 4K
-http://cdn.erost.xyz:8080/33156246/83611094/46064
+http://cdn.erost.xyz:8080/58220335/15014071/46064
 #EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca 4K" tvg-logo="http://u.meulogin.net:80/images/b7cfd5590dd3bbd2549cf9aa8e1ae3bb.png" group-title="Canais 4K",Telecine Pipoca 4K
-http://cdn.erost.xyz:8080/33156246/83611094/46065
+http://cdn.erost.xyz:8080/58220335/15014071/46065
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium 4K" tvg-logo="http://u.meulogin.net:80/images/b45df2815747ba583672be0e407f5a07.png" group-title="Canais 4K",Telecine Premium 4K
-http://cdn.erost.xyz:8080/33156246/83611094/46066
+http://cdn.erost.xyz:8080/58220335/15014071/46066
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT 4K" tvg-logo="http://u.meulogin.net:80/images/5556d55688189f847c0ed29f98e7de26.png" group-title="Canais 4K",TNT 4K
-http://cdn.erost.xyz:8080/33156246/83611094/46067
+http://cdn.erost.xyz:8080/58220335/15014071/46067
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Series 4K" tvg-logo="http://u.meulogin.net:80/images/a347f34dbd0370084fcc2fe0b8132c56.png" group-title="Canais 4K",TNT Series 4K
-http://cdn.erost.xyz:8080/33156246/83611094/46068
+http://cdn.erost.xyz:8080/58220335/15014071/46068
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports 3 HD" tvg-logo="http://u.meulogin.net:80/images/ef909288e84d11669db9d54d6e9177ec.png" group-title="Esportes",TNT Sports 3 HD
-http://cdn.erost.xyz:8080/33156246/83611094/46703
+http://cdn.erost.xyz:8080/58220335/15014071/46703
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports 4 HD" tvg-logo="http://u.meulogin.net:80/images/ef909288e84d11669db9d54d6e9177ec.png" group-title="Esportes",TNT Sports 4 HD
-http://cdn.erost.xyz:8080/33156246/83611094/46704
+http://cdn.erost.xyz:8080/58220335/15014071/46704
 #EXTINF:-1 tvg-id="" tvg-name="Anime TV" tvg-logo="" group-title="Infantil",Anime TV
-http://cdn.erost.xyz:8080/33156246/83611094/47059
+http://cdn.erost.xyz:8080/58220335/15014071/47059
 #EXTINF:-1 tvg-id="" tvg-name="Gospel Cartoon" tvg-logo="" group-title="Infantil",Gospel Cartoon
-http://cdn.erost.xyz:8080/33156246/83611094/47060
+http://cdn.erost.xyz:8080/58220335/15014071/47060
 #EXTINF:-1 tvg-id="" tvg-name="SBT - TV Jornal (PE)" tvg-logo="" group-title="Canais Abertos",SBT - TV Jornal (PE)
-http://cdn.erost.xyz:8080/33156246/83611094/47061
+http://cdn.erost.xyz:8080/58220335/15014071/47061
 #EXTINF:-1 tvg-id="" tvg-name="TVE Bahia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/800px-TVE_Bahia_logo.svg.png" group-title="Canais Abertos",TVE Bahia
-http://cdn.erost.xyz:8080/33156246/83611094/47080
+http://cdn.erost.xyz:8080/58220335/15014071/47080
 #EXTINF:-1 tvg-id="" tvg-name="MyCujoo HD" tvg-logo="http://u.meulogin.net:80/images/f3ecb0a7545734d58ec83d480e488e66.png" group-title="Esportes",MyCujoo HD
-http://cdn.erost.xyz:8080/33156246/83611094/50188
+http://cdn.erost.xyz:8080/58220335/15014071/50188
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports 1 HD (alternativo)" tvg-logo="http://u.meulogin.net:80/images/ef909288e84d11669db9d54d6e9177ec.png" group-title="Esportes",TNT Sports 1 HD (alternativo)
-http://cdn.erost.xyz:8080/33156246/83611094/50456
+http://cdn.erost.xyz:8080/58220335/15014071/50456
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports 2 HD (Alternativo)" tvg-logo="http://u.meulogin.net:80/images/ef909288e84d11669db9d54d6e9177ec.png" group-title="Esportes",TNT Sports 2 HD (Alternativo)
-http://cdn.erost.xyz:8080/33156246/83611094/50457
+http://cdn.erost.xyz:8080/58220335/15014071/50457
 #EXTINF:-1 tvg-id="" tvg-name="Globo Piaui TV Clube FHD" tvg-logo="http://u.meulogin.net:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="Globo's",Globo Piaui TV Clube FHD
-http://cdn.erost.xyz:8080/33156246/83611094/50627
+http://cdn.erost.xyz:8080/58220335/15014071/50627
 #EXTINF:-1 tvg-id="" tvg-name="Globo TV Integração Juiz de Fora FHD" tvg-logo="http://u.meulogin.net:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="Globo's",Globo TV Integração Juiz de Fora FHD
-http://cdn.erost.xyz:8080/33156246/83611094/50638
+http://cdn.erost.xyz:8080/58220335/15014071/50638
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD²" tvg-logo="http://u.meulogin.net:80/images/98bb2910883b8ad5ac110131fd466ce3.png" group-title="Esportes",DAZN 1 HD²
-http://cdn.erost.xyz:8080/33156246/83611094/50639
+http://cdn.erost.xyz:8080/58220335/15014071/50639
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD³" tvg-logo="http://u.meulogin.net:80/images/98bb2910883b8ad5ac110131fd466ce3.png" group-title="Esportes",DAZN 1 HD³
-http://cdn.erost.xyz:8080/33156246/83611094/50640
+http://cdn.erost.xyz:8080/58220335/15014071/50640
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD²" tvg-logo="http://u.meulogin.net:80/images/98bb2910883b8ad5ac110131fd466ce3.png" group-title="Esportes",DAZN 2 HD²
-http://cdn.erost.xyz:8080/33156246/83611094/50641
+http://cdn.erost.xyz:8080/58220335/15014071/50641
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD³" tvg-logo="http://u.meulogin.net:80/images/98bb2910883b8ad5ac110131fd466ce3.png" group-title="Esportes",DAZN 2 HD³
-http://cdn.erost.xyz:8080/33156246/83611094/50642
+http://cdn.erost.xyz:8080/58220335/15014071/50642
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD²" tvg-logo="http://u.meulogin.net:80/images/98bb2910883b8ad5ac110131fd466ce3.png" group-title="Esportes",DAZN 3 HD²
-http://cdn.erost.xyz:8080/33156246/83611094/50643
+http://cdn.erost.xyz:8080/58220335/15014071/50643
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD²" tvg-logo="http://u.meulogin.net:80/images/98bb2910883b8ad5ac110131fd466ce3.png" group-title="Esportes",DAZN 4 HD²
-http://cdn.erost.xyz:8080/33156246/83611094/50644
+http://cdn.erost.xyz:8080/58220335/15014071/50644
 #EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 1 HD (Alternativo)" tvg-logo="http://u.meulogin.net:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="Esportes",Conmebol TV 1 HD (Alternativo)
-http://cdn.erost.xyz:8080/33156246/83611094/50645
+http://cdn.erost.xyz:8080/58220335/15014071/50645
 #EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 2 HD (Alternativo)" tvg-logo="http://u.meulogin.net:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="Esportes",Conmebol TV 2 HD (Alternativo)
-http://cdn.erost.xyz:8080/33156246/83611094/50646
+http://cdn.erost.xyz:8080/58220335/15014071/50646
 #EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 3 HD (Alternativo)" tvg-logo="http://u.meulogin.net:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="Esportes",Conmebol TV 3 HD (Alternativo)
-http://cdn.erost.xyz:8080/33156246/83611094/50647
+http://cdn.erost.xyz:8080/58220335/15014071/50647
 #EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 4 HD (Alternativo)" tvg-logo="http://u.meulogin.net:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="Esportes",Conmebol TV 4 HD (Alternativo)
-http://cdn.erost.xyz:8080/33156246/83611094/50648
+http://cdn.erost.xyz:8080/58220335/15014071/50648
 #EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 1 FHD²" tvg-logo="http://u.meulogin.net:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="Esportes",Conmebol TV 1 FHD²
-http://cdn.erost.xyz:8080/33156246/83611094/50649
+http://cdn.erost.xyz:8080/58220335/15014071/50649
 #EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 2 FHD¹" tvg-logo="http://u.meulogin.net:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="Esportes",Conmebol TV 2 FHD¹
-http://cdn.erost.xyz:8080/33156246/83611094/50650
+http://cdn.erost.xyz:8080/58220335/15014071/50650
 #EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 3 FHD¹" tvg-logo="http://u.meulogin.net:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="Esportes",Conmebol TV 3 FHD¹
-http://cdn.erost.xyz:8080/33156246/83611094/50651
+http://cdn.erost.xyz:8080/58220335/15014071/50651
 #EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 4 FHD¹" tvg-logo="http://u.meulogin.net:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="Esportes",Conmebol TV 4 FHD¹
-http://cdn.erost.xyz:8080/33156246/83611094/50652
+http://cdn.erost.xyz:8080/58220335/15014071/50652
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 HD³" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/95/Conmebol_Libertadores_logo.svg/768px-Conmebol_Libertadores_logo.svg.png" group-title="Esportes",CONMEBOL TV 1 HD³
-http://cdn.erost.xyz:8080/33156246/83611094/50700
+http://cdn.erost.xyz:8080/58220335/15014071/50700
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 HD³" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/95/Conmebol_Libertadores_logo.svg/768px-Conmebol_Libertadores_logo.svg.png" group-title="Esportes",CONMEBOL TV 2 HD³
-http://cdn.erost.xyz:8080/33156246/83611094/50701
+http://cdn.erost.xyz:8080/58220335/15014071/50701
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3 HD³" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/95/Conmebol_Libertadores_logo.svg/768px-Conmebol_Libertadores_logo.svg.png" group-title="Esportes",CONMEBOL TV 3 HD³
-http://cdn.erost.xyz:8080/33156246/83611094/50702
+http://cdn.erost.xyz:8080/58220335/15014071/50702
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4 HD³" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/95/Conmebol_Libertadores_logo.svg/768px-Conmebol_Libertadores_logo.svg.png" group-title="Esportes",CONMEBOL TV 4 HD³
-http://cdn.erost.xyz:8080/33156246/83611094/50703
-#EXTINF:-1 tvg-id="" tvg-name="Live: Liga Futsal 2 HD" tvg-logo="http://ux.minhatela.vip:80/images/3a5c28e88b658c263f75540d78cd5b2f.png" group-title="Esportes",Live: Liga Futsal 2 HD
-http://cdn.erost.xyz:8080/33156246/83611094/51063
-#EXTINF:-1 tvg-id="" tvg-name="Live: Liga Futsal 2 SD" tvg-logo="http://ux.minhatela.vip:80/images/3a5c28e88b658c263f75540d78cd5b2f.png" group-title="Esportes",Live: Liga Futsal 2 SD
-http://cdn.erost.xyz:8080/33156246/83611094/51064
-#EXTINF:-1 tvg-id="" tvg-name="Live: Liga Futsal 1 HD" tvg-logo="http://ux.minhatela.vip:80/images/3a5c28e88b658c263f75540d78cd5b2f.png" group-title="Esportes",Live: Liga Futsal 1 HD
-http://cdn.erost.xyz:8080/33156246/83611094/51065
-#EXTINF:-1 tvg-id="" tvg-name="Live: Liga Futsal 1 SD" tvg-logo="http://ux.minhatela.vip:80/images/3a5c28e88b658c263f75540d78cd5b2f.png" group-title="Esportes",Live: Liga Futsal 1 SD
-http://cdn.erost.xyz:8080/33156246/83611094/51066
-#EXTINF:-1 tvg-id="RecordTV Brasília" tvg-name="RECORD DF SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="Canais Abertos",RECORD DF SD
-http://cdn.erost.xyz:8080/33156246/83611094/51071
-#EXTINF:-1 tvg-id="" tvg-name=""CATEGORIA NOTICIAS"" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.N77EAKedXCBHHD1mRKfrlgHaE7&pid=Api&P=0&w=260&h=174" group-title="CANAIS PORTUGAL","CATEGORIA NOTICIAS"
-http://cdn.erost.xyz:8080/33156246/83611094/51145
-#EXTINF:-1 tvg-id="" tvg-name="XxX Adulto Brazil" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX Adulto Brazil
-http://cdn.erost.xyz:8080/33156246/83611094/42709
-#EXTINF:-1 tvg-id="" tvg-name="XxX Adulto Brazilian" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX Adulto Brazilian
-http://cdn.erost.xyz:8080/33156246/83611094/42710
-#EXTINF:-1 tvg-id="" tvg-name="XxX Adulto Chicks" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX Adulto Chicks
-http://cdn.erost.xyz:8080/33156246/83611094/42711
-#EXTINF:-1 tvg-id="" tvg-name="XxX Adulto Gay" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX Adulto Gay
-http://cdn.erost.xyz:8080/33156246/83611094/42712
-#EXTINF:-1 tvg-id="" tvg-name="XxX Adulto Mais" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX Adulto Mais
-http://cdn.erost.xyz:8080/33156246/83611094/42713
-#EXTINF:-1 tvg-id="" tvg-name="XxX Adulto Movies" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX Adulto Movies
-http://cdn.erost.xyz:8080/33156246/83611094/42714
-#EXTINF:-1 tvg-id="" tvg-name="XxX Adulto Other" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX Adulto Other
-http://cdn.erost.xyz:8080/33156246/83611094/42715
-#EXTINF:-1 tvg-id="" tvg-name="XxX Adulto Paradise" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX Adulto Paradise
-http://cdn.erost.xyz:8080/33156246/83611094/42716
-#EXTINF:-1 tvg-id="" tvg-name="XxX Adulto Trans" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX Adulto Trans
-http://cdn.erost.xyz:8080/33156246/83611094/42717
-#EXTINF:-1 tvg-id="" tvg-name="XxX Anal" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX Anal
-http://cdn.erost.xyz:8080/33156246/83611094/42718
-#EXTINF:-1 tvg-id="" tvg-name="XxX Big Ass" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX Big Ass
-http://cdn.erost.xyz:8080/33156246/83611094/42719
-#EXTINF:-1 tvg-id="" tvg-name="XxX Big Dick" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX Big Dick
-http://cdn.erost.xyz:8080/33156246/83611094/42720
-#EXTINF:-1 tvg-id="" tvg-name="XxX Big Tits" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX Big Tits
-http://cdn.erost.xyz:8080/33156246/83611094/42721
-#EXTINF:-1 tvg-id="" tvg-name="XxX Blonde" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX Blonde
-http://cdn.erost.xyz:8080/33156246/83611094/42722
-#EXTINF:-1 tvg-id="" tvg-name="XxX Blowjob" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX Blowjob
-http://cdn.erost.xyz:8080/33156246/83611094/42723
-#EXTINF:-1 tvg-id="" tvg-name="XxX BRAZZERS SD" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX BRAZZERS SD
-http://cdn.erost.xyz:8080/33156246/83611094/42724
-#EXTINF:-1 tvg-id="" tvg-name="XxX Brunette" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX Brunette
-http://cdn.erost.xyz:8080/33156246/83611094/42725
-#EXTINF:-1 tvg-id="" tvg-name="XxX Compilation" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX Compilation
-http://cdn.erost.xyz:8080/33156246/83611094/42726
-#EXTINF:-1 tvg-id="" tvg-name="XxX Cuckold" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX Cuckold
-http://cdn.erost.xyz:8080/33156246/83611094/42727
-#EXTINF:-1 tvg-id="" tvg-name="XxX DORCEL TV FHD" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX DORCEL TV FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42728
-#EXTINF:-1 tvg-id="" tvg-name="XxX Fetish" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX Fetish
-http://cdn.erost.xyz:8080/33156246/83611094/42730
-#EXTINF:-1 tvg-id="" tvg-name="XxX FTV Midnight Secrets FHD" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX FTV Midnight Secrets FHD
-http://cdn.erost.xyz:8080/33156246/83611094/42731
-#EXTINF:-1 tvg-id="" tvg-name="XxX Gangbang" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX Gangbang
-http://cdn.erost.xyz:8080/33156246/83611094/42732
-#EXTINF:-1 tvg-id="" tvg-name="XxX Gay" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX Gay
-http://cdn.erost.xyz:8080/33156246/83611094/42733
-#EXTINF:-1 tvg-id="" tvg-name="XxX Hardcore" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX Hardcore
-http://cdn.erost.xyz:8080/33156246/83611094/42734
-#EXTINF:-1 tvg-id="" tvg-name="XxX HORROR PORN" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX HORROR PORN
-http://cdn.erost.xyz:8080/33156246/83611094/42735
-#EXTINF:-1 tvg-id="" tvg-name="XxX Interracial" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX Interracial
-http://cdn.erost.xyz:8080/33156246/83611094/42736
-#EXTINF:-1 tvg-id="" tvg-name="XxX Jasmin TV HD" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX Jasmin TV HD
-http://cdn.erost.xyz:8080/33156246/83611094/42737
-#EXTINF:-1 tvg-id="" tvg-name="XxX Jasmin TV SD" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX Jasmin TV SD
-http://cdn.erost.xyz:8080/33156246/83611094/42738
-#EXTINF:-1 tvg-id="" tvg-name="XxX Latina" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX Latina
-http://cdn.erost.xyz:8080/33156246/83611094/42739
-#EXTINF:-1 tvg-id="" tvg-name="XxX Lesbian" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX Lesbian
-http://cdn.erost.xyz:8080/33156246/83611094/42740
-#EXTINF:-1 tvg-id="" tvg-name="XxX Livecams" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX Livecams
-http://cdn.erost.xyz:8080/33156246/83611094/42741
-#EXTINF:-1 tvg-id="" tvg-name="XxX Miami TV Latino" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX Miami TV Latino
-http://cdn.erost.xyz:8080/33156246/83611094/42742
-#EXTINF:-1 tvg-id="" tvg-name="XxX Miami TV Live" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX Miami TV Live
-http://cdn.erost.xyz:8080/33156246/83611094/42743
-#EXTINF:-1 tvg-id="" tvg-name="XxX Miami TV" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX Miami TV
-http://cdn.erost.xyz:8080/33156246/83611094/42744
-#EXTINF:-1 tvg-id="" tvg-name="XxX MILF" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX MILF
-http://cdn.erost.xyz:8080/33156246/83611094/42745
-#EXTINF:-1 tvg-id="" tvg-name="XxX PENTHOUSE BLACK HD" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX PENTHOUSE BLACK HD
-http://cdn.erost.xyz:8080/33156246/83611094/42747
-#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="XxX PLAYBOY TV HD" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX PLAYBOY TV HD
-http://cdn.erost.xyz:8080/33156246/83611094/42748
-#EXTINF:-1 tvg-id="" tvg-name="XxX Pornstar" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX Pornstar
-http://cdn.erost.xyz:8080/33156246/83611094/42749
-#EXTINF:-1 tvg-id="" tvg-name="XxX POV" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX POV
-http://cdn.erost.xyz:8080/33156246/83611094/42750
-#EXTINF:-1 tvg-id="" tvg-name="XxX Rough" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX Rough
-http://cdn.erost.xyz:8080/33156246/83611094/42752
-#EXTINF:-1 tvg-id="" tvg-name="XxX Russian" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX Russian
-http://cdn.erost.xyz:8080/33156246/83611094/42753
-#EXTINF:-1 tvg-id="" tvg-name="XxX Sex Treme HD" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX Sex Treme HD
-http://cdn.erost.xyz:8080/33156246/83611094/42754
-#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="XxX Sexy Hot SD" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX Sexy Hot SD
-http://cdn.erost.xyz:8080/33156246/83611094/42755
-#EXTINF:-1 tvg-id="" tvg-name="XxX Teen" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX Teen
-http://cdn.erost.xyz:8080/33156246/83611094/42758
-#EXTINF:-1 tvg-id="" tvg-name="XxX Threesome" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX Threesome
-http://cdn.erost.xyz:8080/33156246/83611094/42759
-#EXTINF:-1 tvg-id="Venus.br" tvg-name="XxX VENUS HD" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX VENUS HD
-http://cdn.erost.xyz:8080/33156246/83611094/42760
-#EXTINF:-1 tvg-id="Venus.br" tvg-name="XxX Venus SD" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX Venus SD
-http://cdn.erost.xyz:8080/33156246/83611094/42761
-#EXTINF:-1 tvg-id="" tvg-name="XxX Visit-X TV HD¹" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX Visit-X TV HD¹
-http://cdn.erost.xyz:8080/33156246/83611094/42762
-#EXTINF:-1 tvg-id="" tvg-name="XxX Visit-X TV  HD²" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XxX Visit-X TV  HD²
-http://cdn.erost.xyz:8080/33156246/83611094/42763
-#EXTINF:-1 tvg-id="" tvg-name="Hustler HD" tvg-logo="" group-title="Adultos",Hustler HD
-http://cdn.erost.xyz:8080/33156246/83611094/42779
-#EXTINF:-1 tvg-id="" tvg-name="XXX Adulto  70" tvg-logo="" group-title="Adultos",XXX Adulto  70
-http://cdn.erost.xyz:8080/33156246/83611094/42784
-#EXTINF:-1 tvg-id="" tvg-name="XXX Adulto  67" tvg-logo="" group-title="Adultos",XXX Adulto  67
-http://cdn.erost.xyz:8080/33156246/83611094/42787
-#EXTINF:-1 tvg-id="" tvg-name="XXX Adulto  66" tvg-logo="" group-title="Adultos",XXX Adulto  66
-http://cdn.erost.xyz:8080/33156246/83611094/42788
-#EXTINF:-1 tvg-id="" tvg-name="XXX Adulto  64" tvg-logo="" group-title="Adultos",XXX Adulto  64
-http://cdn.erost.xyz:8080/33156246/83611094/42789
-#EXTINF:-1 tvg-id="" tvg-name="XXX Adulto  62" tvg-logo="" group-title="Adultos",XXX Adulto  62
-http://cdn.erost.xyz:8080/33156246/83611094/42790
-#EXTINF:-1 tvg-id="" tvg-name="XXX Adulto  58" tvg-logo="" group-title="Adultos",XXX Adulto  58
-http://cdn.erost.xyz:8080/33156246/83611094/42794
-#EXTINF:-1 tvg-id="" tvg-name="XXX Adulto  63" tvg-logo="" group-title="Adultos",XXX Adulto  63
-http://cdn.erost.xyz:8080/33156246/83611094/42795
-#EXTINF:-1 tvg-id="" tvg-name="XXX Adulto  65" tvg-logo="" group-title="Adultos",XXX Adulto  65
-http://cdn.erost.xyz:8080/33156246/83611094/42796
-#EXTINF:-1 tvg-id="" tvg-name="XXX Adulto  57" tvg-logo="" group-title="Adultos",XXX Adulto  57
-http://cdn.erost.xyz:8080/33156246/83611094/42797
-#EXTINF:-1 tvg-id="" tvg-name="XXX Adulto  56" tvg-logo="" group-title="Adultos",XXX Adulto  56
-http://cdn.erost.xyz:8080/33156246/83611094/42798
-#EXTINF:-1 tvg-id="" tvg-name="XXX Adulto  55" tvg-logo="" group-title="Adultos",XXX Adulto  55
-http://cdn.erost.xyz:8080/33156246/83611094/42799
-#EXTINF:-1 tvg-id="" tvg-name="XXX Adulto  54" tvg-logo="" group-title="Adultos",XXX Adulto  54
-http://cdn.erost.xyz:8080/33156246/83611094/42800
-#EXTINF:-1 tvg-id="" tvg-name="XXX Adulto  52" tvg-logo="" group-title="Adultos",XXX Adulto  52
-http://cdn.erost.xyz:8080/33156246/83611094/42801
-#EXTINF:-1 tvg-id="" tvg-name="XXX Adulto  51" tvg-logo="" group-title="Adultos",XXX Adulto  51
-http://cdn.erost.xyz:8080/33156246/83611094/42802
-#EXTINF:-1 tvg-id="" tvg-name="XXX Adulto  53" tvg-logo="" group-title="Adultos",XXX Adulto  53
-http://cdn.erost.xyz:8080/33156246/83611094/42803
-#EXTINF:-1 tvg-id="" tvg-name="XXX Adulto 525" tvg-logo="" group-title="Adultos",XXX Adulto 525
-http://cdn.erost.xyz:8080/33156246/83611094/42804
-#EXTINF:-1 tvg-id="" tvg-name="XXX Adulto 519" tvg-logo="" group-title="Adultos",XXX Adulto 519
-http://cdn.erost.xyz:8080/33156246/83611094/42805
-#EXTINF:-1 tvg-id="" tvg-name="XXX Adulto 630" tvg-logo="" group-title="Adultos",XXX Adulto 630
-http://cdn.erost.xyz:8080/33156246/83611094/42837
-#EXTINF:-1 tvg-id="" tvg-name="XXX Adulto 631" tvg-logo="" group-title="Adultos",XXX Adulto 631
-http://cdn.erost.xyz:8080/33156246/83611094/42838
-#EXTINF:-1 tvg-id="" tvg-name="XXX Adulto 636" tvg-logo="" group-title="Adultos",XXX Adulto 636
-http://cdn.erost.xyz:8080/33156246/83611094/42843
-#EXTINF:-1 tvg-id="" tvg-name="BR: XXX 18+ 1" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="Adultos",BR: XXX 18+ 1
-http://cdn.erost.xyz:8080/33156246/83611094/54736
-#EXTINF:-1 tvg-id="" tvg-name="BR: XXX 18+ 2" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="Adultos",BR: XXX 18+ 2
-http://cdn.erost.xyz:8080/33156246/83611094/54737
-#EXTINF:-1 tvg-id="" tvg-name="BR: XXX 18+ 3" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="Adultos",BR: XXX 18+ 3
-http://cdn.erost.xyz:8080/33156246/83611094/54738
-#EXTINF:-1 tvg-id="" tvg-name="BR: XXX 18+ 4" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="Adultos",BR: XXX 18+ 4
-http://cdn.erost.xyz:8080/33156246/83611094/54739
-#EXTINF:-1 tvg-id="" tvg-name="BR: XXX 18+ 5" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="Adultos",BR: XXX 18+ 5
-http://cdn.erost.xyz:8080/33156246/83611094/54740
-#EXTINF:-1 tvg-id="" tvg-name="BR: XXX 18+ 6" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="Adultos",BR: XXX 18+ 6
-http://cdn.erost.xyz:8080/33156246/83611094/54741
-#EXTINF:-1 tvg-id="" tvg-name="BR: XXX 18+ 7" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="Adultos",BR: XXX 18+ 7
-http://cdn.erost.xyz:8080/33156246/83611094/54742
-#EXTINF:-1 tvg-id="" tvg-name="BR: XXX 18+ 8" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="Adultos",BR: XXX 18+ 8
-http://cdn.erost.xyz:8080/33156246/83611094/54743
-#EXTINF:-1 tvg-id="" tvg-name="BR: XXX 18+ 9" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="Adultos",BR: XXX 18+ 9
-http://cdn.erost.xyz:8080/33156246/83611094/54744
-#EXTINF:-1 tvg-id="" tvg-name="BR: XXX 18+ 10" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="Adultos",BR: XXX 18+ 10
-http://cdn.erost.xyz:8080/33156246/83611094/54745
-#EXTINF:-1 tvg-id="" tvg-name="BR: XXX 18+ 11" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="Adultos",BR: XXX 18+ 11
-http://cdn.erost.xyz:8080/33156246/83611094/54746
-#EXTINF:-1 tvg-id="" tvg-name="BR: XXX 18+ 12" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="Adultos",BR: XXX 18+ 12
-http://cdn.erost.xyz:8080/33156246/83611094/54747
-#EXTINF:-1 tvg-id="" tvg-name="BR: XXX 18+ 13" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="Adultos",BR: XXX 18+ 13
-http://cdn.erost.xyz:8080/33156246/83611094/54748
-#EXTINF:-1 tvg-id="" tvg-name="BR: XXX 18+ 14" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="Adultos",BR: XXX 18+ 14
-http://cdn.erost.xyz:8080/33156246/83611094/54749
-#EXTINF:-1 tvg-id="" tvg-name="BR: XXX 18+ 15" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="Adultos",BR: XXX 18+ 15
-http://cdn.erost.xyz:8080/33156246/83611094/54750
-#EXTINF:-1 tvg-id="" tvg-name="BR: XXX 18+ 16" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="Adultos",BR: XXX 18+ 16
-http://cdn.erost.xyz:8080/33156246/83611094/54751
-#EXTINF:-1 tvg-id="" tvg-name="BR: XXX 18+ 17" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="Adultos",BR: XXX 18+ 17
-http://cdn.erost.xyz:8080/33156246/83611094/54752
-#EXTINF:-1 tvg-id="" tvg-name="BR: XXX 18+ 19" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="Adultos",BR: XXX 18+ 19
-http://cdn.erost.xyz:8080/33156246/83611094/54754
-#EXTINF:-1 tvg-id="" tvg-name="BR: XXX 18+ 20" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="Adultos",BR: XXX 18+ 20
-http://cdn.erost.xyz:8080/33156246/83611094/54755
-#EXTINF:-1 tvg-id="" tvg-name="BR: XXX 18+ 21" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="Adultos",BR: XXX 18+ 21
-http://cdn.erost.xyz:8080/33156246/83611094/54756
-#EXTINF:-1 tvg-id="" tvg-name="BR: XXX 18+ 22" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="Adultos",BR: XXX 18+ 22
-http://cdn.erost.xyz:8080/33156246/83611094/54757
-#EXTINF:-1 tvg-id="" tvg-name="BR: XXX 18+ 23" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="Adultos",BR: XXX 18+ 23
-http://cdn.erost.xyz:8080/33156246/83611094/54758
-#EXTINF:-1 tvg-id="" tvg-name="BR: XXX 18+ 24" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="Adultos",BR: XXX 18+ 24
-http://cdn.erost.xyz:8080/33156246/83611094/54759
-#EXTINF:-1 tvg-id="" tvg-name="BR: XXX 18+ 25" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="Adultos",BR: XXX 18+ 25
-http://cdn.erost.xyz:8080/33156246/83611094/54760
-#EXTINF:-1 tvg-id="" tvg-name="BR: XXX 18+ 26" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="Adultos",BR: XXX 18+ 26
-http://cdn.erost.xyz:8080/33156246/83611094/54761
-#EXTINF:-1 tvg-id="" tvg-name="BR: XXX 18+ 27" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="Adultos",BR: XXX 18+ 27
-http://cdn.erost.xyz:8080/33156246/83611094/54762
-#EXTINF:-1 tvg-id="" tvg-name="BR: XXX 18+ 28" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="Adultos",BR: XXX 18+ 28
-http://cdn.erost.xyz:8080/33156246/83611094/54763
-#EXTINF:-1 tvg-id="" tvg-name="BR: XXX 18+ 29" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="Adultos",BR: XXX 18+ 29
-http://cdn.erost.xyz:8080/33156246/83611094/54764
-#EXTINF:-1 tvg-id="" tvg-name="BR: XXX 18+ 30" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="Adultos",BR: XXX 18+ 30
-http://cdn.erost.xyz:8080/33156246/83611094/54765
-#EXTINF:-1 tvg-id="" tvg-name="BR: XXX 18+ 31" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="Adultos",BR: XXX 18+ 31
-http://cdn.erost.xyz:8080/33156246/83611094/54766
-#EXTINF:-1 tvg-id="" tvg-name="BR: XXX 18+ 32" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="Adultos",BR: XXX 18+ 32
-http://cdn.erost.xyz:8080/33156246/83611094/54767
-#EXTINF:-1 tvg-id="" tvg-name="BR: XXX 18+ 33" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="Adultos",BR: XXX 18+ 33
-http://cdn.erost.xyz:8080/33156246/83611094/54768
-#EXTINF:-1 tvg-id="" tvg-name="BR: XXX 18+ 34" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="Adultos",BR: XXX 18+ 34
-http://cdn.erost.xyz:8080/33156246/83611094/54769
-#EXTINF:-1 tvg-id="" tvg-name="BR: XXX 18+ 35" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="Adultos",BR: XXX 18+ 35
-http://cdn.erost.xyz:8080/33156246/83611094/54770
-#EXTINF:-1 tvg-id="" tvg-name="BR: XXX 18+ 36" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="Adultos",BR: XXX 18+ 36
-http://cdn.erost.xyz:8080/33156246/83611094/54771
-#EXTINF:-1 tvg-id="" tvg-name="BR: XXX 18+ 37" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="Adultos",BR: XXX 18+ 37
-http://cdn.erost.xyz:8080/33156246/83611094/54772
-#EXTINF:-1 tvg-id="" tvg-name="BR: XXX 18+ 38" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="Adultos",BR: XXX 18+ 38
-http://cdn.erost.xyz:8080/33156246/83611094/54773
-#EXTINF:-1 tvg-id="" tvg-name="BR: XXX 18+ 39" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="Adultos",BR: XXX 18+ 39
-http://cdn.erost.xyz:8080/33156246/83611094/54774
-#EXTINF:-1 tvg-id="" tvg-name="BR: XXX 18+ 40" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="Adultos",BR: XXX 18+ 40
-http://cdn.erost.xyz:8080/33156246/83611094/54775
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX 1" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: Alba XXX 1
-http://cdn.erost.xyz:8080/33156246/83611094/56171
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX 2" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: Alba XXX 2
-http://cdn.erost.xyz:8080/33156246/83611094/56172
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX 4" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: Alba XXX 4
-http://cdn.erost.xyz:8080/33156246/83611094/56173
-#EXTINF:-1 tvg-id="" tvg-name="XXX: AST TV" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: AST TV
-http://cdn.erost.xyz:8080/33156246/83611094/56174
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BLUE HUSTLER" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: BLUE HUSTLER
-http://cdn.erost.xyz:8080/33156246/83611094/56175
-#EXTINF:-1 tvg-id="" tvg-name="XXX: DUSK!" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: DUSK!
-http://cdn.erost.xyz:8080/33156246/83611094/56176
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ERO X HD" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: ERO X HD
-http://cdn.erost.xyz:8080/33156246/83611094/56177
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EROTIC 1" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: EROTIC 1
-http://cdn.erost.xyz:8080/33156246/83611094/56178
-#EXTINF:-1 tvg-id="" tvg-name="XXX: erotic 3" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: erotic 3
-http://cdn.erost.xyz:8080/33156246/83611094/56179
-#EXTINF:-1 tvg-id="" tvg-name="XXX: erotic 4" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: erotic 4
-http://cdn.erost.xyz:8080/33156246/83611094/56180
-#EXTINF:-1 tvg-id="" tvg-name="XXX: FOLLANDO" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: FOLLANDO
-http://cdn.erost.xyz:8080/33156246/83611094/56181
-#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: HOT
-http://cdn.erost.xyz:8080/33156246/83611094/56182
-#EXTINF:-1 tvg-id="" tvg-name="XXX: HUSTLER HD" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: HUSTLER HD
-http://cdn.erost.xyz:8080/33156246/83611094/56183
-#EXTINF:-1 tvg-id="" tvg-name="XXX: JASMIN.TV" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: JASMIN.TV
-http://cdn.erost.xyz:8080/33156246/83611094/56184
-#EXTINF:-1 tvg-id="" tvg-name="XXX: MIAMI TV" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: MIAMI TV
-http://cdn.erost.xyz:8080/33156246/83611094/56185
-#EXTINF:-1 tvg-id="" tvg-name="XXX: NUART TV" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: NUART TV
-http://cdn.erost.xyz:8080/33156246/83611094/56186
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PENTHOUSE QUICKIES" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: PENTHOUSE QUICKIES
-http://cdn.erost.xyz:8080/33156246/83611094/56187
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PINKOCLUB" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: PINKOCLUB
-http://cdn.erost.xyz:8080/33156246/83611094/56188
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYBOY EUROPE" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: PLAYBOY EUROPE
-http://cdn.erost.xyz:8080/33156246/83611094/56189
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PRIVATE" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: PRIVATE
-http://cdn.erost.xyz:8080/33156246/83611094/56190
-#EXTINF:-1 tvg-id="" tvg-name="XXX: REDLIGHT FHD" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: REDLIGHT FHD
-http://cdn.erost.xyz:8080/33156246/83611094/56191
-#EXTINF:-1 tvg-id="" tvg-name="XXX: RedTraffic Big Tits" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: RedTraffic Big Tits
-http://cdn.erost.xyz:8080/33156246/83611094/56192
-#EXTINF:-1 tvg-id="" tvg-name="XXX: RedTraffic Fetish" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: RedTraffic Fetish
-http://cdn.erost.xyz:8080/33156246/83611094/56193
-#EXTINF:-1 tvg-id="" tvg-name="XXX: RedTraffic Interracial" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: RedTraffic Interracial
-http://cdn.erost.xyz:8080/33156246/83611094/56194
-#EXTINF:-1 tvg-id="" tvg-name="XXX: RedTraffic Latina" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: RedTraffic Latina
-http://cdn.erost.xyz:8080/33156246/83611094/56195
-#EXTINF:-1 tvg-id="" tvg-name="XXX: RedTraffic MILF" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: RedTraffic MILF
-http://cdn.erost.xyz:8080/33156246/83611094/56196
-#EXTINF:-1 tvg-id="" tvg-name="XXX: RedTraffic Pornstar" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: RedTraffic Pornstar
-http://cdn.erost.xyz:8080/33156246/83611094/56197
-#EXTINF:-1 tvg-id="" tvg-name="XXX: RedTraffic Teen" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: RedTraffic Teen
-http://cdn.erost.xyz:8080/33156246/83611094/56198
-#EXTINF:-1 tvg-id="" tvg-name="XXX: El viejo" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: El viejo
-http://cdn.erost.xyz:8080/33156246/83611094/56199
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Visit-X TV" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: Visit-X TV
-http://cdn.erost.xyz:8080/33156246/83611094/56200
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XY MIX" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: XY MIX
-http://cdn.erost.xyz:8080/33156246/83611094/56201
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ASIÁTICAS*" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: ASIÁTICAS*
-http://cdn.erost.xyz:8080/33156246/83611094/56202
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BACKROOM CASTING COUCH*" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: BACKROOM CASTING COUCH*
-http://cdn.erost.xyz:8080/33156246/83611094/56203
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BIG WOMAN*" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: BIG WOMAN*
-http://cdn.erost.xyz:8080/33156246/83611094/56204
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BANGBROS*" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: BANGBROS*
-http://cdn.erost.xyz:8080/33156246/83611094/56205
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BLACKED*" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: BLACKED*
-http://cdn.erost.xyz:8080/33156246/83611094/56206
-#EXTINF:-1 tvg-id="" tvg-name="XXX: CASTING COUCH X*" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: CASTING COUCH X*
-http://cdn.erost.xyz:8080/33156246/83611094/56207
-#EXTINF:-1 tvg-id="" tvg-name="XXX: DWARFS*" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: DWARFS*
-http://cdn.erost.xyz:8080/33156246/83611094/56208
-#EXTINF:-1 tvg-id="" tvg-name="XXX: DIVERCIDADE*" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: DIVERCIDADE*
-http://cdn.erost.xyz:8080/33156246/83611094/56209
-#EXTINF:-1 tvg-id="" tvg-name="XXX: DIVERCIDADE 2*" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: DIVERCIDADE 2*
-http://cdn.erost.xyz:8080/33156246/83611094/56210
-#EXTINF:-1 tvg-id="" tvg-name="XXX: DOMINADORAS*" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: DOMINADORAS*
-http://cdn.erost.xyz:8080/33156246/83611094/56211
-#EXTINF:-1 tvg-id="" tvg-name="XXX: DOMINADORAS 2*" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: DOMINADORAS 2*
-http://cdn.erost.xyz:8080/33156246/83611094/56212
-#EXTINF:-1 tvg-id="" tvg-name="XXX: FIT18*" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: FIT18*
-http://cdn.erost.xyz:8080/33156246/83611094/56213
-#EXTINF:-1 tvg-id="" tvg-name="XXX: FAKE TAXI*" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: FAKE TAXI*
-http://cdn.erost.xyz:8080/33156246/83611094/56214
-#EXTINF:-1 tvg-id="" tvg-name="XXX: FAKE HOSTEL*" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: FAKE HOSTEL*
-http://cdn.erost.xyz:8080/33156246/83611094/56215
-#EXTINF:-1 tvg-id="" tvg-name="XXX: FAKE VAN*" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: FAKE VAN*
-http://cdn.erost.xyz:8080/33156246/83611094/56216
-#EXTINF:-1 tvg-id="" tvg-name="XXX: MY18TEENS*" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: MY18TEENS*
-http://cdn.erost.xyz:8080/33156246/83611094/56217
-#EXTINF:-1 tvg-id="" tvg-name="XXX: HALF SISTER*" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: HALF SISTER*
-http://cdn.erost.xyz:8080/33156246/83611094/56218
-#EXTINF:-1 tvg-id="" tvg-name="XXX: HORROR PORN*" tvg-logo="http://masterfull.ga:80/images/3bd48e5c73b3b4b49045aea477cfe4f8.jpg" group-title="Adultos",XXX: HORROR PORN*
-http://cdn.erost.xyz:8080/33156246/83611094/56219
-#EXTINF:-1 tvg-id="" tvg-name="XXX: NEW SENSATIONS*" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: NEW SENSATIONS*
-http://cdn.erost.xyz:8080/33156246/83611094/56220
-#EXTINF:-1 tvg-id="" tvg-name="XXX: THIN WOMAN*" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: THIN WOMAN*
-http://cdn.erost.xyz:8080/33156246/83611094/56221
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ROLHA GRANDE*" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: ROLHA GRANDE*
-http://cdn.erost.xyz:8080/33156246/83611094/56222
-#EXTINF:-1 tvg-id="" tvg-name="XXX: LUCY RAVENBOOD*" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: LUCY RAVENBOOD*
-http://cdn.erost.xyz:8080/33156246/83611094/56223
-#EXTINF:-1 tvg-id="" tvg-name="XXX: OSAKAPOR*" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: OSAKAPOR*
-http://cdn.erost.xyz:8080/33156246/83611094/56224
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ORGIES*" tvg-logo="http://masterfull.ga:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="Adultos",XXX: ORGIES*
-http://cdn.erost.xyz:8080/33156246/83611094/56225
-#EXTINF:-1 tvg-id="" tvg-name="Hot gold (exclusivo)" tvg-logo="http://masterfull.ga:80/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="Adultos",Hot gold (exclusivo)
-http://cdn.erost.xyz:8080/33156246/83611094/56226
-#EXTINF:-1 tvg-id="" tvg-name="XXX ANAL Exclusivo" tvg-logo="https://tse3.explicit.bing.net/th?id=OIP.Ps85EpG7aShTTIvAec1JQQAAAA&pid=Api&P=0&w=300&h=300" group-title="Adultos",XXX ANAL Exclusivo
-http://cdn.erost.xyz:8080/33156246/83611094/56227
-#EXTINF:-1 tvg-id="" tvg-name="XXX Renascer exclusivo" tvg-logo="http://masterfull.ga:80/images/24a8f0ee68b3a55044bde629a475da30.png" group-title="Adultos",XXX Renascer exclusivo
-http://cdn.erost.xyz:8080/33156246/83611094/56228
-#EXTINF:-1 tvg-id="" tvg-name="XXX BD EXCLUSIVO" tvg-logo="https://tse3.explicit.bing.net/th?id=OIP.vZ-XqSHdVRf3gyRsg5ZflgHaHk&pid=Api&P=0&w=300&h=300" group-title="Adultos",XXX BD EXCLUSIVO
-http://cdn.erost.xyz:8080/33156246/83611094/56229
-#EXTINF:-1 tvg-id="" tvg-name="XXX Esclusivo lesbica" tvg-logo="http://masterfull.ga:80/images/4281f61ad95b575afd0c7e6f205e17a6.jpeg" group-title="Adultos",XXX Esclusivo lesbica
-http://cdn.erost.xyz:8080/33156246/83611094/56230
-#EXTINF:-1 tvg-id="" tvg-name="XXX Exclusivo Bissexual" tvg-logo="http://masterfull.ga:80/images/71586ac3ac9a1e394a54928f8d28ac00.png" group-title="Adultos",XXX Exclusivo Bissexual
-http://cdn.erost.xyz:8080/33156246/83611094/56231
-#EXTINF:-1 tvg-id="" tvg-name="XXX: TRANSSEXUAL*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/For_Man_logo.png/1024px-For_Man_logo.png" group-title="Adultos",XXX: TRANSSEXUAL*
-http://cdn.erost.xyz:8080/33156246/83611094/56232
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Adulto Gay br" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.dqPyFqixrT09bUzJe0YS4gHaHa&pid=Api&P=0&w=300&h=300" group-title="Adultos",XXX: Adulto Gay br
-http://cdn.erost.xyz:8080/33156246/83611094/56233
-#EXTINF:-1 tvg-id="" tvg-name="XXX Exclusivo Gay*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/For_Man_logo.png/1024px-For_Man_logo.png" group-title="Adultos",XXX Exclusivo Gay*
-http://cdn.erost.xyz:8080/33156246/83611094/56234
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EXCLUSIVO GAY 2*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/For_Man_logo.png/1024px-For_Man_logo.png" group-title="Adultos",XXX: EXCLUSIVO GAY 2*
-http://cdn.erost.xyz:8080/33156246/83611094/56235
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EXCLUSIVO GAY 3*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/For_Man_logo.png/1024px-For_Man_logo.png" group-title="Adultos",XXX: EXCLUSIVO GAY 3*
-http://cdn.erost.xyz:8080/33156246/83611094/56236
+http://cdn.erost.xyz:8080/58220335/15014071/50703
